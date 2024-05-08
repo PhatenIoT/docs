@@ -161,42 +161,43 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 解决方案:
-
     # - 麦克风阵列:
     #   - solutions/mic_array_solution/index.md
     #   - XU316 7MIC无感本地扩音方案: solutions/mic_array_solution/phaten_xu316-la_7mic_solution.md
     # - USB HiFi声卡:
     #   - solutions/hifi_audio/index.md
     #   - XU316 USB多路高清音频解码器方案: solutions/hifi_audio/phaten_xu316_hifi_audio_solution.md
-    - W5B03A-1720DFV1模组: 
-      - solutions\8720df\index.md
-      - 汽车VR眼镜-防眩晕: solutions/8720df/vr_glasses_solution.md
-    - W5B03A-1720CFV1模组:
-
-      - 基于RTL8720CF的透传解决方案: solutions/8720cf/rtl8720cf_solution.md
+    #- W5B03A-1720DFV1模组: 
+      # - solutions\8720df\index.md
+    - 汽车VR眼镜-防眩晕方案: solutions/8720df/vr_glasses_solution.md
+    #- W5B03A-1720CFV1模组:
+    - 基于RTL8720CF的透传方案: solutions/8720cf/rtl8720cf_solution.md
     - Matter应用方案: 
       - solutions/matter/index.md
-      - ESP32C2（8684）系列: solutions/matter/esp32c2/esp32c2_solution.md
-    - tasmota方案-计量插座:
+      # - ESP32C2（8684）系列: solutions/matter/esp32c2/esp32c2_solution.md
+    - Tasmota计量插座方案:
       - solutions/tasmota/index.md
     
   # - XMOS USB 高清降噪麦克风系列方案: try-leverage/leverage-project-setup.md
   - 产品中心:
     - products/index.md
-    - 麦克风阵列:
+    - 例子最后请删除--麦克风阵列:
         - FTXU316-LA-7MIC-V1:
           - products/array_mic/ftxu316_la_7mic_v1_pcba/index.md
     # - USB HiFi声卡:
     #     - A316_1926V1 USB多路音频解码器模组: 
     #       - products/hifi_audio/a316_1926v1/index.md
+    - W5B03A-1720DFV1模组: 
+      - products/8720df/index.md
     - Matter产品: 
-        - ESP32C2（8684）系列:
-          - products/matter/esp32c2/index.md
-    - Tasmota 计量插座:
+      - ESP32C2（8684）系列:
+        - products/matter/esp32c2/index.md
+    - Tasmota产品:
+      - Tasmota 计量插座:
         - products/tasmota/index.md
   - 开发文档:
     # - dev_doc/index.md
-    - Matter matter:
+    - Matter:
       - dev_doc/matter/index.md
       - 使用SDK进行开发: dev_doc/matter/sdk_development.md
       - Matter认证: dev_doc/matter/matter_certification.md
