@@ -46,11 +46,3 @@ title: 飞腾云 W5B03A-1720DFV1 解决方案
 ## 五、产品介绍
 [点击查看W5B03A-1720DFV1模组介绍](../../products/8720df/index.md)
 
-## 六、样品购买
-[点击购买W5B03A-1720DFV1模组样品，暂无实际链接]()
-
-## 七、下载专区
-- [EVB-开发板-W5B03A-1720DFV1质料下载](../../download/8720df/index.md)
-
-
-- [EVB-开发板-W5B03A-1720DFV1质料下载](../../download/8720cf/index.md)

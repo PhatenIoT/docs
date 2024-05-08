@@ -29,7 +29,7 @@ APB外设通过来自多层AXI总线矩阵的AXI总线端口的APB总线连接�
 </p>
 
 ###  3 产品文档
-[点击进入W5B03A-1720DFV1模组资料](../../download/8720df/index.md)
+[点击进入W5B03A-1720DFV1模组资料](../../download/8720df/8720df_datasheet.md)
 
 ###  4 购买链接
 | 产品型号                   | 功能描述                  |状态               |购买             |                    

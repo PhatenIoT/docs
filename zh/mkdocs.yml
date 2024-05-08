@@ -235,9 +235,13 @@ nav:
       # - 产品设计资料: 
       #   - download/product_resource/index.md
       - W5B03A-1720DFV1资料: 
-        - download/8720df/index.md
+        - W5B03A-1720DFV1开发资料: 
+          - download/8720df/index.md
+        - W5B03A-1720DFV1模组硬件规格书: download/8720df/8720df_datasheet.md
       - W5B03A-1720CFV1资料: 
-        - download/8720cf/index.md 
+        - W5B03A-1720CFV1开发资料: 
+          - download/8720cf/index.md 
+        - W5B03A-1720CFV1模组硬件规格书: download/8720cf/8720cf_datasheet.md
     - 常见问题:
       - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
     - 咨询及服务:
