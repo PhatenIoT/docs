@@ -1,5 +1,5 @@
 ---
-title: ESP32C2产品系列
+title: Matter 产品 ESP32C2系列
 ---
 
 
@@ -74,3 +74,8 @@ ESP8684 系列芯片还集成了先进的自校准电路，实现了动态自动
 | ESP8684-WROOM-05 | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-05_datasheet_cn.pdf) |
 | ESP8684-WROOM-06C | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-06c_datasheet_cn.pdf) |
 | ESP8684-WROOM-07 | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-07_datasheet_cn.pdf) |
+
+## 购买链接
+|     品类       |      状态       |     购买     |
+| :---------- | --------------------- | ----------------: |
+|     ESP32C2系列Matter模块      |      未上架     |     [ESP32C2系列Matter模块]()    |
