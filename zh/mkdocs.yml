@@ -169,21 +169,24 @@ nav:
     #   - XU316 USB多路高清音频解码器方案: solutions/hifi_audio/phaten_xu316_hifi_audio_solution.md
     #- W5B03A-1720DFV1模组: 
       # - solutions\8720df\index.md
-    - 汽车VR眼镜-防眩晕方案: solutions/8720df/vr_glasses_solution.md
+    - 5.8G数据透传解决方案: solutions/8720df/vr_glasses_solution.md
     #- W5B03A-1720CFV1模组:
-    - 基于RTL8720CF的透传方案: solutions/8720cf/rtl8720cf_solution.md
+    - 基于RTL8720CF的透传解决方案: solutions/8720cf/rtl8720cf_solution.md
     - Matter应用方案: 
-      - solutions/matter/index.md
-      # - ESP32C2（8684）系列: solutions/matter/esp32c2/esp32c2_solution.md
-    - Tasmota计量插座方案:
-      - solutions/tasmota/index.md
+        - solutions/matter/index.md
+        - Matter1-5路插座解决方案: solutions/matter/socket1_5.md
+        - Matter5路球泡灯解决方案: solutions/matter/rgbcw_light.md
+    - Tasmota应用方案:
+        - solutions/tasmota/index.md
+        - Tasmota电量计量插座解决方案: solutions/tasmota/socket.md
+        - Tasmota-matter解决方案: solutions/tasmota/tasmota-matter.md
     
   # - XMOS USB 高清降噪麦克风系列方案: try-leverage/leverage-project-setup.md
   - 产品中心:
-    - products/index.md
-    - 例子最后请删除--麦克风阵列:
-        - FTXU316-LA-7MIC-V1:
-          - products/array_mic/ftxu316_la_7mic_v1_pcba/index.md
+    # - products/index.md
+    # - 例子最后请删除--麦克风阵列:
+    #     - FTXU316-LA-7MIC-V1:
+    #       - products/array_mic/ftxu316_la_7mic_v1_pcba/index.md
     # - USB HiFi声卡:
     #     - A316_1926V1 USB多路音频解码器模组: 
     #       - products/hifi_audio/a316_1926v1/index.md
@@ -192,11 +195,13 @@ nav:
     - W5B03A-1720CFV1模组: 
       - products/8720cf/index.md
     - Matter产品: 
-      - ESP32C2（8684）系列:
-        - products/matter/esp32c2/index.md
-    - Tasmota产品:
-      - Tasmota 计量插座:
-        - products/tasmota/index.md
+      - products/matter/esp32c2/index.md
+      - Matter1-5路插座模组: products/matter/socket1_5.md
+      - Matter5路球泡灯模组: products/matter/rgbcw_light.md
+    - Tasmota产品: 
+      - products/tasmota/index.md
+      - Tasmota电量计量插座模组: products/tasmota/socket.md
+      - Tasmota-matter模组: products/tasmota/tasmota-matter.md
   - 开发文档:
     # - dev_doc/index.md
     - Matter:
@@ -215,20 +220,31 @@ nav:
           - PCBA套件硬件规格书: dev_doc/array_mic/ftxu316_la_7mic_v1/硬件规格书.md
           - 成品及评估板安装使用说明: dev_doc/array_mic/ftxu316_la_7mic_v1/使用说明.md
 
-    - USB HiFi声卡:
-      - 开发及评估板:
-        - XMOS XU316 USB多声道音频评估板: 
-          - dev_doc/hifi_audio/xk_audio_316_mc_ab/index.md
-        - PBAX316-90108MV1评估板: 
-          - dev_doc/hifi_audio/pbax316_90108mv1/index.md
-          - 评估板硬件规格书: dev_doc/hifi_audio/pbax316_90108mv1/硬件规格书.md
-          - 评估板使用说明: dev_doc/hifi_audio/pbax316_90108mv1/使用说明.md
-          - 评估板测试指标: dev_doc/hifi_audio/pbax316_90108mv1/测试指标.md
-      - 模组及PCBA: 
-        - A316-1926V1:
-          - dev_doc/hifi_audio/a316_1926v1/index.md
+    # - USB HiFi声卡:
+    #   - 开发及评估板:
+    #     - XMOS XU316 USB多声道音频评估板: 
+    #       - dev_doc/hifi_audio/xk_audio_316_mc_ab/index.md
+    #     - PBAX316-90108MV1评估板: 
+    #       - dev_doc/hifi_audio/pbax316_90108mv1/index.md
+    #       - 评估板硬件规格书: dev_doc/hifi_audio/pbax316_90108mv1/硬件规格书.md
+    #       - 评估板使用说明: dev_doc/hifi_audio/pbax316_90108mv1/使用说明.md
+    #       - 评估板测试指标: dev_doc/hifi_audio/pbax316_90108mv1/测试指标.md
+    #   - 模组及PCBA: 
+    #     - A316-1926V1:
+    #       - dev_doc/hifi_audio/a316_1926v1/index.md
   - 样品购买:
     - buy_sample/index.md
+    - Matter产品:
+      - Matter1-5路插座模组: buy_sample/matter/socket1_5.md
+      - Matter5路球泡灯模组: buy_sample/matter/rgbcw_light.md
+    - Tasmota产品: 
+      - Tasmota电量计量插座模组: buy_sample/tasmota/socket.md
+      - Tasmota-matter模组: buy_sample/tasmota/tasmota-matter.md
+    - W5B03A-1720DFV1模组: 
+      - buy_sample/8720df/index.md
+    - W5B03A-1720CFV1模组: 
+      - buy_sample/8720cf/index.md
+
   - 服务&支持:
     - services_support/index.md
     - 下载中心:
