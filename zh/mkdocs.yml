@@ -196,11 +196,11 @@ nav:
     - W5B03A-1720CFV1模组: 
       - products/8720cf/index.md
     - Matter产品: 
-      - products/matter/esp32c2/index.md
+      # - products/matter/esp32c2/index.md
       - Matter1-5路插座模组: products/matter/socket1_5.md
       - Matter5路球泡灯模组: products/matter/rgbcw_light.md
     - Tasmota产品: 
-      - products/tasmota/index.md
+      # - products/tasmota/index.md
       - Tasmota电量计量插座模组: products/tasmota/socket.md
       - Tasmota-matter模组: products/tasmota/tasmota-matter.md
   - 开发文档:
