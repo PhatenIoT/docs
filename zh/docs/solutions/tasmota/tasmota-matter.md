@@ -10,7 +10,7 @@ title: Tasmota-matter解决方案
 
 在Tasmota的基础上新增了Matter链接功能。同时也不止于插座，还加入了球灯泡的固件方案。让智能设备更加出彩。
 
-以往的纯Tasmota，只能通过web网页控制设备。加入Matter之后，实现与三大平台的连接（Apple home、Alexa、Google home）
+以往的[Tasmota解决方案](../../solutions/tasmota/socket.md)，只能通过web网页控制设备。加入Matter之后，实现与三大平台的连接（Apple home、Alexa、Google home）
 
 ## 更智能
 使用Tasmota-matter方案的插座或者灯泡，不仅可以使用web来控制设备，在成功配网后，还可以通过web页面显示的二维码或者设备贴纸上的二维码连接App。实现了从Tasmota到Matter的跳跃。
@@ -24,10 +24,10 @@ title: Tasmota-matter解决方案
 
 呼喊Apple 、Alexa、Google 语音助手，即可马上响应：
 
-- 倒计时（定时）开关：Alexa、Google 支持
-- 更改颜色
-- 更改亮度
-- 更改色温：Alexa、Google 支持
+- 倒计时（定时）开关插座、灯泡：Alexa、Google 支持
+- 更改灯光颜色
+- 更改灯光亮度
+- 更改灯光色温：Alexa、Google 支持
 
 <br>
 

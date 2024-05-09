@@ -155,6 +155,7 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+
 #===================================================================================#
 # Mkdocs Navigation Tree
 #===================================================================================#
@@ -233,17 +234,15 @@ nav:
     #     - A316-1926V1:
     #       - dev_doc/hifi_audio/a316_1926v1/index.md
   - 样品购买:
-    - buy_sample/index.md
+    # - buy_sample/index.md
     - Matter产品:
       - Matter1-5路插座模组: buy_sample/matter/socket1_5.md
       - Matter5路球泡灯模组: buy_sample/matter/rgbcw_light.md
     - Tasmota产品: 
       - Tasmota电量计量插座模组: buy_sample/tasmota/socket.md
       - Tasmota-matter模组: buy_sample/tasmota/tasmota-matter.md
-    - W5B03A-1720DFV1模组: 
-      - buy_sample/8720df/index.md
-    - W5B03A-1720CFV1模组: 
-      - buy_sample/8720cf/index.md
+    - W5B03A-1720DFV1模组: buy_sample/8720df.md
+    - W5B03A-1720CFV1模组: buy_sample/8720cf.md
 
   - 服务&支持:
     - services_support/index.md
@@ -260,10 +259,18 @@ nav:
         - W5B03A-1720CFV1开发资料: 
           - download/8720cf/index.md 
         - W5B03A-1720CFV1模组硬件规格书: download/8720cf/8720cf_datasheet.md
+      - Matter产品资料: 
+        - Matter1-5路插座模组硬件规格书: download/matter/socket1_5_datasheet.md
+        - Matter5路球泡灯模组硬件规格书: download/matter/rgbcw_light_datasheet.md
+      - Tasmota产品资料:
+        - Tasmota电量计量插座模组硬件规格书: download/tasmota/socket_datasheet.md
+        - Tasmota-matter模组硬件规格书: download/tasmota/tasmota-matter_datasheet.md
     - 常见问题:
       - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
     - 咨询及服务:
       - acquire_services/index.md
+
+
   - 技术文章:
     - blog/index.md
   - 关于我们:
