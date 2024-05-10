@@ -1,14 +1,9 @@
 
 
-# 具体模组
 
-|     系列模组 |   图片    |     规格书     |
-| ---------- | --------- | ------------: |
-| ESP8684-MINI-1 |                 | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-mini-1_mini-1u_datasheet_cn.pdf) |
-| ESP8684-WROOM-01C |            | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-01c_datasheet_cn.pdf) |
-| ESP8684-WROOM-02C |            | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-02c_datasheet_cn.pdf) |
-| ESP8684-WROOM-03 |             | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-03_datasheet_cn.pdf) |
-| ESP8684-WROOM-04C |             | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-05_datasheet_cn.pdf) |
-| ESP8684-WROOM-05 |              | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-05_datasheet_cn.pdf) |
-| ESP8684-WROOM-06C |              | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-06c_datasheet_cn.pdf) |
-| ESP8684-WROOM-07 |              | [点击查看](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-07_datasheet_cn.pdf) |
+
+|     系列模组 |        描述        |     规格书     |
+| ---------- | ------------ | -------------- |
+| ESP8684-WROOM-01C-H2 |  内置芯片:ESP8684H2<br>Flash:2 MB<br>模组尺寸(mm):16×24×3.1   | [点击查看]() |
+| ESP8684-WROOM-03-H2 |   内置芯片:ESP8684H2<br>Flash:2 MB<br>模组尺寸(mm):15×17.3×2.8   | [点击查看]() |
+| ESP8684-WROOM-05-H2 |   内置芯片:ESP8684H2<br>Flash:2 MB<br>模组尺寸(mm):15×17.3×2.8   | [点击查看]() |

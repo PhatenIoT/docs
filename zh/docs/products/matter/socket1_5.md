@@ -1,10 +1,10 @@
 ---
-title: Matter 1-5路插座
+title: Matter 1-5路插座和灯模组
 ---
 
-# 一、产品概述
+# 一、Matter 模组产品概述
 
-**Matter1-5路插座模组** 采用了ESP32C2系列（ESP8684 系列）
+**Matter模组** 采用了ESP32C2系列（ESP8684 系列）**插座和灯都可使用该模组** 
 
 其每一款具有超低功耗的 Wi-Fi +Bluetooth® 5 (LE) 系统级芯片。
 

@@ -14,7 +14,8 @@ Tasmota电量计量插座模组采用ESP32-C3 芯片
 通过 RF 认证以及软件协议认证
 
 模组图片：
-![esp32c3图片](../../assets/images/matter/esp32c3.png)
+
+![esp32c3图片](../../assets/images/matter/8685-03.png)
 
 # 二、产品功能
 

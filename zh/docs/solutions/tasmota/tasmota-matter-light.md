@@ -1,8 +1,8 @@
 ---
-title: Tasmota-matter 插座解决方案
+title: Tasmota-matter 灯解决方案
 ---
 
-# Tasmota-matter 插座解决方案
+# Tasmota-matter 灯解决方案
 
 ## 一、方案介绍
 
@@ -13,7 +13,7 @@ title: Tasmota-matter 插座解决方案
 Tasmota 不带 Matter功能的方案，只能通过web网页控制设备。加入Matter之后，实现与三大平台的连接（Apple home、Alexa、Google home）
 
 ## 更智能
-使用Tasmota-matter方案的插座，不仅可以使用web来控制设备，在成功配网后，还可以通过web页面显示的二维码或者设备贴纸上的二维码连接App。实现了从Tasmota到Matter的跳跃。
+使用Tasmota-matter方案的灯，不仅可以使用web来控制设备，在成功配网后，还可以通过web页面显示的二维码或者设备贴纸上的二维码连接App。实现了从Tasmota到Matter的跳跃。
 
 之后使用App，可以进行更多智能操作：
 
@@ -24,16 +24,17 @@ Tasmota 不带 Matter功能的方案，只能通过web网页控制设备。加�
 
 呼喊Apple 、Alexa、Google 语音助手，即可马上响应：
 
-- 倒计时（定时）开关插座：Alexa、Google 支持
-- 语音开关功能 Alexa、Google ，iPhone 支持 
+- 倒计时（定时）开关插座、灯泡：Alexa、Google 支持
+- 更改灯光颜色
+- 更改灯光亮度
+- 更改灯光色温：Alexa、Google 支持
 
-## 支持插座功能配置
+## 支持灯功能配置
 - 复位时间
-- 继电器指示灯
 - 设备重置的时间或者方式
-- 网络指示灯是否复用继电器指示灯
+- 网络指示灯
 - 默认IO配置
-- 计量芯片BP0397 控制io 配置
+- PWM io 控制配置
 
 <br>
 ### 2 我们的服务
