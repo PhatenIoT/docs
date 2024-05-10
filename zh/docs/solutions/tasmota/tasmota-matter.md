@@ -10,7 +10,7 @@ title: Tasmota-matter解决方案
 
 在Tasmota的基础上新增了Matter链接功能。同时也不止于插座，还加入了球灯泡的固件方案。让智能设备更加出彩。
 
-以往的[Tasmota解决方案](../../solutions/tasmota/socket.md)，只能通过web网页控制设备。加入Matter之后，实现与三大平台的连接（Apple home、Alexa、Google home）
+[Tasmota 电量计量插座解决方案](../../solutions/tasmota/socket.md)，只能通过web网页控制设备。加入Matter之后，实现与三大平台的连接（Apple home、Alexa、Google home）
 
 ## 更智能
 使用Tasmota-matter方案的插座或者灯泡，不仅可以使用web来控制设备，在成功配网后，还可以通过web页面显示的二维码或者设备贴纸上的二维码连接App。实现了从Tasmota到Matter的跳跃。
@@ -34,5 +34,5 @@ title: Tasmota-matter解决方案
 同时也继续支持对Tasmota的持续维护和bug优化
 
 ## 二、产品介绍
-[点击进入Tasmota-matter模组介绍](../../products/tasmota/index.md)
+[点击进入Tasmota-matter模组介绍](../../products/tasmota/tasmota-matter.md)
 

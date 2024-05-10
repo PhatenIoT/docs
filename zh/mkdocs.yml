@@ -245,7 +245,7 @@ nav:
     - W5B03A-1720CFV1模组: buy_sample/8720cf.md
 
   - 服务&支持:
-    - services_support/index.md
+    # - services_support/index.md
     - 下载中心:
       # - 工具和软件: 
       #   - download/tools_software/index.md
