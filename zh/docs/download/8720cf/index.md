@@ -14,9 +14,9 @@
 |:-------|------:|
 | RTL872xCS/D HDK AM8722DM01(ZIP) | [点击下载](../../assets/download/) |
 
-|    SDK    |      |
+<!-- |    SDK    |      |
 |:-------|------:|
-| SDK-ameba(ZIP) | [点击下载](../../assets/download/8720cf/00018588-sdk-ameba-v7.1d(19346).zip) |
+| SDK-ameba(ZIP) | [点击下载](../../assets/download/8720cf/00018588-sdk-ameba-v7.1d(19346).zip) | -->
 
 
 

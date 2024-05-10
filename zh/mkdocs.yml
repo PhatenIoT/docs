@@ -215,11 +215,11 @@ nav:
       - 开始: dev_doc/tasmota/getting_started.md
       - 命令: dev_doc/tasmota/commands.md
       - 编译: dev_doc/tasmota/compile.md
-      - 模组及PCBA: 
-        - FTXU316-LA-7MIC-V1套件:
-          - dev_doc/array_mic/ftxu316_la_7mic_v1/index.md
-          - PCBA套件硬件规格书: dev_doc/array_mic/ftxu316_la_7mic_v1/硬件规格书.md
-          - 成品及评估板安装使用说明: dev_doc/array_mic/ftxu316_la_7mic_v1/使用说明.md
+      # - 模组及PCBA: 
+      #   - FTXU316-LA-7MIC-V1套件:
+      #   - dev_doc/array_mic/ftxu316_la_7mic_v1/index.md
+      #   - PCBA套件硬件规格书: dev_doc/array_mic/ftxu316_la_7mic_v1/硬件规格书.md
+      #   - 成品及评估板安装使用说明: dev_doc/array_mic/ftxu316_la_7mic_v1/使用说明.md
 
     # - USB HiFi声卡:
     #   - 开发及评估板:
@@ -265,14 +265,18 @@ nav:
       - Tasmota产品资料:
         - Tasmota电量计量插座模组硬件规格书: download/tasmota/socket_datasheet.md
         - Tasmota-matter模组硬件规格书: download/tasmota/tasmota-matter_datasheet.md
-    - 常见问题:
-      - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
+    - 常见问题: 
+      - faq/index.md
+      # - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
     - 咨询及服务:
       - acquire_services/index.md
 
 
   - 技术文章:
     - blog/index.md
+    - Matter产品配网指导: blog/matter/matter_networking.md
+
+
   - 关于我们:
       - about_us/index.md
       - 加入我们: about_us/join_us.md
