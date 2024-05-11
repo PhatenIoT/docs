@@ -210,8 +210,8 @@ nav:
     - Matter:
       - Matter认证: dev_doc/matter/matter_certification.md
     - Tasmota:
-      - 开始: dev_doc/tasmota/getting_started.md
-      - 命令: dev_doc/tasmota/commands.md
+      - Tasmota入门: dev_doc/tasmota/getting_started.md
+      # - 命令: dev_doc/tasmota/commands.md
       # - 模组及PCBA: 
       #   - FTXU316-LA-7MIC-V1套件:
       #   - dev_doc/array_mic/ftxu316_la_7mic_v1/index.md
