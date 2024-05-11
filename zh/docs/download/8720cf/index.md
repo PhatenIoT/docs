@@ -12,7 +12,7 @@
 
 |   HDK     |      |
 |:-------|------:|
-| RTL872xCS/D HDK AM8722DM01(ZIP) | [点击下载](../../assets/download/) |
+| RTL8720CF_HDK-AZ87C02_7V0(71189)(ZIP) | [点击下载](../../assets/download/8720cf/RTL8720CF_HDK-AZ87C02_7V0(71189).zip) |
 
 <!-- |    SDK    |      |
 |:-------|------:|
