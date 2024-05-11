@@ -194,6 +194,7 @@ nav:
     #       - products/hifi_audio/a316_1926v1/index.md
     - W5B03A-1720DF模组: 
       - products/8720df/index.md
+      - W5B03A-1720DF开发板: products/8720df/dev_board.md
     - WBR3DU-C模组: 
       - products/8720cf/index.md
     - Matter产品: 
@@ -207,15 +208,10 @@ nav:
   - 开发文档:
     # - dev_doc/index.md
     - Matter:
-      - dev_doc/matter/index.md
-      - 使用SDK进行开发: dev_doc/matter/sdk_development.md
       - Matter认证: dev_doc/matter/matter_certification.md
-      - 生产注意事项: dev_doc/matter/production_notes.md
     - Tasmota:
-      - dev_doc/tasmota/index.md
       - 开始: dev_doc/tasmota/getting_started.md
       - 命令: dev_doc/tasmota/commands.md
-      - 编译: dev_doc/tasmota/compile.md
       # - 模组及PCBA: 
       #   - FTXU316-LA-7MIC-V1套件:
       #   - dev_doc/array_mic/ftxu316_la_7mic_v1/index.md

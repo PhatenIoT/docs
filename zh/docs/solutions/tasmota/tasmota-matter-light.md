@@ -2,13 +2,13 @@
 title: Tasmota-matter 灯解决方案
 ---
 
-# Tasmota-matter 灯解决方案
+# Tasmota-matter 5路灯解决方案
 
 ## 一、方案介绍
 
 ### 1 概述
 
-在Tasmota的基础上新增了Matter链接功能。同时也不止于插座，还加入了球灯泡的固件方案。让智能设备更加出彩。
+在Tasmota的基础上新增了Matter链接功能。
 
 Tasmota 不带 Matter功能的方案，只能通过web网页控制设备。加入Matter之后，实现与三大平台的连接（Apple home、Alexa、Google home）
 
@@ -24,7 +24,7 @@ Tasmota 不带 Matter功能的方案，只能通过web网页控制设备。加�
 
 呼喊Apple 、Alexa、Google 语音助手，即可马上响应：
 
-- 倒计时（定时）开关插座、灯泡：Alexa、Google 支持
+- 倒计时（定时）开关、灯泡：Alexa、Google 支持
 - 更改灯光颜色
 - 更改灯光亮度
 - 更改灯光色温：Alexa、Google 支持

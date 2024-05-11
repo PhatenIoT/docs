@@ -13,7 +13,7 @@ WBR3DU-C是一个 RTOS平台，集成了所有 Wi-Fi MAC 以及 TCP/IP 协议的
 
 ![8720cf](../../assets/images/8720CF/8720cf.png)
 
-### 产品特性
+## 2 产品特性
  内置低功耗 KM4 MCU，可以兼作应用处理器
  主频支持 100MHz
  工作电压：3.0V~3.6V
@@ -26,8 +26,8 @@ WBR3DU-C是一个 RTOS平台，集成了所有 Wi-Fi MAC 以及 TCP/IP 协议的
  外接天线
  工作温度：-40℃ to 105℃
 
-## 产品规格书
+## 3 产品规格书
 [点击进入 WBR3DU-C模组规格书](../../download/8720cf/8720cf_datasheet.md)
 
-## 购买链接
+## 4 购买链接
 [点击购买 WBR3DU-C模组](../../buy_sample/8720cf.md)

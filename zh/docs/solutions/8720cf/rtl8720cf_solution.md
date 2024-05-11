@@ -40,15 +40,15 @@ RTL8720CF 嵌入式 Wi-Fi 提供了一种将用户的物理设备连接到Wi-Fi�
 
 ## 6 功能介绍
 
-1. AP关联应用 
+1.AP关联应用 
 
 ![AP关联应用](../../assets/images/8720CF/1280X1280AP关联应用.PNG)
 
-2. WIFI STA + AP功能应用 
+2.WIFI STA + AP功能应用 
 
 ![WIFI STA + AP功能应用](../../assets/images/8720CF/1280X1280WIFISTAAP功能应用.PNG)
 
-3. TCP/UDP 透传应用 
+3.TCP/UDP 透传应用 
 
 ![TCP/UDP 透传应用](../../assets/images/8720CF/1280X1280TCP-UDP透传应用.PNG)
 

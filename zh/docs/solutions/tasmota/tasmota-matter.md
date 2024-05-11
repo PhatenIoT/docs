@@ -8,7 +8,7 @@ title: Tasmota-matter 插座解决方案
 
 ### 1 概述
 
-在Tasmota的基础上新增了Matter链接功能。同时也不止于插座，还加入了球灯泡的固件方案。让智能设备更加出彩。
+在Tasmota的基础上新增了Matter链接功能。
 
 Tasmota 不带 Matter功能的方案，只能通过web网页控制设备。加入Matter之后，实现与三大平台的连接（Apple home、Alexa、Google home）
 
