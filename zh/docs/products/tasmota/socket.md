@@ -3,7 +3,7 @@ title: Tasmota电量计量插座模组
 ---
 
 
-# 一、简介
+# 一、Tasmota电量计量插座模组
 Tasmota电量计量插座模组采用ESP32-C3 芯片
 
 集成 ESP32-C3 芯片，RISC-V 32 位单核处理器，时钟频率高达 160 MHz
@@ -14,7 +14,6 @@ Tasmota电量计量插座模组采用ESP32-C3 芯片
 通过 RF 认证以及软件协议认证
 
 模组图片：
-
 ![esp32c3图片](../../assets/images/matter/8685-03.png)
 
 # 二、产品功能
