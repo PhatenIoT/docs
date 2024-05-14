@@ -194,7 +194,7 @@ nav:
     #       - products/hifi_audio/a316_1926v1/index.md
     - W5B03A-1720DF模组: 
       - products/8720df/index.md
-      - W5B03A-1720DF开发板: products/8720df/dev_board.md
+      - NodeMcu-8720DFV1开发板: products/8720df/dev_board.md
     - WBR3DU-C模组: 
       - products/8720cf/index.md
     - Matter产品: 

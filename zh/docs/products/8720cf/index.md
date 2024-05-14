@@ -11,7 +11,7 @@ MCU，WLAN MAC，1T1R WLAN，最高主频 100MHz，内置 256K SRAM ，芯片内
 WBR3DU-C是一个 RTOS平台，集成了所有 Wi-Fi MAC 以及 TCP/IP 协议的函数库。用户可以基于这些
 开发满足自己需求的嵌入式 Wi-Fi 产品。
 
-![8720cf](../../assets/images/8720CF/8720cf.png)
+![8720cf](/assets/images/8720CF/8720cf.png)
 
 ## 2 产品特性
  内置低功耗 KM4 MCU，可以兼作应用处理器
