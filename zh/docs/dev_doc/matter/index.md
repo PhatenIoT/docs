@@ -1,7 +1,7 @@
 # Matter
 
 
-![matter](../../assets/images/matter/matter.png)
+![matter](/docs/assets/images/matter/matter.png)
 
 ## Matter产品
 Matter主要是面向智能家居市场，主要定位是如下的设备类型。

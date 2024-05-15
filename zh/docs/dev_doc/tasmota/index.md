@@ -1,3 +1,3 @@
 
 
-![tasmota产品实物](../../assets/images/tasmota/tasmota图.png)
+![tasmota产品实物](/docs/assets/images/tasmota/tasmota图.png)

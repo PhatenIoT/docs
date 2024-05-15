@@ -196,11 +196,11 @@ Tx EVM
 
 ### 产品图片
 
-![NodeMcu-8720DFV1开发板](/assets/images/8720DF/NodeMcu-8720DFV1开发板(1).png)
+![NodeMcu-8720DFV1开发板](/docs/assets/images/8720DF/NodeMcu-8720DFV1开发板(1).png)
 
 ### 产品尺寸
 
-![NodeMcu-8720DFV1开发板尺寸](/assets/images/8720DF/开发板尺寸.png)
+![NodeMcu-8720DFV1开发板尺寸](/docs/assets/images/8720DF/开发板尺寸.png)
 
 
 ## 8 管脚定义
@@ -230,7 +230,7 @@ Tx EVM
 
 ## 9 原理图
 
-![NodeMcu-8720DFV1开发板原理图](/assets/images/8720DF/开发板原理图.png)
+<!-- ![NodeMcu-8720DFV1开发板原理图](/assets/images/8720DF/开发板原理图.png) -->
 ![NodeMcu-8720DFV1开发板原理图](/docs/assets/images/8720DF/开发板原理图.png)
 
 

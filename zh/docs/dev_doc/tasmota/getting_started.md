@@ -17,7 +17,7 @@ title: tasmota 开发文档--getting startde
 - 推荐 [CH340G](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF) 是最可靠和最便宜的启动（CH340G、[Sparkfun](https://www.sparkfun.com/products/14050)、[焊接连接](https://soldered.com/product/connect-programmer/)、[带AMS1117的 CH340N](https://www.aliexpress.com/item/1005004742270942.html)）。
 
 - 推荐 [VoltLink](https://github.com/voltlog/VoltLink) - 基于流行的 CP2102N 芯片的 USB 转串口适配器板，内置 ESP 自动复位电路和 500mA 稳压器 
-![串口适配器图片](../../assets/images/tasmota/ch340g.png)
+![串口适配器图片](/docs/assets/images/tasmota/ch340g.png)
 
 - [CP2102](https://www.silabs.com/documents/public/data-sheets/cp2102-9.pdf) 或 [PL2303](http://www.prolific.com.tw/UserFiles/files/ds_pl2303HXD_v1_4_4.pdf) - 适用于某些器件，但可能需要使用外部 3.3V 电源。不建议初学者使用！
 
@@ -41,7 +41,7 @@ title: tasmota 开发文档--getting startde
 使用外部 3.3V 电源时，确保两者的接地 （GND） 连接在一起，这确保了公共接地。PC 电源可以作为 3.3V 直流电源的电源。
 
 具有 USB 上传端口的设备通常内置串行编程器，例如 [NodeMCU](https://en.wikipedia.org/wiki/NodeMCU)、[D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html) 或 [M5Stack 产品](https://m5stack.com/)。
-<img src="../../assets/images/tasmota/golden-ch340g.png" alt="USB 上传端口" width="200"/>
+<img src="/docs/assets/images/tasmota/golden-ch340g.png" alt="USB 上传端口" width="200"/>
 
 ### 焊接工具
 要焊接，您当然需要烙铁、锡和一些助焊剂。如果您不熟悉焊接，请查看一些焊接教程视频。
@@ -99,7 +99,7 @@ Tasmota 旨在通过 [MQTT](http://mqtt.org/) 进行控制和通信。要充分�
 
 <p>⚠️如果你不知道自己在做什么，你可能会触电⚠️</p>
 </div>
-<img src="../../assets/images/tasmota/pow1.jpg" alt="pow" width="200"/>
+<img src="/docs/assets/images/tasmota/pow1.jpg" alt="pow" width="200"/>
 如果你不小心，你自己的健康就会处于危险之中。使用电源交流电源短路串行接口会烧毁您的设备和串行适配器，还会损坏或损坏您的计算机。在通过串行连接时，甚至在打开设备外壳时
 **始终将所有电源线与设备断开连接，这一点很重要**。
 
@@ -116,7 +116,7 @@ Tasmota 旨在通过 [MQTT](http://mqtt.org/) 进行控制和通信。要充分�
 | GND | GND |
 
 **请注意，来自适配器的 TX 转到 ESP 设备上的 RX，来自适配器的 RX 转到设备上的 TX！**
-![接线图](../../assets/images/tasmota/接线.png)
+![接线图](/docs/assets/images/tasmota/接线.png)
 
 ### 编程模式
 Typical GPIO0 Location
@@ -125,7 +125,7 @@ ESP需要进入**编程模式**或**刷机模式**，然后才能上传固件。
 
 在许多设备上，安装的控制按钮连接到 GPIO0 和 GND，从而轻松进入编程模式。在其他情况下，您需要将 PCB 上的引脚桥接或直接用跳线桥接在芯片上。热门模块的 GPIO0 位置可以在[引脚排列](https://tasmota.github.io/docs/Pinouts/)中找到！
 设备特定说明记录在 [Tasmota 支持的设备存储库中](https://templates.blakadder.com/)。
-![gpio0图片](../../assets/images/tasmota/gpio0图片.png)
+![gpio0图片](/docs/assets/images/tasmota/gpio0图片.png)
 
 要将 ESP 置于编程模式：
 1. 断开串行编程器和电源
