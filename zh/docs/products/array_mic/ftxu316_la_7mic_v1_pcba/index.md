@@ -13,7 +13,7 @@ title: FTXU316_LA_7MIC_V1 7MIC无感本地扩音PCBA套件
 在公共演讲、商务会议和教学环境中，高质量的声音传输至关重要。**FTXU316_LA_7MIC_V1** 正是为了满足这些场景的需求而设计，旨在为发言者提供无约束的扩音体验，同时确保听众能够享受到清晰、低延迟的听觉享受。
 
 <div class="grid cards" markdown>
-- ![FTXU316_LA_7MIC_V1Main Board](../../../assets/images/7mic/FTXU316-LA-7MIC-V1_main.png "FTXU316_LA_7MIC_V1Main Board"){width="290"}  ![FTXU316_LA_7MIC_V1麦克风阵列板](../../../assets/images/7mic/FTXU316-LA-7MIC-V1.png "FTXU316_LA_7MIC_V1麦克风阵列板"){width="250"}
+- ![FTXU316_LA_7MIC_V1Main Board](/assets/images/7mic/FTXU316-LA-7MIC-V1_main.png "FTXU316_LA_7MIC_V1Main Board"){width="290"}  ![FTXU316_LA_7MIC_V1麦克风阵列板](/assets/images/7mic/FTXU316-LA-7MIC-V1.png "FTXU316_LA_7MIC_V1麦克风阵列板"){width="250"}
 </div>
 
 ### 1.2 产品特性
@@ -26,7 +26,7 @@ title: FTXU316_LA_7MIC_V1 7MIC无感本地扩音PCBA套件
 ### 1.3 产品框图
 
 <figure markdown="span">
-  ![产品框图](../../../assets/images/7mic/xmos-316-la.png "方案框图"){width="500"}
+  ![产品框图](/assets/images/7mic/xmos-316-la.png "方案框图"){width="500"}
   <figcaption></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ title: FTXU316_LA_7MIC_V1 7MIC无感本地扩音PCBA套件
 | 自动扩声增益调整 |    -20   |    -   |    +20    |    dB   |
 |   额定输出阻抗    |    -    |    16   |     -     |    Ω    |
 
-## 2、[产品技术文档](../../../dev_doc/array_mic/ftxu316_la_7mic_v1/index.md)
+## 2、[产品技术文档](/dev_doc/array_mic/ftxu316_la_7mic_v1/index.md)
 
 ## 4、PCBA套件购买：
 产品型号                   | 功能描述                  |状态               |购买                                 

@@ -8,7 +8,7 @@ title: XMOS XK-VOICE-L71 2MIC语音开发评估板
 
 <div class="result" markdown>
 
-![XK-VOICE-L71 2MIC语音开发评估板](../../../assets/images/xk_voice_l71/XMOS_XK_VOICE_L71_Rev2.png "XK-VOICE-L71 2MIC语音开发评估板"){align=right width=300}
+![XK-VOICE-L71 2MIC语音开发评估板](/assets/images/xk_voice_l71/XMOS_XK_VOICE_L71_Rev2.png "XK-VOICE-L71 2MIC语音开发评估板"){align=right width=300}
 
 ## 评估板介绍
 XK-VOICE-L7这款语音参考设计评估套件可以用作Raspberry Pi HAT与示例的AVS客户端进行集成，或者独立作为USB外设连接到主机系统。

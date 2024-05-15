@@ -1,11 +1,11 @@
 ---
-title: Matter 产品 ESP32C2系列
+title: Matter 产品 ESP8684系列
 ---
 
 
 
 # 产品概述
-ESP32C2系列 每一款具有超低功耗的 Wi-Fi +Bluetooth® 5 (LE) 系统级芯片。
+ESP8684系列 每一款具有超低功耗的 Wi-Fi +Bluetooth® 5 (LE) 系统级芯片。
 
 ESP8684 系列是极低功耗、高集成度的 MCU 系统级芯片 (SoC)，集成 2.4 GHz Wi-Fi 和低功耗蓝牙 (Bluetooth®
 LE) 无线通信，专为物联网 (IoT)、智能家居、工业自动化、医疗保健及消费电子产品等各种应用而设计，具有行

@@ -19,7 +19,7 @@ status: new
 传统的USB声卡解决方案多种芯片组合，造成硬件设计复杂度提升，而飞腾云的XU316模块简洁高效。它集成了多通道ASRC，减少了配件数量，从而大幅度的降低了成本，节约了宝贵的开发周期。对比之下，为达到XU316的性能标准，传统方案可能需要增加5-10美元的成本进行芯片配置。更为重要的是，XU316赋予了产品极高的兼容性，给多种接口留下了足够的空间，而不是像传统方案那样为每个接口搭配特定芯片。
 
 <div class="grid cards" markdown>
-- ![传统的USB控制器+CS8422方案，多了CS8422和MCU，硬件设计复杂，还需要开发MCU](../../assets/images/hifi_audio/other_usb_8422.png "传统的USB控制器+CS8422方案"){align=right width=500}
+- ![传统的USB控制器+CS8422方案，多了CS8422和MCU，硬件设计复杂，还需要开发MCU](/assets/images/hifi_audio/other_usb_8422.png "传统的USB控制器+CS8422方案"){align=right width=500}
 传统的USB控制器+CS8422方案，多了CS8422和MCU，硬件设计复杂，还需要开发MCU。
     - **成本高**
     - **开发周期长**
@@ -27,7 +27,7 @@ status: new
 </div>
 
 <div class="grid cards" markdown>
-- ![基于飞腾云XMOS A316模组方案，系统硬件简单，客户无需开发任何软件](../../assets/images/hifi_audio/xu316_hifi_audio_digram_white.png "XMOS A316模组方案"){align=left width=500}
+- ![基于飞腾云XMOS A316模组方案，系统硬件简单，客户无需开发任何软件](/assets/images/hifi_audio/xu316_hifi_audio_digram_white.png "XMOS A316模组方案"){align=left width=500}
 基于飞腾云XMOS A316模组解决方案，以其一体化多声道ASRC设计，不仅提高了产品性能，还有效降低了制造成本
     - 应该放在第一个框
 - 第二列框
@@ -49,8 +49,8 @@ status: new
 
 | 产品型号                            | 产品名称                          |产品图片                                 |
 | ---------------------------------: | :--------------------------------- | :---------------------------------: |
-|  [PBAX316-90108MV1评估板](../../../dev_doc/hifi_audio/pbax316_90108mv1/)  | XU316 Hi-Fi多路音频解码器评估板      |![PBAX316-90108MV1评估板](../../assets/images/hifi_audio/PBAX316-90108MV1.png){width="150"} |
-|  [AX316 -1926V1](../../../products/hifi_audio/a316_1926v1/)                     | XU316多路音频解码器模组              |![XU316多路音频解码器模组](../../assets/images/hifi_audio/a316_1926v1.png){width="100"}   |
+|  [PBAX316-90108MV1评估板](/dev_doc/hifi_audio/pbax316_90108mv1/)  | XU316 Hi-Fi多路音频解码器评估板      |![PBAX316-90108MV1评估板](/assets/images/hifi_audio/PBAX316-90108MV1.png){width="150"} |
+|  [AX316 -1926V1](/products/hifi_audio/a316_1926v1/)                     | XU316多路音频解码器模组              |![XU316多路音频解码器模组](/assets/images/hifi_audio/a316_1926v1.png){width="100"}   |
 
 
 

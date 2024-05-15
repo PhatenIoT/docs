@@ -11,7 +11,7 @@ W5B03A-1720DF开发板 是基于 PKE8720DF-A00-F10开发板由Pankore为PKM8720D
 
 丰富的外设和高性能使其成为智能家居、工业自动化、消费电子产品等的理想选择。PKM8720DF-A00-F10模块的方框图如图1所示。
 
-![W5B03A-1720DF开发板产品框图](../../assets/images/8720DF/W5B03A-1720DF.png)
+![W5B03A-1720DF开发板产品框图](/assets/images/8720DF/W5B03A-1720DF.png)
 
 
 
@@ -54,145 +54,7 @@ W5B03A-1720DF开发板 是基于 PKE8720DF-A00-F10开发板由Pankore为PKM8720D
 | 接口 | UART/GPIO/ADC/PWM/I2C/SPI/SWD/USB 2.0 HS/SDIO/DMIC/IR/I2S |
 | 模块认证 | FCC/CE/SRRC |
 
-
-## 5 电气参数
-
-
-<!-- | Parameter condition | Min. | Typ. | Max. | Unit |
-| --- | --- | --- | --- | --- |
-| DC 3.3V Supply Voltage | 3.0 | 3.3 | 3.6 | V |
-| Digital I/O Supply Voltage | 1.76 | 1.8~3.3 | 3.6 | V |
-| DC 3.3 Rating Current (with internal regulator and integrated CMOS PA) | - | - | 450 | mA |
-| 3.3V I/O Rating Current | - | - | 50 | mA |
-| Electrostatic protection | - | - | 2000 | V | -->
-
-| 条件参数 | 最小值 | 典型值 | 最大值 | 单位 |
-| --- | --- | --- | --- | --- |
-| DC 3.3V电源电压 | 3.0 | 3.3 | 3.6 | V |
-| 数字输入输出电源电压 | 1.76 | 1.8~3.3 | 3.6 | V |
-| DC 3.3额定电流（带内部调节器和集成CMOS PA） | - | - | 450 | mA |
-| 3.3V输入输出额定电流 | - | - | 50 | mA |
-| 静电保护 | - | - | 2000 | V |
-
-
-
-## 6 射频性能
-
-### Wi-Fi2.4 GHz波段射频规范
-
-#### 6.1 Wi-Fi2.4 GHz发射器性能规范
-
-| 条件参数 | 最小值 | 典型值 | 最大值 | 单位 |
-| --- | --- | --- | --- | --- |
-| 频段 | - | 2412 | 2484 | MHz |
-
-
-Tx功率为最高功率水平（25°C）
-
-| 条件参数 | 最小值 | 典型值 | 最大值 | 单位 |
-| --- | --- | --- | --- | --- |
-| 1 Mbps DSSS | - | 20 | - | dBm |
-| 11 Mbps DSSS | - | 18 | - | dBm |
-| 6 Mbps OFDM | - | 19 | - | dBm |
-| 54 Mbps OFDM | - | 17 | - | dBm |
-| HT20 MCS0 | - | 18 | - | dBm |
-| HT20 MCS7 | - | 16 | - | dBm |
-| HT40 MCS0 | - | 18 | - | dBm |
-| HT40 MCS7 | - | 16 | - | dBm |
-
-Tx EVM 
-
-| 条件参数 | 最小值 | 典型值 | 最大值 | 单位 |
-| --- | --- | --- | --- | --- |
-| 1 Mbps DSSS | - | 8 | - | % |
-| 11 Mbps DSSS | - | 8 | - | % |
-| 6 Mbps OFDM | - | -5 | - | dB |
-| 54 Mbps OFDM | - | -25 | - | dB |
-| HT20 MCS0 | - | -5 | - | dB |
-| HT20 MCS7 | - | -28 | - | dB |
-| HT40 MCS0 | - | -5 | - | dB |
-| HT40 MCS7 | - | -28 | - | dB |
-
-Wi-Fi2.4 GHz接收性能规范
-
-| 条件参数 | 环境  |  最小值 | 典型值 | 最大值 | 单位 |
-|-----------|-----------|------|------|------|------|
-| Frequency Range | - | 2412 | - | 2484 | MHz 802.11b |
-| 802.11b Rx Sensitivity (8% PER) | 1 Mbps DSSS | - | -96 | - | dBm |
-| 802.11b Rx Sensitivity (8% PER) | 11 Mbps DSSS | - | -89 | - | dBm |
-| 802.11g Rx Sensitivity (10% PER) | 6 Mbps OFDM | - | -93 | - | dBm |
-| 802.11g Rx Sensitivity (10% PER) | 54 Mbps OFDM | - | -75 | - | dBm |
-| 802.11n Rx Sensitivity (10% PER) | HT20 MCS0 | - | -93 | - | dBm |
-| 802.11n Rx Sensitivity (10% PER) | HT20 MCS7 | - | -73 | - | dBm |
-| 802.11n Rx Sensitivity (10% PER) | HT40 MCS0 | - | -91 | - | dBm |
-| 802.11n Rx Sensitivity (10% PER) | HT40 MCS7 | - | -70 | - | dBm |
-
-
-### Wi-Fi5 GHz频段射频规范
-
-#### Wi-Fi5 GHz发射器性能规范
-
-| 条件参数 | 最小值 | 典型值 | 最大值 | 单位 |
-|-----------|-----------|------|------|------|
-| Frequency Range | - | 5180 | - | 5825 | MHz |
-
-Tx功率为最高功率水平（25°C）
-
-| 条件参数  | 最小值 | 典型值 | 最大值 | 单位 |
-|-----------|-----------|------|------|------|
-| 6 Mbps OFDM | - | 17 | - | - | dBm |
-| 54 Mbps OFDM | - | 13 | - | - | dBm |
-| HT20 MCS0 | - | 15 | - | - | dBm |
-| HT20 MCS7 | - | 12 | - | - | dBm |
-| HT40 MCS0 | - | 15 | - | - | dBm |
-| HT40 MCS7 | - | 12 | - | - | dBm |
-
-Tx EVM
-
-| 条件参数 | 最小值 | 典型值 | 最大值 | 单位 |
-|-----------|-----------|------|------|------|
-| 6 Mbps OFDM | - | -5 | - | - | dB |
-| 54 Mbps OFDM | - | -25 | - | - | dB |
-| HT20 MCS0 | - | -5 | - | - | dB |
-| HT20 MCS7 | - | -28 | - | - | dB |
-| HT40 MCS0 | - | -5 | - | - | dB |
-| HT40 MCS7 | - | -28 | - | - | dB |
-
-#### Wi-Fi5 GHz接收机性能规范
-
-| 条件参数  | 环境  |  最小值 | 典型值 | 最大值 | 单位 |
-|-----------|-----------|------|------|------|------|
-| Frequency Range | - | 5180 | - | 5825 | MHz |
-| 802.11g Rx Sensitivity (10% PER) | 6 Mbps OFDM | - | -91 | - |  dBm |
-| 802.11g Rx Sensitivity (10% PER) | 54 Mbps OFDM | - | -74 | - | dBm |
-| 802.11n Rx Sensitivity (10% PER) | HT20 MCS0 | - | -91 |  - | dBm |
-| 802.11n Rx Sensitivity (10% PER) | HT20 MCS7 | - | -72 | - | dBm |
-| 802.11n Rx Sensitivity (10% PER) | HT40 MCS0 | - | -89 | - | dBm |
-| 802.11n Rx Sensitivity (10% PER) | HT40 MCS7 | - | -69 | - | dBm |
-
-### 蓝牙LE RF规范
-
-#### 蓝牙LE发射器性能规范
-
-| 条件参数 | 环境 | 最小值 | 典型值 | 最大值 | 单位 |
-|-----------|-----------|------|------|------|------|
-| 频段 | - | 2402 | - | 2480 | MHz |
-| Tx输出功率 | LE1M | -10 | 4.5 | 10 |  dBm |
-| Tx输出功率 | LE2M | -10 | 4.5 | 10 |  dBm |
-
-
-#### 蓝牙LE接收器性能规范
-
-| 条件参数 | 环境 |  最小值 | 典型值 | 最大值 | 单位 |
-|-----------|-----------|------|------|------|------|
-| 频段 | - | 2402 | - | 2480 | MHz |
-| Tx输出功率 | LE1M | - | -99 | - | dBm |
-| Tx输出功率 | LE2M | - | -96 | - | dBm |
-
-
-
-
-## 7 外观尺寸
+## 5 外观尺寸
 
 ### 产品图片
 
@@ -203,7 +65,9 @@ Tx EVM
 ![NodeMcu-8720DFV1开发板尺寸](/docs/assets/images/8720DF/开发板尺寸.png)
 
 
-## 8 管脚定义
+## 6 管脚定义
+
+![开发板管脚定义](/assets/images/8720DF/开发板管脚定义.png)
 
 | 编号 | Pin名称 | 描述 |
 |--------|---------|-------------|
@@ -228,12 +92,12 @@ Tx EVM
 | 18 | PB21 | HS_UART0_RTS/SPI0_CS/PWM13/SD_CLK/I2S_WS |
 | 19 | PB20 | HS_UART0_CTS/SPI0_CLK/PWM12/SD_CDM/I2S_CLK |
 
-## 9 原理图
+## 7 原理图
 
 <!-- ![NodeMcu-8720DFV1开发板原理图](/assets/images/8720DF/开发板原理图.png) -->
-![NodeMcu-8720DFV1开发板原理图](/docs/assets/images/8720DF/开发板原理图.png)
+![NodeMcu-8720DFV1开发板原理图](/assets/images/8720DF/开发板原理图.png)
 
 
 
-## 10 购买链接
-[点击购买 W5B03A-1720DF开发板](../../buy_sample/8720df.md)
+## 8 购买链接
+[点击购买 W5B03A-1720DF开发板](../../buy_sample/buy_sample/8720df.md)

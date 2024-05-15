@@ -170,9 +170,9 @@ nav:
     #   - XU316 USB多路高清音频解码器方案: solutions/hifi_audio/phaten_xu316_hifi_audio_solution.md
     #- W5B03A-1720DFV1模组: 
       # - solutions\8720df\index.md
-    - RTL8720DF 5.8G透传应用方案: solutions/8720df/vr_glasses_solution.md
+    - W5B03A-1720DFV1 5.8G透传应用方案: solutions/8720df/vr_glasses_solution.md
     #- W5B03A-1720CFV1模组:
-    - RTL8720CF 透传应用方案: solutions/8720cf/rtl8720cf_solution.md
+    - WBR3DU-C 透传应用方案: solutions/8720cf/rtl8720cf_solution.md
     - 飞腾云 Matter应用方案: 
         - solutions/matter/index.md
         - Matter1-5路插座应用方案: solutions/matter/socket1_5.md
@@ -192,7 +192,7 @@ nav:
     # - USB HiFi声卡:
     #     - A316_1926V1 USB多路音频解码器模组: 
     #       - products/hifi_audio/a316_1926v1/index.md
-    - W5B03A-1720DF模组: 
+    - W5B03A-1720DFV1模组: 
       - products/8720df/index.md
       - NodeMcu-8720DFV1开发板: products/8720df/dev_board.md
     - WBR3DU-C模组: 

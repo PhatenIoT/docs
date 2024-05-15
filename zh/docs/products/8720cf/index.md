@@ -11,20 +11,20 @@ MCU，WLAN MAC，1T1R WLAN，最高主频 100MHz，内置 256K SRAM ，芯片内
 WBR3DU-C是一个 RTOS平台，集成了所有 Wi-Fi MAC 以及 TCP/IP 协议的函数库。用户可以基于这些
 开发满足自己需求的嵌入式 Wi-Fi 产品。
 
-![8720cf](/docs/assets/images/8720CF/8720cf.png)
+![8720cf](/assets/images/8720CF/8720cf.png)
 
 ## 2 产品特性
- 内置低功耗 KM4 MCU，可以兼作应用处理器
- 主频支持 100MHz
- 工作电压：3.0V~3.6V
- Wi-Fi 蓝牙连通性
- 802.11 b/g/n
- 信道 1-14@2.4GHz (CH1-11 for US/CA, CH1-13 for EU/CN)
- 支持 WEP,WPA/WPA2,WPA2 PSK (AES) 安全模式
- 支持 Bluetooth 4.2 Low Energy
- 支持 SmartConfig 和 AP 两种配网方式（包括 Android 和 IOS 设备）
- 外接天线
- 工作温度：-40℃ to 105℃
+- 内置低功耗 KM4 MCU，可以兼作应用处理器
+- 主频支持 100MHz
+- 工作电压：3.0V~3.6V
+- Wi-Fi 蓝牙连通性
+- 802.11 b/g/n
+- 信道 1-14 @ 2.4GHz (CH1-11 for US/CA, CH1-13 for EU/CN)
+- 支持 WEP,WPA/WPA2,WPA2 PSK (AES) 安全模式
+- 支持 Bluetooth 4.2 Low Energy
+- 支持 SmartConfig 和 AP 两种配网方式（包括 Android 和 IOS 设备）
+- 外接天线
+- 工作温度：-40℃ to 105℃
 
 ## 3 产品规格书
 [点击进入 WBR3DU-C模组规格书](../../download/8720cf/8720cf_datasheet.md)

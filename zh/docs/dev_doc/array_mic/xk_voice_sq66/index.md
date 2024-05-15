@@ -8,7 +8,7 @@ title: XMOS XVF3800 EVALUATION KIT 4MIC语音会议评估板
 
 <div class="result" markdown>
 
-![XVF3800 EVALUATION KIT 4MIC语音会议评估板](../../../assets/images/xk_voice_sq66/xk_voice_sq66.png "XVF3800 EVALUATION KIT 4MIC语音会议评估板"){align=right width=300}
+![XVF3800 EVALUATION KIT 4MIC语音会议评估板](/assets/images/xk_voice_sq66/xk_voice_sq66.png "XVF3800 EVALUATION KIT 4MIC语音会议评估板"){align=right width=300}
 
 ## 评估板介绍
 XK-VOICE-SQ66 4 麦克风语音会议评估套件用来评估 XVF3800 应用。

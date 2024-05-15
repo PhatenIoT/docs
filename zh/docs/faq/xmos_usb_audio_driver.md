@@ -60,7 +60,7 @@ UAC 2.0仅在在Windows系统是需要安装USB驱动的, 在MAC OS, Linux 和�
 
 
 ### Thesycon评估版驱动（Evaluation driver）
-用户在使用我们的Hi-Fi评估板，就可以下载评估板驱动进行[Thesycon评估版驱动(Evaluation driver)](../../assets/download/Thesycon-USB-Audio-Class-2_0-Evaluation-Driver-for-Windows_5_58_0.zip)测试评估，评估板驱动，支持 SPDIF、MIDI、multichannel，以及Stereo 立体声输出 PCM 768KHz 与 DSD Native512。但是评估版驱动驱动存在一个限制商业化，即在设备上电持续播放一小时以后，每隔五分钟会有一个嘟嘟声。该评估版驱动还没授权来进行商用化使用，仅提供给用户测试使用。
+用户在使用我们的Hi-Fi评估板，就可以下载评估板驱动进行[Thesycon评估版驱动(Evaluation driver)](/assets/download/Thesycon-USB-Audio-Class-2_0-Evaluation-Driver-for-Windows_5_58_0.zip)测试评估，评估板驱动，支持 SPDIF、MIDI、multichannel，以及Stereo 立体声输出 PCM 768KHz 与 DSD Native512。但是评估版驱动驱动存在一个限制商业化，即在设备上电持续播放一小时以后，每隔五分钟会有一个嘟嘟声。该评估版驱动还没授权来进行商用化使用，仅提供给用户测试使用。
 
 ### XMOS 立体声驱动（XMOS Stereo Driver）
 不在提供

@@ -9,4 +9,4 @@
 
 <!-- |    开发板规格书    |   版本   |      |
 |:-------|------| ------: |
-| W5B03A-1720DF开发板规格书（PDF） |  V1.0 | [点击下载](../../assets/download/8720df/PKE8720DF-A00-F10_Board_Specification_v1.0.pdf) | -->
+| W5B03A-1720DF开发板规格书（PDF） |  V1.0 | [点击下载](/assets/download/8720df/PKE8720DF-A00-F10_Board_Specification_v1.0.pdf) | -->

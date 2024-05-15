@@ -8,7 +8,7 @@ title: XMOS XK-AUDIO-316-MC-AB USB多声道音频评估板开发评估板
 
 <div class="result" markdown>
 
-![XK-AUDIO-316-MC-AB USB多声道音频评估板开发评估板](../../../assets/images/\xk_audio_316_mc_ab/xk_audio_316_mc_ab_block.png "XK-AUDIO-316-MC-AB USB多声道音频评估板开发评估板"){align=right width=300}
+![XK-AUDIO-316-MC-AB USB多声道音频评估板开发评估板](/assets/images/\xk_audio_316_mc_ab/xk_audio_316_mc_ab_block.png "XK-AUDIO-316-MC-AB USB多声道音频评估板开发评估板"){align=right width=300}
 
 ## 评估板介绍
 xcore.ai 多通道音频平台提供了一个可扩展且灵活的硬件和软件解决方案，适合各种消费级和专业级音频产品。这个多通道音频平台是基于一个 xcore.ai 多核处理器；XU316-1024-TQ128-C24，它包含了一个高速 USB 2.0 PHY、灵活的通用输入输出（GPIO）以及 16 个逻辑核心，能够提供高达 2400 MIPS 的确定性处理能力。xcore 技术保证的硬件响应时间总是确保从 USB 主机进行的音频流具有最低的延迟和完美的比特流。XMOS XTC 开发工具支持快速定制，以实现产品的差异化特性。

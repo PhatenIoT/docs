@@ -11,11 +11,11 @@ title: tasmota 电量计量插座
 tasmota 电量计量插座模块，使用ESP32C3系列芯片。可以让您的插座更加智能，使用更加便捷！
 
 模组图片：
-![esp32c3图片](../../assets/images/matter/esp32c3.png)
+![esp32c3图片](/assets/images/matter/esp32c3.png)
 
 | 适用模组 |  |
 | -------  | --------- |
-| ESP32C3系列 | [规格书下载](../../assets/download/esp/ESP32C3.zip) |
+| ESP32C3系列 | [规格书下载](/assets/download/esp/ESP32C3.zip) |
 
 
 

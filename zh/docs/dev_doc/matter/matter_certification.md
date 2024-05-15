@@ -62,7 +62,7 @@ cd path/to/connnectedhomeip/out/host/
 
 cd path/to/esp_matter/tools/mfg_tool
 python3 -m pip install -r requirements.txt
-export PATH=$PATH:$PWD/../../connectedhomeip/connectedhomeip/out/host
+export PATH=$PATH:$PWD//connectedhomeip/connectedhomeip/out/host
 生成工厂分区二进制文件
 ```
 ./mfg_tool.py -n <count> -cn Espressif --paa -c /path/to/PAA_certificate -k /path/to/PAA_key \

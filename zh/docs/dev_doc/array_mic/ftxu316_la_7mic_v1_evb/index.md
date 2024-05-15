@@ -11,7 +11,7 @@ title: FTXU316_LA_7MIC_V1
 
   
 <div class="grid cards" markdown>
-- ![FTXU316_LA_7MIC_V1阵列麦克风](../../../assets/images/7mic/FTXU316-LA-7MIC-V1_evaluation_top_mark.png "FTXU316_LA_7MIC_V1阵列麦克风"){width="260"}  ![FTXU316_LA_7MIC_V1主板接口](../../../assets/images/7mic/FTXU316-LA-7MIC-V1_evaluation_side_mark.png "FTXU316_LA_7MIC_V1主板接口"){width="350"}
+- ![FTXU316_LA_7MIC_V1阵列麦克风](/assets/images/7mic/FTXU316-LA-7MIC-V1_evaluation_top_mark.png "FTXU316_LA_7MIC_V1阵列麦克风"){width="260"}  ![FTXU316_LA_7MIC_V1主板接口](/assets/images/7mic/FTXU316-LA-7MIC-V1_evaluation_side_mark.png "FTXU316_LA_7MIC_V1主板接口"){width="350"}
 </div>
 
 ## 评估板详细参数和使用信息

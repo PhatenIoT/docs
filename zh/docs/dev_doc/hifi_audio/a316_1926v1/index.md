@@ -7,7 +7,7 @@ title: A316-1926V1 USB多路高清音频解码器模组规格书
 --8<-- "common/phaten_xmos_support_img.md"
 
 <div class="result" markdown>
-![A316-1926V1 USB多路音频解码器模组](../../../assets/images/hifi_audio/a316_1926v1.png "A316-1926V1 USB多路音频解码器模组"){align=right width=250}
+![A316-1926V1 USB多路音频解码器模组](/assets/images/hifi_audio/a316_1926v1.png "A316-1926V1 USB多路音频解码器模组"){align=right width=250}
 ## 1、产品介绍
 ### 1.1 产品描述
 
@@ -39,7 +39,7 @@ title: A316-1926V1 USB多路高清音频解码器模组规格书
 ### 1.3 产品框图
 
 <figure markdown="span">
-  ![A316-1926V1框图](../../../assets/images/hifi_audio/a316_1926v1_diagram.png "A316-1926V1框图"){width="600"}
+  ![A316-1926V1框图](/assets/images/hifi_audio/a316_1926v1_diagram.png "A316-1926V1框图"){width="600"}
   <figcaption></figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ title: A316-1926V1 USB多路高清音频解码器模组规格书
 
 ### 2.1 管脚布局
 <figure markdown="span">
-  ![A316-1926V1管脚图](../../../assets/images/hifi_audio/a316_1926v1_module_pin_define.png "A316-1926V1管脚图"){width=400}
+  ![A316-1926V1管脚图](/assets/images/hifi_audio/a316_1926v1_module_pin_define.png "A316-1926V1管脚图"){width=400}
   <figcaption></figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ PCB尺⼨：19.5±0.3(L)X26±0.3(W)X0.8±0.1(H)
 
 ### 3.2 模组封装图
 <figure markdown="span">
-  ![A316-1926V1封装图](../../../assets/images/hifi_audio/a316_1926v1_module_size.png "A316-1926V1封装图"){width=400}
+  ![A316-1926V1封装图](/assets/images/hifi_audio/a316_1926v1_module_size.png "A316-1926V1封装图"){width=400}
   <figcaption></figcaption>
 </figure>
 
@@ -130,6 +130,6 @@ PCB尺⼨：19.5±0.3(L)X26±0.3(W)X0.8±0.1(H)
 
 ## 5、推荐回流焊炉温曲线
 <figure markdown="span">
-  ![推荐回流焊炉温曲线](../../../assets/images/hifi_audio/module_smt_temp.png "推荐回流焊炉温曲线"){width=600}
+  ![推荐回流焊炉温曲线](/assets/images/hifi_audio/module_smt_temp.png "推荐回流焊炉温曲线"){width=600}
   <figcaption></figcaption>
 </figure>

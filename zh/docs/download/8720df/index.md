@@ -23,7 +23,7 @@
 
 <!-- |    SDK    |      |
 |:-------|------:|
-| AmebaD SDK(ZIP) | [点击下载](../../assets/download/8720df/sdk-amebad_v6.2d-RC.zip) | -->
+| AmebaD SDK(ZIP) | [点击下载](/assets/download/8720df/sdk-amebad_v6.2d-RC.zip) | -->
 
 
 

@@ -37,7 +37,7 @@ status: new
 ## 方案框图
 
 <figure markdown="span">
-  ![产品框图](../../assets/images/7mic/xmos-316-la.png "方案框图"){width="500"}
+  ![产品框图](/assets/images/7mic/xmos-316-la.png "方案框图"){width="500"}
   <figcaption></figcaption>
 </figure>
 
@@ -60,4 +60,4 @@ status: new
 
 | 产品型号                            | 产品名称                           |产品图片                                 |
 | :--------------------------------- | :--------------------------------- | :---------------------------------: |
-| [FTXU316-LA-7MIC-V1](../../../products/array_mic/ftxu316_la_7mic_v1_pcba)                 | XU316 7MIC无感本地扩音PCBA     |    ![XU316 7MIC无感本地扩音PCBA](../../assets/images/7mic/FTXU316-LA-7MIC-V1.png){width="250"} |
+| [FTXU316-LA-7MIC-V1](/products/array_mic/ftxu316_la_7mic_v1_pcba)                 | XU316 7MIC无感本地扩音PCBA     |    ![XU316 7MIC无感本地扩音PCBA](/assets/images/7mic/FTXU316-LA-7MIC-V1.png){width="250"} |
