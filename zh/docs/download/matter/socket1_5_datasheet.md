@@ -10,6 +10,6 @@
 
 |     系列模组 |        版本        |     规格书     |
 | ---------- | ------------ | -------------- |
-| WB03A-8684H2_WB03A-8684H2V1 |  V1.0   | [点击下载](/assets/download/esp/IOT精简-托盘-无包装-模板-WB03A-8684H2_WB03A-8684H2V1_306.pdf) |
-| WB02A-8685H4_WB02A-8685H4V1 |   V1.0   | [点击下载](/assets/download/esp/IOT精简-托盘-无包装-模板-WB02A-8685H4_WB02A-8685H4V1_310.pdf) |
-| W02B-8684H2_W02B-8684H2V1 |   V1.0   | [点击下载](/assets/download/esp/IOT精简-托盘-无包装-模板-W02B-8684H2_W02B-8684H2V1_308.pdf) |
+| WB03A-8684H2_WB03A-8684H2V1 |  V1.0   | [点击下载](/docs/assets/download/esp/IOT精简-托盘-无包装-模板-WB03A-8684H2_WB03A-8684H2V1_306.pdf) |
+| WB02A-8685H4_WB02A-8685H4V1 |   V1.0   | [点击下载](/docs/assets/download/esp/IOT精简-托盘-无包装-模板-WB02A-8685H4_WB02A-8685H4V1_310.pdf) |
+| W02B-8684H2_W02B-8684H2V1 |   V1.0   | [点击下载](/docs/assets/download/esp/IOT精简-托盘-无包装-模板-W02B-8684H2_W02B-8684H2V1_308.pdf) |
