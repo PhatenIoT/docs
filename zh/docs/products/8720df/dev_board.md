@@ -230,7 +230,7 @@ Tx EVM
 
 ## 9 原理图
 
-![NodeMcu-8720DFV1开发板原理图](/assets/images/8720DF/开发板原理图.png)
+![NodeMcu-8720DFV1开发板原理图](/docs/assets/images/8720DF/开发板原理图.png)
 
 
 
