@@ -100,4 +100,4 @@ W5B03A-1720DF开发板 是基于 PKE8720DF-A00-F10开发板由Pankore为PKM8720D
 
 
 ## 8 购买链接
-[点击购买 W5B03A-1720DF开发板](../../buy_sample/buy_sample/8720df.md)
+[点击购买 W5B03A-1720DF开发板](../../buy_sample/8720df.md)
