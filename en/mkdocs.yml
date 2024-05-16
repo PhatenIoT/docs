@@ -1,0 +1,247 @@
+# ref link: https://alinex.gitlab.io/env/mkdocs/
+#===================================================================================#
+# Site Information
+#===================================================================================#
+site_name: Phaten Technology|Wi-Fi IOT Module|Wi-Fi IOT Program|Wi-Fi Matter Program
+site_description: Shenzhen Phaten Technology Co., Ltd-Phaten Technology|Wi-Fi IOT Module|Wi-Fi IOT Program|Wi-Fi Matter Program
+site_author: Phaten
+site_dir: '../../site/en'
+copyright: Copyright &copy; 2024 <a href="https://www.phaten.com">Shenzhen Phaten Technology Co., Ltd</a>
+
+#===================================================================================#
+# Mkdocs Theme (Material Mkdocs) + Extras
+#===================================================================================#
+theme:
+  name: material
+  custom_dir: material
+  language: en
+  #logo: assets/images/logos/binbash-icon.png
+  # icon: # https://www.materialpalette.com/icons
+  logo: assets/images/logos/phaten-logo-cn.png
+  favicon: assets/images/logos/phaten-logo-ico.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.footnote.tooltips
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tabs
+    - navigation.top
+    - navigation.path
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  palette:
+    - scheme: default
+      #primary: teal
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      #primary: teal
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+plugins:
+  - blog
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+  - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: true
+       caption_position: bottom
+       background: white
+       shadow: true
+
+extra_css:
+    - assets/stylesheets/extra.css
+
+extra_javascript:
+    - assets/javascripts/extra.js
+
+extra:
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  alternate:
+    # Switch to English
+    - name: English
+      #link: https://leverage.binbash.co
+      link: /en/
+      lang: en
+
+    # Switch to Chinese
+    - name: 中文
+      #link: https://leverage.binbash.co/zh/
+      link: /zh/
+      lang: zh
+
+#===================================================================================#
+# Mkdocs Markdown Extentions, Plugins & extras
+#===================================================================================#
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __spanpymdownx.tilde
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      base_path:
+        - docs
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
+#===================================================================================#
+# Mkdocs Navigation Tree
+#===================================================================================#
+nav:
+  - Home: index.md
+  - Applications:
+    - W5B03A-1720DFV1 5.8G Transmission Application Solution: solutions/8720df/vr_glasses_solution.md
+    - WBR3DU-C Transparent Transmission Solution: solutions/8720cf/rtl8720cf_solution.md
+    - Phaten Matter Solutions: 
+        - solutions/matter/index.md
+        - Matter 1-5 socket solutions: solutions/matter/socket1_5.md
+        - Matter 5 street light solution: solutions/matter/rgbcw_light.md
+    - Phaten TasmotaSolutions:
+        - solutions/tasmota/index.md
+        - Tasmota metering socket solutions: solutions/tasmota/socket.md
+        - Tasmota-matter socket solutions: solutions/tasmota/tasmota-matter.md
+        - Tasmota-matter 5 street light solution: solutions/tasmota/tasmota-matter-light.md
+    
+
+  - Product Center:
+    - W5B03A-1720DFV1 Module: 
+      - products/8720df/index.md
+      - NodeMcu-8720DFV1 Development Board: products/8720df/dev_board.md
+    - WBR3DU-C Module: 
+      - products/8720cf/index.md
+    - Matter Products: 
+
+      - Matter Module: products/matter/socket1_5.md
+
+    - Tasmota Products: 
+
+      - Tasmota Metering Socket Module: products/tasmota/socket.md
+      - Tasmota-matter Module: products/tasmota/tasmota-matter.md
+
+  - Documentation:
+
+    - Matter:
+      - Matter Certification: dev_doc/matter/matter_certification.md
+    - Tasmota:
+      - Tasmota Getting Started: dev_doc/tasmota/getting_started.md
+
+
+  - Sample purchase:
+    # - buy_sample/index.md
+    - Matter 产品:
+      - Matter Products: buy_sample/matter/socket1_5.md
+      # - Matter5路球泡灯模组: buy_sample/matter/rgbcw_light.md   通用模组，在插座中就可查看到
+    - Tasmota Products: 
+      - Tasmota metering socket module: buy_sample/tasmota/socket.md
+      - Tasmota-matter Module: buy_sample/tasmota/tasmota-matter.md
+    - W5B03A-1720DF Module: buy_sample/8720df.md
+    - WBR3DU-C Module: buy_sample/8720cf.md
+
+  - Services & Support:
+    # - services_support/index.md
+    - Download Center:
+      # - 工具和软件: 
+      #   - download/tools_software/index.md
+      # - 产品设计资料: 
+      #   - download/product_resource/index.md
+      - W5B03A-1720DFV1 Literature: 
+        - W5B03A-1720DFV1 Development Kit: 
+          - download/8720df/index.md
+        - W5B03A-1720DF module hardware datasheet: download/8720df/8720df_datasheet.md
+      - WBR3DU-C Datasheet: 
+        - WBR3DU-C Development Kit: 
+          - download/8720cf/index.md 
+        - WBR3DU-C Module Hardware Datasheet: download/8720cf/8720cf_datasheet.md
+      - Matter Datasheet: 
+        - Matter Module Hardware Datasheet: download/matter/socket1_5_datasheet.md
+      - Tasmota Datasheet:
+        - Tasmota Socket Hardware Datasheet: download/tasmota/socket_datasheet.md
+        - Tasmota-matter Module Hardware Datasheet: download/tasmota/tasmota-matter_datasheet.md
+    - Frequently Asked Questions: 
+      - faq/index.md
+      # - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
+    - Inquiries and services:
+      - acquire_services/index.md
+
+
+  - Technical articles:
+    - blog/index.md
+    - Matter Product Networking Guide: blog/matter/matter_networking.md
+
+
+  - About Us:
+      - about_us/index.md
+      - Join Us: about_us/join_us.md
+      - Contact Us: about_us/contact_us.md

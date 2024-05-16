@@ -16,7 +16,17 @@ W5B03A-1720DF开发板 是基于 PKE8720DF-A00-F10开发板由Pankore为PKM8720D
 
 
 
-## 2 特性
+## 2 外观尺寸
+
+### 产品图片
+
+![NodeMcu-8720DFV1开发板](/docs/assets/images/8720DF/NodeMcu-8720DFV1开发板(1).png)
+
+### 产品尺寸
+
+![NodeMcu-8720DFV1开发板尺寸](/docs/assets/images/8720DF/开发板尺寸.png)
+
+## 3 特性
 
 - 支持802.11a/b/g/n1x1,2.4 GHz&5 GHz
 - 支持20MHz/40MHz带宽，MCS7
@@ -29,7 +39,7 @@ W5B03A-1720DF开发板 是基于 PKE8720DF-A00-F10开发板由Pankore为PKM8720D
 - 内部共存机制Wi-Fi和BT共享同一天线
 - KM4和KM0都有一个GDMA控制器，每个都有6个通道
 
-## 3 应用方向
+## 4 应用方向
 
 - 智能家居
 - 健康和健身
@@ -37,7 +47,7 @@ W5B03A-1720DF开发板 是基于 PKE8720DF-A00-F10开发板由Pankore为PKM8720D
 - 医疗
 - 工业
 
-## 4 主要参数
+## 5 主要参数
 
 | Parameter | Description |
 | --- | --- |
@@ -54,15 +64,7 @@ W5B03A-1720DF开发板 是基于 PKE8720DF-A00-F10开发板由Pankore为PKM8720D
 | 接口 | UART/GPIO/ADC/PWM/I2C/SPI/SWD/USB 2.0 HS/SDIO/DMIC/IR/I2S |
 | 模块认证 | FCC/CE/SRRC |
 
-## 5 外观尺寸
 
-### 产品图片
-
-![NodeMcu-8720DFV1开发板](/docs/assets/images/8720DF/NodeMcu-8720DFV1开发板(1).png)
-
-### 产品尺寸
-
-![NodeMcu-8720DFV1开发板尺寸](/docs/assets/images/8720DF/开发板尺寸.png)
 
 
 ## 6 管脚定义
