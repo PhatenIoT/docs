@@ -1,5 +1,5 @@
 ---
-title: Matter 1-5路插座和灯模组
+title: Matter 1-5路插座和灯模组 产品概述
 ---
 
 # 一、Matter 模组产品概述
@@ -29,10 +29,13 @@ ESP8684 系列芯片还集成了先进的自校准电路，实现了动态自动
 - 便捷升级：可OTA远程升级，即使需求改变，可以轻而易举的升级
 
 
-# 三、ESP32C2系列（ESP8684 系列）模组硬件规格书
+#  三 模组介绍
+## [点击进入查看matter模组介绍](../../services_support/matter/WB02A-8684H2V1_datasheet.md)
 
-## [点击查看具体规格书](../../download/matter/socket1_5_datasheet.md)
+# 四、ESP32C2系列（ESP8684 系列）模组硬件规格书
 
-# 四、购买链接
+## [点击下载具体规格书](../../download/matter/socket1_5_datasheet.md)
+
+# 五、购买链接
 
 ## [点击进入选购](../../buy_sample/matter/socket1_5.md)

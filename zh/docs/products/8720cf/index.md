@@ -26,8 +26,12 @@ WBR3DU-C是一个 RTOS平台，集成了所有 Wi-Fi MAC 以及 TCP/IP 协议的
 - 外接天线
 - 工作温度：-40℃ to 105℃
 
-## 3 产品规格书
-[点击进入 WBR3DU-C模组规格书](../../download/8720cf/8720cf_datasheet.md)
 
-## 4 购买链接
+##  3 模组介绍
+[点击进入查看WBR3DU-C模组介绍](../../services_support/8720cf/WBR3DU-C_datasheet.md)
+
+## 4 规格书下载
+[点击下载 WBR3DU-C模组规格书](../../download/8720cf/8720cf_datasheet.md)
+
+## 5 购买链接
 [点击购买 WBR3DU-C模组](../../buy_sample/8720cf.md)

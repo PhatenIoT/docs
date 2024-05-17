@@ -26,8 +26,12 @@ WBR3DU-C is an RTOS platform that integrates all Wi-Fi MAC and TCP/IP protocol l
 - External Antenna
 - Operating temperature: -40°C to 105°C
 
-## 3 Product Specification
-[Click to enter WBR3DU-C module datasheet](../../download/8720cf/8720cf_datasheet.md)
 
-## 4 Purchase Link
+## 3 Module Introduction
+[Click to view WBR3DU-C module introduction](../../services_support/8720cf/WBR3DU-C_datasheet.md)
+
+## 4 Product Specification
+[Click to download WBR3DU-C Module Datasheet](../../download/8720cf/8720cf_datasheet.md)
+
+## 5 Purchase Link
 [Click to buy WBR3DU-C Module](../../buy_sample/8720cf.md)

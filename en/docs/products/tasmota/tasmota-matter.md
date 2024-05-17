@@ -27,9 +27,11 @@ Module image:
 - Re-developable: even for developers, after obtaining the module, they can easily develop their own content according to the firmware we provide.
 - Convenient upgrade: OTA remote upgrade, even if the demand changes, it can be easily upgraded.
 
+## III、 Three Module introduction ##
+## [Click to view Tasmota module introduction](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
 
-# III. Tasmota-matter module hardware datasheet
-## [Click to view specific specification](../../download/tasmota/tasmota-matter_datasheet.md)
+# IV. Tasmota-matter module hardware datasheet
+## [Click to download the specifications](../../download/tasmota/tasmota-matter_datasheet.md)
 
-# IV、Buy Links
+# VI、Buy Links
 ## [Click to shop](../../buy_sample/tasmota/tasmota-matter.md)

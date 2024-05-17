@@ -5,8 +5,6 @@ title: Tasmota电量计量插座模组
 # Tasmota-matter模组
 
 
-
-
 # 一、简介
 Tasmota-matter模组 与 Tasmota电量计量插座模组 **同样采用ESP32-C3 芯片，可用于插座、灯**
 
@@ -27,9 +25,11 @@ Tasmota-matter模组 与 Tasmota电量计量插座模组 **同样采用ESP32-C3 
 - 可再次开发：即便是开发人员，获得模组后，可以轻松根据我们提供的固件上手开发自己的内容
 - 便捷升级：可OTA远程升级，即使需求改变，可以轻而易举的升级
 
+#  三 模组介绍
+## [点击进入查看Tasmota模组介绍](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
 
-# 三、Tasmota-matter模组硬件规格书
-## [点击查看具体规格书](../../download/tasmota/tasmota-matter_datasheet.md)
+# 四、Tasmota-matter模组硬件规格书
+## [点击下载具体规格书](../../download/tasmota/tasmota-matter_datasheet.md)
 
-# 四、购买链接
+# 五、购买链接
 ## [点击进入选购](../../buy_sample/tasmota/tasmota-matter.md)

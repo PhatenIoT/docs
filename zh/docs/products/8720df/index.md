@@ -28,9 +28,11 @@ KM0协处理器是一种节能、易于使用的32位核心，它与KM4核心的
 APB外设通过来自多层AXI总线矩阵的AXI总线端口的APB总线连接到AXI总线矩阵。这可以减少CPU和DMA控制器之间的冲突，也允许异步桥上的外设具有不跟踪系统时钟的固定时钟。
 </p>
 
-##  4 产品文档
-[点击进入W5B03A-1720DFV1模组规格书](../../download/8720df/8720df_datasheet.md)
+##  4 模组介绍
+[点击进入查看W5B03A-1720DFV1模组介绍](../../services_support/8720df/W5B03A-1720DFV1_datasheet.md)
 
+## 5 规格书下载
+[点击进入W5B03A-1720DFV1模组规格书](../../download/8720df/8720df_datasheet.md)
 
 <!-- 换行使用<br> -->
 ##  5 购买链接

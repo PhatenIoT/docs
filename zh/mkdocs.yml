@@ -245,11 +245,19 @@ nav:
 
   - 服务&支持:
     # - services_support/index.md
+    - 产品规格介绍:
+      - Matter 产品规格:
+        - Matter WB02A-8684H2V1: services_support/matter/WB02A-8684H2V1_datasheet.md
+        - Matter WB03A-8684H2V1: services_support/matter/WB03A-8684H2V1_datasheet.md
+        - Matter WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
+      - Tasmota 产品规格:
+        - Tasmota WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
+      - W5B03A-1720DF 产品规格:
+        - W5B03A-1720DFV1: services_support/8720df/W5B03A-1720DFV1_datasheet.md
+      - WBR3DU-C 产品规格:
+        - WBR3DU-C: services_support/8720cf/WBR3DU-C_datasheet.md
+
     - 下载中心:
-      # - 工具和软件: 
-      #   - download/tools_software/index.md
-      # - 产品设计资料: 
-      #   - download/product_resource/index.md
       - W5B03A-1720DF资料: 
         - W5B03A-1720DF开发资料: 
           - download/8720df/index.md

@@ -29,10 +29,13 @@ ESP8684 系列芯片还集成了先进的自校准电路，实现了动态自动
 - Convenient upgrade: OTA remote upgrade, even if the demand changes, can be easily upgraded.
 
 
-# 3 ESP32C2 Series (ESP8684 Series) Module Hardware Datasheet
+# 3 Three modules are introduced 
+## [Click to enter to see the introduction of matter module](../../services_support/matter/WB02A-8684H2V1_datasheet.md)
 
-## [Click to view specific datasheet](../../download/matter/socket1_5_datasheet.md)
+# 4 ESP32C2 Series (ESP8684 Series) Module Hardware Datasheet
 
-# 4 Purchase Links
+## [Click to download the specifications](../../download/matter/socket1_5_datasheet.md)
+
+# 5 Purchase Links
 
 ## [Click to shop](../../buy_sample/matter/socket1_5.md)

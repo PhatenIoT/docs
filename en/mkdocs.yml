@@ -211,6 +211,17 @@ nav:
 
   - Services & Support:
     # - services_support/index.md
+    - Product Specification:
+      - Matter Module:
+        - Matter WB02A-8684H2V1: services_support/matter/WB02A-8684H2V1_datasheet.md
+        - Matter WB03A-8684H2V1: services_support/matter/WB03A-8684H2V1_datasheet.md
+        - Matter WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
+      - Tasmota Module:
+        - Tasmota WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
+      - W5B03A-1720DF Module:
+        - W5B03A-1720DFV1: services_support/8720df/W5B03A-1720DFV1_datasheet.md
+      - WBR3DU-C Module:
+        - WBR3DU-C: services_support/8720cf/WBR3DU-C_datasheet.md
     - Download Center:
       # - 工具和软件: 
       #   - download/tools_software/index.md

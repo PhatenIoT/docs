@@ -28,10 +28,13 @@ The multi-layer AXI bus matrix connects the CPU bus and other bus masters to per
 APB peripherals are connected to the AXI bus matrix via APB buses from the AXI bus ports of the multilayer AXI bus matrix. This reduces conflicts between the CPU and the DMA controller, and also allows peripherals on asynchronous bridges to have fixed clocks that do not track the system clock.
 </p>
 
-##  4 Product Documentation
-[Click to enter W5B03A-1720DFV1 module datasheet](../../download/8720df/8720df_datasheet.md)
+## 4 Module Introduction
+[Click to view W5B03A-1720DFV1 Module introduction](../../services_support/8720df/W5B03A-1720DFV1_datasheet.md)
+
+##  5 Product Documentation
+[Click to download W5B03A-1720DFV1 module Datasheet](../../download/8720df/8720df_datasheet.md)
 
 
 <!-- 换行使用<br> -->
-##  5 Buy Links
+##  6 Buy Links
 [Click to buy W5B03A-1720DFV1 Module](../../buy_sample/8720df.md)

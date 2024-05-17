@@ -24,8 +24,11 @@ Tasmota电量计量插座模组采用ESP32-C3 芯片
 - 便捷升级：可OTA远程升级，即使需求改变，可以轻而易举的升级
 
 
-# 三、Tasmota电量计量插座模组硬件规格书
-## [点击查看具体规格书](../../download/tasmota/socket_datasheet.md)
+#  三 模组介绍
+## [点击进入查看Tasmota模组介绍](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
 
-# 四、购买链接
+# 四、Tasmota电量计量插座模组硬件规格书
+## [点击下载具体规格书](../../download/tasmota/socket_datasheet.md)
+
+# 五、购买链接
 ## [点击进入选购](../../buy_sample/tasmota/socket.md)

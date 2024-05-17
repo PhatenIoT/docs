@@ -23,9 +23,11 @@ Module image:
 - Re-developable: even for developers, after obtaining the module, they can easily develop their own content according to the firmware we provide.
 - Convenient upgrade: OTA remote upgrade, even if the demand changes, it can be easily upgraded.
 
+## 3、 Three Module introduction ##
+## [Click to view Tasmota module introduction](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
 
-# 3、Hardware specification for Tasmota power metering socket module
-## [Click to view specific specification](../../download/tasmota/socket_datasheet.md)
+# 4、Hardware specification for Tasmota power metering socket module
+## [Click to download the specifications](../../download/tasmota/socket_datasheet.md)
 
-# 4、Buy Links
+# 5、Buy Links
 ## [Click to shop](../../buy_sample/tasmota/socket.md)
