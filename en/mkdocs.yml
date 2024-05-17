@@ -200,11 +200,11 @@ nav:
 
   - Sample purchase:
     # - buy_sample/index.md
-    - Matter 产品:
-      - Matter Products: buy_sample/matter/socket1_5.md
+    - Matter Products:
+      - Matter Module: buy_sample/matter/socket1_5.md
       # - Matter5路球泡灯模组: buy_sample/matter/rgbcw_light.md   通用模组，在插座中就可查看到
     - Tasmota Products: 
-      - Tasmota metering socket module: buy_sample/tasmota/socket.md
+      - Tasmota metering socket Module: buy_sample/tasmota/socket.md
       - Tasmota-matter Module: buy_sample/tasmota/tasmota-matter.md
     - W5B03A-1720DF Module: buy_sample/8720df.md
     - WBR3DU-C Module: buy_sample/8720cf.md

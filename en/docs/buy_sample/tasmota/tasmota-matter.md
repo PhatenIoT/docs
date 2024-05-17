@@ -1,5 +1,5 @@
 
 
-| 产品型号                   | 功能描述                 |状态               |购买                 |                          
+| Product Model                   | Functional Description                 | statuses               | buying                 |                        
 | :------------------------ | :------------------------| :---------------: | :----------------: |
-| WB02A-8685H4V1  |  1、可支持配置1路按键、继电器，继电器指示灯、配网指示灯<br>2、支持配置5路球泡灯、CWRGB模式，冷暖光彩光调节   |        未上架        |   [点击购买]() |
+| WB02A-8685H4V1  |  1、Can support the configuration of 1-way key, relay, relay indicator, distribution network indicator<br>2、Support the configuration of 5-way bulb light, CWRGB mode, warm and cold light colour light adjustment   |        not on the shelves        |   [Click to buy]() |

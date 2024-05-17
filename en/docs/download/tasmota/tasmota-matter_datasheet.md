@@ -8,5 +8,5 @@
 
 |     Module Series |    Release   |     Specification     |
 | :---------- | :---------: | ------------: |
-| WB02A-8685H4_WB02A-8685H4V1 |      V1.0      | [Click to view & download](/docs/assets/download/esp/IOT精简-托盘-无包装-模板-WB02A-8685H4_WB02A-8685H4V1_310.pdf) |
+| WB02A-8685H4_WB02A-8685H4V1 |      V1.0      | [Click to view & download](/assets/download/esp/IOT精简-托盘-无包装-模板-WB02A-8685H4_WB02A-8685H4V1_310.pdf) |
 

@@ -30,7 +30,7 @@ The WBR3DU-C Embedded Wi-Fi provides a solution to connect a user's physical dev
 - Rich functionality: supports WIFI STA and AP, static IP function, TCP/UDP pass-through function.
 
 ## 4 Functional Block Diagram
-![functional block diagram](/assets/images/8720CF/功能框图.png)
+![functional block diagram](/assets/images/8720CF/功能框图-en.png)
 
 ## 5 Implementation steps
 1. Initialize WIFI module: send specific AT command to initialize WIFI module.
@@ -50,7 +50,7 @@ The WBR3DU-C Embedded Wi-Fi provides a solution to connect a user's physical dev
 
 3.TCP/UDP Transmission applications 
 
-![TCP/UDP Transmission applications](/assets/images/8720CF/1280X1280TCP-UDP透传应用.PNG)
+![TCP/UDP Transmission applications](/assets/images/8720CF/1280X1280TCP-UDP透传应用en.PNG)
 
 ## 7 Product Description
 [Click here to see the introduction of WBR3DU-C module](../../products/8720cf/index.md)

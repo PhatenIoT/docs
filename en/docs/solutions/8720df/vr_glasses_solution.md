@@ -23,7 +23,7 @@ Based on W5B03A-1720DFV1 5.8G wireless transmitting application program has the 
 
 ## 4 Advantages
 This program is based on W5B03A-1720DFV1 module; RTL872xD is a dual-band Wi-Fi (2.4G+5G) and BLE5.0 Soc chip. With ultra-low power consumption, complete encryption strategy and rich peripheral resources, it has low latency and high transmission speed compared with traditional 2.4G communication, which can fully meet the requirements of real-time data processing and low-latency transmission of VR glasses.
-![W5B03A-1720DFV1 5.8G Data Transmission Application Solution](/assets/images/8720DF/RTL-8720DF-5.8G透传方案.JPEG.png)
+![W5B03A-1720DFV1 5.8G Data Transmission Application Solution](/assets/images/8720DF/RTL-8720DF-5.8G透传方案.JPEG-en.png)
 
 1. MCU module collects vehicle data through sensors. 2.
 2. Collected vehicle data, through the serial port AT command control W5B03A-1720DFV1 to establish TCP/UDP connection, through the 5.8G transmission, the data will be transmitted to the VR glasses.

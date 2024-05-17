@@ -26,12 +26,12 @@ When prompted to place your HomePod or HomePod mini in the center of your iPhone
 #### 5. Customize HomePod Settings
 Follow the on-screen instructions to select your settings. Once you're done, you can also manage your HomePod settings in the Home app.
  
-![图片](/assets/images/matter/苹果配网2.PNG)
+![图片](/assets/images/matter/苹果配网2-en.PNG)
  
 #### 6. Wait for Setup and Configuration to Complete
 Wait for HomePod or HomePod mini to finish setting up, then tap Done. Once setup is complete, HomePod will continue to configure in the Home app. The time it takes to configure may vary. During configuration, you can use Siri on HomePod to play audio.
  
-![图片](/assets/images/matter/苹果配网3.PNG)
+![图片](/assets/images/matter/苹果配网3en.PNG)
 
 
 #### (ii) Apple Home Connectionmatter Products

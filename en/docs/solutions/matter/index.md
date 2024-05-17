@@ -10,7 +10,7 @@ Matter is an industry harmonized standard that provides reliable and secure conn
 As a member of the Connectivity Standards Alliance, Feiteng Cloud is an active contributor to the development of the Matter protocol. This gives our customers the ability to easily build various types of Matter smart home devices. Feiteng Cloud offers the most comprehensive solution for Matter, including support for Wi-Fi or Thread endpoint devices, Thread border routers and Matter gateway reference designs.
 ![tupian](/assets/images/matter/overview.png)
 
-![Equipment relationships available](/assets/images/matter/产品提供设备图.png)
+![Equipment relationships available](/assets/images/matter/产品提供设备图en.png)
 
 ## 2 Introduction to Flying Cloud Matter Solution
   1. Based on Loxin ESP32C2 Matter solution, customized compression using 2M Flash ESP32c2 module.

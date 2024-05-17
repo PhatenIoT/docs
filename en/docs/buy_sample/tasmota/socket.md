@@ -1,5 +1,5 @@
 
 
-| 产品型号                   | 功能描述                 |状态               |购买                 |                          
+| Product Model                   | Functional Description                 | statuses               | buying                 |                          
 | :------------------------ | :------------------------| :---------------: | :----------------: |
-| WB02A-8685H4V1  |  可支持配置1路按键、继电器，继电器指示灯、配网指示灯   |        未上架        |   [点击购买]()   |
+| WB02A-8685H4V1  |  Support configuration of 1 key, relay, relay indicator, distribution network indicator   |        not on the shelves        |   [Click to buy]()   |
