@@ -13,6 +13,6 @@ Matter 是一个行业统一标准，可为智能家居设备提供可靠和安�
 ![可提供设备关系](/assets/images/matter/产品提供设备图.png)
 
 ## 2 飞腾云 Matter 方案介绍
-  1. 基于乐鑫ESP32C2 Matter方案，定制压缩使用2M Flash ESP32c2模组
+  1. 基于飞腾云 Matter 方案，定制压缩使用2M Flash ESP32c2模组
   2. 定制使用 DAC 认证证书，支持导入客户DAC证书
   3. 辅助客户认证 Matter品类方案认证
