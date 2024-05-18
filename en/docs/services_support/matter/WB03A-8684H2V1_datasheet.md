@@ -36,7 +36,7 @@ The H682-84V1 is an RTOS platform that integrates all Wi-Fi MAC and TCP/IP proto
 | Product Name | WB03A-8684H2V1 |
 | Product Description | Wi-Fi4 and BLE5 IOT Dual Mode Module |
 | Encapsulation Type | SMT Stamp Hole/Pin Hole |
-| | Eco-Friendly Note | All hardware components are fully compliant with EU RoHS |
+| Eco-Friendly Note | All hardware components are fully compliant with EU RoHS |
 
 
 ### 1.4 Absolute Electrical Parameters

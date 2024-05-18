@@ -205,20 +205,33 @@ nav:
       # - products/tasmota/index.md
       - Tasmota电量计量插座模组: products/tasmota/socket.md
       - Tasmota-matter模组: products/tasmota/tasmota-matter.md
+
+      
   - 开发文档:
     # - dev_doc/index.md
     - Matter:
       - Matter认证: dev_doc/matter/matter_certification.md
     - Tasmota:
       - Tasmota入门: dev_doc/tasmota/getting_started.md
+    - 产品规格介绍:
+      - Matter 产品规格:
+        - Matter WB02A-8684H2V1: services_support/matter/WB02A-8684H2V1_datasheet.md
+        - Matter WB03A-8684H2V1: services_support/matter/WB03A-8684H2V1_datasheet.md
+        - Matter WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
+      - Tasmota 产品规格:
+        - Tasmota WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
+      - W5B03A-1720DF 产品规格:
+        - W5B03A-1720DFV1: services_support/8720df/W5B03A-1720DFV1_datasheet.md
+      - WBR3DU-C 产品规格:
+        - WBR3DU-C: services_support/8720cf/WBR3DU-C_datasheet.md
 
     
-      # - 命令: dev_doc/tasmota/commands.md
-      # - 模组及PCBA: 
-      #   - FTXU316-LA-7MIC-V1套件:
-      #   - dev_doc/array_mic/ftxu316_la_7mic_v1/index.md
-      #   - PCBA套件硬件规格书: dev_doc/array_mic/ftxu316_la_7mic_v1/硬件规格书.md
-      #   - 成品及评估板安装使用说明: dev_doc/array_mic/ftxu316_la_7mic_v1/使用说明.md
+    #   - 命令: dev_doc/tasmota/commands.md
+    #   - 模组及PCBA: 
+    #     - FTXU316-LA-7MIC-V1套件:
+    #     - dev_doc/array_mic/ftxu316_la_7mic_v1/index.md
+    #     - PCBA套件硬件规格书: dev_doc/array_mic/ftxu316_la_7mic_v1/硬件规格书.md
+    #     - 成品及评估板安装使用说明: dev_doc/array_mic/ftxu316_la_7mic_v1/使用说明.md
 
     # - USB HiFi声卡:
     #   - 开发及评估板:
@@ -245,17 +258,7 @@ nav:
 
   - 服务&支持:
     # - services_support/index.md
-    - 产品规格介绍:
-      - Matter 产品规格:
-        - Matter WB02A-8684H2V1: services_support/matter/WB02A-8684H2V1_datasheet.md
-        - Matter WB03A-8684H2V1: services_support/matter/WB03A-8684H2V1_datasheet.md
-        - Matter WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
-      - Tasmota 产品规格:
-        - Tasmota WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
-      - W5B03A-1720DF 产品规格:
-        - W5B03A-1720DFV1: services_support/8720df/W5B03A-1720DFV1_datasheet.md
-      - WBR3DU-C 产品规格:
-        - WBR3DU-C: services_support/8720cf/WBR3DU-C_datasheet.md
+
 
     - 下载中心:
       - W5B03A-1720DF资料: 
