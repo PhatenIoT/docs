@@ -29,7 +29,7 @@ Feiteng cloud in 2019 began to study Tasmota products, in this service is relati
 
 ### 2 Our Services
 
-- **Convenience:**No need to buy disassembled and time-consuming hardware configuration from the official
+- **Convenience:** No need to buy disassembled and time-consuming hardware configuration from the official
 - **Customization:** To meet customer's specific or required content, and provide better products for customer's shipment or development.
 - **Provide pre-configured firmware:** Fetion Cloud directly provide firmware configuration, customers can be upgraded remotely via OTA, directly into the debugging, do what they want to do!
 - **Perfect Tasmota function support:** Continuous Tasmota firmware maintenance, the original firmware bugs, long-term optimization and updating.

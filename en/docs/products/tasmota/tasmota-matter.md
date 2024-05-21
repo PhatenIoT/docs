@@ -8,7 +8,7 @@ title: Tasmota-matter module
 
 
 # I. Introduction
-The Tasmota-matter module uses the same ESP32-C3 chip as the Tasmota power metering socket module ** and can be used in sockets and lamps **.
+The Tasmota-matter module uses the same ESP32-C3 chip as the Tasmota power metering socket module **and can be used in sockets and lamps**.
 
 Integrated ESP32-C3 (ESP8685) chip, RISC-V 32-bit single-core processor clocked at up to 160 MHz
 Industry-leading low-power performance and RF performance

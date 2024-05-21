@@ -19,7 +19,7 @@ Matter is an industry harmonized standard that provides reliable and secure conn
 
 Feiteng Cloud has completed the creation of the Matter1-5 way socket solution to provide customers with a viable smart socket module. With our module, it is easily realized to make your own baseboard modules compatible, just add these modules to your devices. Also support the service of certified certificates without having to spend time on things like firmware development, mobile apps, cloud connectivity and maintenance, certification or manufacturing complexity.
 
-|    Sample Example Drawing     |        |           |          |           |
+|    <th>Sample Example Drawing</th>     |   <th></th>     |      <th></th>     |    <th></th>      |    <th></th>       |
 | ----  |  --------- | ------ | --------- | --------- |
 |   ![1 way socket](/assets/images/matter/1插座.png)    |    ![2 way socket](/assets/images/matter/2插座.png)     |     ![3 way socket](/assets/images/matter/3插座.png)     |     ![4 way socket](/assets/images/matter/4插座.png)    |       ![5 way socket](/assets/images/matter/5插座.png)      |
 

@@ -5,13 +5,13 @@ title: tasmota development documentation--getting startde
 
 
 ## Prerequisites
-## Required hardware
+## 1 Required hardware
 
 
-### ESP devices
+### 1.1 ESP devices
 Every device based on the [espressif](https://www.espressif.com/en/products/socs) ESP8266, ESP8285, ESP32, ESP32-S, or ESP32-C3 chipset can be flashed using Tasmota. The term ESP refers to any of them.
 
-### Serial Programmer
+### 1.2 Serial Programmer
 [The power supplied to the device](https://www.letscontrolit.com/wiki/index.php?title=Power)is one of the **most important factors** for flashing and stable operation of the device. You must ensure that the device is getting enough power (current and proper voltage tage levels) to properly refresh the firmware on the device.
 
 - [CH340G](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF) is recommended as the most reliable and cheapest starter (CH340G, [Sparkfun](https://www.sparkfun.com/products/14050)、[solder connection](https://soldered.com/product/connect-programmer/)、[CH340N with AMS1117](https://www.aliexpress.com/item/1005004742270942.html))。
@@ -43,32 +43,32 @@ When using an external 3.3V power supply, make sure that the ground (GND) of the
 Devices with a USB upload port usually have a serial programmer built in，for example [NodeMCU](https://en.wikipedia.org/wiki/NodeMCU)、[D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html) 或 [M5Stack Products](https://m5stack.com/)。
 <img src="/docs/assets/images/tasmota/golden-ch340g.png" alt="USB 上传端口" width="200"/>
 
-### Soldering tools
+### 1.3 Soldering tools
 To solder, you will of course need a soldering iron, tin and some flux. If you are not familiar with soldering, check out some soldering tutorial videos.
 
 If you are intimidated by soldering, there are 3D printing jigs available for different modules and devices. In the worst case scenario, you can use jumper wires to hold the joints in the pinholes tightly in place during flashing, but it's not a foolproof process and flashing can fail.
 
-### Jumper cables
+### 1.4 Jumper cables
 You can use any type of wire, but jumper cables (also known as Dupont wire) are more practical than soldering and desoldering.
 
-### Pinouts
+### 1.5 Pinouts
 Poke pins are available in either male or female versions. Choose according to your jumper connector.
 
-### Computer with Linux, Windows or MacOS
+### 1.6 Computer with Linux, Windows or MacOS
 You need a computer with a USB port to upload firmware to your device and configure it.
 
-### Smartphone
+### 1.7 Smartphone
 Tasmota installed from pre-compiled binaries needs to be configured to work with your Wi-Fi network before you can access the Tasmota Web UI.This is typically done by using a smartphone (or tablet or computer with Wi-Fi) connected to a Tasmota Wi-Fi Access Point.
 
-## Required software
-### Tasmota Firmware Binaries
+## 2 Required software
+### 2.1 Tasmota Firmware Binaries
 Download the Tasmota firmware binaries (.bin). If you are not sure which binary is right for you, simply start with the build sheet or consult the build sheet to see which features you need. tasmota.bin
 
 The official version of the binaries can be downloaded from the [firmware server](http://ota.tasmota.com/tasmota/release/).
 
 The latest development branch binaries are only available from our OTA server. The latest merged development code is compiled hourly.
 
-### Flashing Tools
+### 2.2 Flashing Tools
 - **[Tasmota Web Installer](https://tasmota.github.io/install/)** - Flashes Tasmota for ESP82XX and ESP32 using Chrome-based browser
 - **[Tasmotizer](https://github.com/tasmota/tasmotizer)** - Flashing and firmware download tool for ESP82XX only. (Windows, Linux or Mac)
 - **[ESP-Flasher](https://github.com/Jason2866/ESP_Flasher)** - GUI flasher for Tasmota based on ESP82XX and ESP32 esptool.py. (Windows, Linux or Mac)
@@ -79,12 +79,12 @@ The latest development branch binaries are only available from our OTA server. T
 <p>If you want to modify the code or default settings and compile your own Tasmota firmware.</p>
 </div>
 
-## MQTT Knowledge
+## 3 MQTT Knowledge
 Tasmota is intended to be controlled and communicated via [MQTT](http://mqtt.org/). To use it to its full potential, you need an [MQTT proxy](https://www.hivemq.com/blog/mqtt-essentials-part-3-client-broker-connection-establishment/).
 
 Read TASMOTA's article on [MQTT](https://tasmota.github.io/docs/MQTT/) to see why it is critical in Tasmota.
 
-## Hardware preparation
+## 4 Hardware preparation
 We need to connect to the serial programming interface of the ESP chip. This is done by connecting our serial to USB converter TX and RX pins to the ESP RX and TX pins and powering the chip using the 3.3V and GND pins.
 
 In most cases, these pins are provided as pin holes or pads on the PCB, but pin connectors or jumpers need to be soldered or otherwise applied. In some cases you will need to solder the wires directly to the chip's pins, which requires some experience and good soldering equipment.
@@ -103,7 +103,7 @@ In most cases, these pins are provided as pin holes or pads on the PCB, but pin 
 If you're not careful, your own health is at risk. Shorting out the serial interface using power AC power can burn out your device and the serial adapter, and can also damage or break your computer. When working through a serial connection, or even when opening the device case
 **It is important to always disconnect all power cords from the device**.
 
-### 串行连接
+### 4.1 Serial connection
 The pins are labelled differently for each device. If the labels are not visible on the PCB, refer to the device blinking guide or search the Internet for the correct pin locations. Device-specific instructions and restrictions are documented in the Tasmota Supported Devices repository. Pinouts for commonly used Wi-Fi modules can be found here
 
 After identifying the pins on the device, connect the wires according to the table:
@@ -118,7 +118,7 @@ After identifying the pins on the device, connect the wires according to the tab
 **Please note that TX from the adapter goes to RX on the ESP device and RX from the adapter goes to TX on the device!**
 ![wiring diagram](/docs/assets/images/tasmota/接线.png)
 
-### Programming Mode
+### 4.2 Programming Mode
 Typical GPIO0 Location
 
 The ESP needs to enter **Programming Mode** or **Flash Mode** before it can upload firmware. This is done by connecting the GPIO0 pin to GND when the chip boots.
@@ -145,7 +145,7 @@ To place the ESP in programming mode:
 
 If all went well, you are now in programming mode and ready to continue flashing. If the refresh process does not start, disconnect the device and retry these steps.
 
-### Common Errors
+### 4.3 Common Errors
 - Cable connections and solder joints - Double check all connections and check for solder overflow.
 - Using a **USB cable** - Some USB cables are for charging only and do not connect the cable needed to load firmware to the device.
 - The serial programmer is not providing enough power. This can result in failed flashing or complete corruption of the flash memory. Use a separate 3.3V power supply to provide more power, or use an adapter with a better power supply. Make sure you use the same GND wire for all DC voltages.
@@ -155,7 +155,7 @@ If all went well, you are now in programming mode and ready to continue flashing
 - Before uploading the Tasmota firmware binaries, erase the flash memory and reboot the power supply. Failure to erase may leave residues of previous flash contents, which may interfere with new firmware operation.
 
 
-## 安装
+## 5 fix
 
 If you have followed **Hardware Preparation**, your device should be in **Programming Mode** and ready to install the Tasmota firmware binaries.
 To install: you will go to the original Tasmota web page
@@ -170,7 +170,7 @@ To install: you will go to the original Tasmota web page
 
 
 
-## After configuration
+## 6 After configuration
 Devices running Tasmota can now be controlled.
 
 See all the features of Tasmota and ways to integrate it with other platforms.
