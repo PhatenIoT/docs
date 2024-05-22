@@ -1,7 +1,6 @@
 ---
-title: Phaten 飞腾云 matter WB02A-8685H4V1 模组质料
+title: Phaten 飞腾云 matter WB02A-8685H4V1 简介
 ---
-# Matter WB02A-8685H4V1 模组质料
 
 ## 1、产品介绍
 ### 1.1 产品描述
@@ -161,6 +160,6 @@ PCB板载天线
 
 托盘+外箱包装
 
-# 更多资料
+## 更多资料
 
-[详细规格书请前往Tasmota模组规格书下载页面](../../download/tasmota/socket_datasheet.md)
+[详细规格书请前往ESP8685规格书下载页面](../../download/8720df/8720df_datasheet.md#esp8685)

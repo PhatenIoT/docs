@@ -4,9 +4,9 @@ title: Tasmota电量计量插座模组
 
 
 # 一、Tasmota电量计量插座模组
-Tasmota电量计量插座模组采用ESP32-C3 芯片
+Tasmota电量计量插座模组采用ESP8685 芯片
 
-集成 ESP32-C3（ESP8685） 芯片，RISC-V 32 位单核处理器，时钟频率高达 160 MHz
+集成 ESP8685 芯片，RISC-V 32 位单核处理器，时钟频率高达 160 MHz
 行业领先的低功耗性能和射频性能
 内置 400 KB SRAM、384 KB ROM 存储空间，并支持多个外部 SPI、Dual SPI、Quad SPI、QPI flash
 完善的安全机制：基于 RSA-3072 算法的安全启动、基于 AES-128-XTS 算法的 flash 加密、创新的数字签名和 HMAC 模块、支持加密算法的硬件加速器
@@ -24,11 +24,15 @@ Tasmota电量计量插座模组采用ESP32-C3 芯片
 - 便捷升级：可OTA远程升级，即使需求改变，可以轻而易举的升级
 
 
-#  三 模组介绍
+<!-- #  三 模组介绍
 ## [点击进入查看Tasmota模组介绍](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
 
 # 四、Tasmota电量计量插座模组硬件规格书
 ## [点击下载具体规格书](../../download/tasmota/socket_datasheet.md)
 
 # 五、购买链接
-## [点击进入选购](../../buy_sample/tasmota/socket.md)
+## [点击进入选购](../../buy_sample/tasmota/socket.md) -->
+
+#  三、[产品技术文档](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
+
+# 五、[点击进入选购 WB02A-8685H4V1](../../buy_sample/tasmota/socket.md)

@@ -20,11 +20,11 @@ W5B03A-1720DF开发板 是基于 PKE8720DF-A00-F10开发板由Pankore为PKM8720D
 
 ### 产品图片
 
-![NodeMcu-8720DFV1开发板](/docs/assets/images/8720DF/NodeMcu-8720DFV1开发板(1).png)
+![NodeMcu-8720DFV1开发板](/assets/images/8720DF/NodeMcu-8720DFV1开发板(1).png)
 
 ### 产品尺寸
 
-![NodeMcu-8720DFV1开发板尺寸](/docs/assets/images/8720DF/开发板尺寸.png)
+![NodeMcu-8720DFV1开发板尺寸](/assets/images/8720DF/开发板尺寸.png)
 
 ## 3 特性
 
@@ -102,4 +102,4 @@ W5B03A-1720DF开发板 是基于 PKE8720DF-A00-F10开发板由Pankore为PKM8720D
 
 
 ## 8 购买链接
-[点击购买 W5B03A-1720DF开发板](../../buy_sample/8720df.md)
+[点击购买 W5B03A-1720DF开发板](../../buy_sample/8720df.md#rtl8720df)

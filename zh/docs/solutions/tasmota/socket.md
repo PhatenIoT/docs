@@ -2,7 +2,7 @@
 title: tasmota电量计量插座解决方案
 ---
 
-# Tasmota 电量计量插座 方案
+# 预置 Tasmota 电量计量插座应用方案
 
 ## 一、方案介绍
 
@@ -35,6 +35,8 @@ title: tasmota电量计量插座解决方案
 - **完善的Tasmota功能支持：** 持续的Tasmota固件维护，对原始固件的bug，进行长期的优化更新。
 
 
-## 二、产品介绍
-[点击进入tasmota 电量计量插座模组介绍](../../products/tasmota/socket.md)
+## 二、适用本方案的产品
+<!-- [点击进入tasmota 电量计量插座模组介绍](../../products/tasmota/socket.md) -->
+
+[点击进入 WB02A-8685H4V1 模组介绍](../../products/tasmota/tasmota-matter.md)
 

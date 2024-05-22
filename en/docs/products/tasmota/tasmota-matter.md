@@ -1,37 +1,29 @@
 ---
-title: Tasmota-matter module
+title: Tasmota Power Metering Socket Module
 ---
 
-# Tasmota-matter module
-
-
-
+#  WB02A-8685H4V1 Module
 
 # I. Introduction
-The Tasmota-matter module uses the same ESP32-C3 chip as the Tasmota power metering socket module **and can be used in sockets and lamps**.
+The Tasmota-matter module, like the Tasmota power metering socket module, **also uses the ESP8685 chip and can be used for sockets and lights**.
 
-Integrated ESP32-C3 (ESP8685) chip, RISC-V 32-bit single-core processor clocked at up to 160 MHz
-Industry-leading low-power performance and RF performance
-Built-in 400 KB SRAM, 384 KB ROM memory and support for multiple external SPI, Dual SPI, Quad SPI, QPI flash
-Comprehensive security mechanisms: Secure boot based on RSA-3072 algorithm, flash encryption based on AES-128-XTS algorithm, innovative digital signature and HMAC module, hardware gas pedal supporting cryptographic algorithms
-Rich communication interfaces and GPIO pins to support multiple scenarios and complex applications
-RF certified and software protocol certified
+It integrates the ESP8685 chip, a RISC-V 32-bit single-core processor, with a clock frequency of up to 160 MHz.
+Industry-leading low-power and RF performance.
+Built-in 400 KB SRAM, 384 KB ROM storage space, and supports multiple external SPI, Dual SPI, Quad SPI, QPI flash.
+Comprehensive security mechanisms: secure boot based on RSA-3072 algorithm, flash encryption based on AES-128-XTS algorithm, innovative digital signature and HMAC module, hardware accelerator for encryption algorithms support.
+Rich communication interfaces and GPIO pins, supporting various scenarios and complex applications.
+RF certification and software protocol certification.
 
-Module image:
+Module Image:
 
-![esp32c3图片](/assets/images/matter/8685-03.png)
+![esp32c3 image](/assets/images/matter/8685-03.png)
 
-# II. Product features
+# II. Product Features
 
-- Easy to use: Finished manufacturers can be used directly on the patch
-- Re-developable: even for developers, after obtaining the module, they can easily develop their own content according to the firmware we provide.
-- Convenient upgrade: OTA remote upgrade, even if the demand changes, it can be easily upgraded.
+- Easy to use: Manufacturers can directly mount the finished product.
+- Reusable for development: Even developers can easily develop their own content based on the firmware we provide after obtaining the module.
+- Convenient upgrades: Supports OTA remote upgrades, making upgrades easy even if requirements change.
 
-## III、 Three Module introduction ##
-## [Click to view Tasmota module introduction](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
+# III. [Product Technical Documentation](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
 
-# IV. Tasmota-matter module hardware datasheet
-## [Click to download the specifications](../../download/tasmota/tasmota-matter_datasheet.md)
-
-# VI、Buy Links
-## [Click to shop](../../buy_sample/tasmota/tasmota-matter.md)
+# IV. [Click to Enter WB02A-8685H4V1 Purchase](../../buy_sample/index.md#esp8685)

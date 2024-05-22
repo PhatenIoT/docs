@@ -1,8 +1,8 @@
 ---
-title: Tasmota-matter 5 Street Lighting Solution
+title: Pre-configured Tasmota-matter 5 street light application programme
 ---
 
-## Tasmota-matter 5 Street Lighting Solution
+## Pre-configured Tasmota-matter 5 street light application programme
 
 ## 1. Introduction to the program
 
@@ -43,6 +43,6 @@ Call out Apple , Alexa, Google voice assistant to respond immediately:
 - **Provide pre-configured firmware:** Fetion Cloud directly provides firmware configuration, customers can upgrade remotely via OTA, directly into the debugging, do what they want to do!
 - **Perfect Tasmota function support:** Continuous Tasmota firmware maintenance, the original firmware bugs, long-term optimization and updating.
 
-## 6. Products
-[Click to enter Tasmota-matter module introduction](../../products/tasmota/tasmota-matter.md)
+## 6. Products Suitable for this Solution
+[Click to enter the WB02A-8685H4V1 module introduction](../../products/tasmota/tasmota-matter.md)
 

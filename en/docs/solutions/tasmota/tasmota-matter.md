@@ -1,9 +1,8 @@
 ---
-title: Tasmota-matter Receptacle Solution
+title: Tasmota-matter Light Solutions
 ---
 
-## Tasmota-matter Receptacle Solution
-
+## Preset Tasmota-matter 5-Channel Lighting Application Solution
 ## 1. Introduction to the Solution
 
 ## 2. Overview
@@ -43,6 +42,6 @@ Call out Apple, Alexa, Google voice assistant, you can immediately respond:
 - **Provide pre-configured firmware:** Fetion Cloud directly provides firmware configuration, customers can upgrade remotely via OTA, directly into the debugging, do what they want to do!
 - **Perfect Tasmota function support:** Continuous Tasmota firmware maintenance, the original firmware bugs, long-term optimization and updating.
 
-## 6. Products
-[Click to enter the Tasmota-matter module introduction](../../products/tasmota/tasmota-matter.md)
+## 6. Products Suitable for this Solution
+[Click to enter the WB02A-8685H4V1 module introduction](../../products/tasmota/tasmota-matter.md)
 

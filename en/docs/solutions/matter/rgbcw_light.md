@@ -6,7 +6,7 @@ title: Matter5 Street Lighting Solutions
 
 | Core information |        |         |
 | -------- | ---------- |------------ |
-| communication protocols：Bluetooth Wi-Fi |   chip platform：ESP32C2   |          |
+| communication protocols：Bluetooth Wi-Fi |   chip platform：ESP8684   |          |
 
 
 ## 1 Overview
@@ -43,13 +43,15 @@ Hardware Support
 - Provide dac certificate authentication services
 - Provide Matter product certification service
 - Customized PWM or IIC Hardware Configuration Service
-- We will be based on the specific requirements of the customer, and we have to obtain the customer-defined IO configurations and specifications and other requirements documents.
-   To meet the different needs of the population and the purchase of finished products customers。
+- We will work according to the customer's specific requirements, and we will obtain customer-defined IO configurations as well as specifications and other requirements documents. We are able to satisfy the needs of different groups of people as well as the purchasers of the finished products.
 
 ## 4 Sample delivery time
-When the formal requirements and business are finalized, we will complete and deliver the samples to customers in about 1 week.
+When the formal requirements and business are determined, we will complete the delivery of samples to the customer in 2 days.
 
+## 5 Products to which this programme applies
 
-## 5 Matter Module Introduction
+[Click to enter Matter WB02A-8684H2V1 module introduction page](../../products/matter/socket1_5.md)
 
-[Click to enter the Matter module introduction page](../../products/matter/socket1_5.md) 
+[Click to enter Matter WB03A-8684H2V1 module introduction page](../../products/matter/WB03A-8684H2V1.md)
+
+[Click to enter Matter WB02B-8684H2V1 module introduction page](../../products/matter/WB02B-8684H2V1.md)

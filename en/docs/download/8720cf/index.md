@@ -9,14 +9,14 @@
 |:-------|------:|
 | RTL8720Cx_Datasheet_R73064_V1.2（PDF） | [Click to view & download](/assets/download/8720cf/RTL8720Cx_Datasheet_R73064_V1.2.pdf) |
 
-
+<!-- 
 |   HDK     |      |
 |:-------|------:|
 | RTL8720CF_HDK-AZ87C02_7V0(71189)(ZIP) | [Click to view & download](/assets/download/8720cf/RTL8720CF_HDK-AZ87C02_7V0(71189).zip) |
 
-<!-- |    SDK    |      |
+|    SDK    |      |
 |:-------|------:|
-| SDK-ameba(ZIP) | [点击下载](/assets/download/8720cf/00018588-sdk-ameba-v7.1d(19346).zip) | -->
+| SDK-ameba(ZIP) | [点击下载](/assets/download/8720cf/00018588-sdk-ameba-v7.1d(19346).zip) |
 
 
 
@@ -31,7 +31,7 @@
 
 |    Module Application    |      |
 |:-------|------:|
-| W5B03A-1720CFV1 Module AT User Guide (PDF) | [Click to view & download](/assets/download/8720cf/RTL8720cf-AT指令介绍及应用示例.pdf) |
+| W5B03A-1720CFV1 Module AT User Guide (PDF) | [Click to view & download](/assets/download/8720cf/RTL8720cf-AT指令介绍及应用示例.pdf) | -->
 
 
 

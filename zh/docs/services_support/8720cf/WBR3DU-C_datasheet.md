@@ -1,10 +1,7 @@
 ---
-title: 飞腾云 WBR3DU-C 产品规格 
+title:  WBR3DU-C 简介 
 ---
-# WBR3DU-C 产品规格 
-
-
-
+# WBR3DU-C 简介 
 
 ## 1 产品描述
 WBR3DU-C是一款低功耗嵌入式 Wi-Fi+蓝牙模组。它由一个高集成度的无线射频芯片
@@ -98,6 +95,6 @@ PCB 尺寸大小：12±0.3mm (L)×15±0.3mm (W) ×0.8±0.1mm (H)。
 ![](/assets/images/8720CF/8720cf尺寸.png)
 
 
-# 更多资料
+## 更多资料
 
-[详细规格书请前往WBR3DU-C模组规格书下载页面](../../download/8720cf/8720cf_datasheet.md)
+[详细规格书请前往WBR3DU-C模组规格书下载页面](../../download/8720df/8720df_datasheet.md#rtl8720cf)

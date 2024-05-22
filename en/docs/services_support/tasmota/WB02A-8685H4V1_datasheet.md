@@ -1,7 +1,7 @@
 ---
 title: Phaten 飞腾云 matter WB02A-8685H4V1 module material
 ---
-# Matter WB02A-8685H4V1 module material
+
 
 ## 1. Product description
 ### 1.1 Product description
@@ -163,4 +163,4 @@ Pallet + outer box packaging
 
 ## More information
 
-[For detailed specifications, please go to the Tasmota Module Specification Download page.](../../download/tasmota/socket_datasheet.md)
+[For detailed datasheet, please go to ESP8685 datasheet download page](../../download/8720df/8720df_datasheet.md#esp8685)

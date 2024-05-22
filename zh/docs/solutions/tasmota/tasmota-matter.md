@@ -2,7 +2,7 @@
 title: Tasmota-matter 插座解决方案
 ---
 
-# Tasmota-matter 插座解决方案
+# 预置 Tasmota-matter 插座应用方案
 
 ## 一、方案介绍
 
@@ -12,7 +12,7 @@ title: Tasmota-matter 插座解决方案
 
 Tasmota 不带 Matter功能的方案，只能通过web网页控制设备。加入Matter之后，实现与三大平台的连接（Apple home、Alexa、Google home）
 
-## 更智能
+### 更智能
 使用Tasmota-matter方案的插座，不仅可以使用web来控制设备，在成功配网后，还可以通过web页面显示的二维码或者设备贴纸上的二维码连接App。实现了从Tasmota到Matter的跳跃。
 
 之后使用App，可以进行更多智能操作：
@@ -20,14 +20,14 @@ Tasmota 不带 Matter功能的方案，只能通过web网页控制设备。加�
 - 可以使用App自带的自动化功能，让你的设备自己“动起来”
 - 远程控制，只需要保证智能音箱与设备 Wi-Fi一致，手机网络畅通即可控制设备
 
-## 更便捷
+### 更便捷
 
 呼喊Apple 、Alexa、Google 语音助手，即可马上响应：
 
 - 倒计时（定时）开关插座：Alexa、Google 支持
 - 语音开关功能 Alexa、Google ，iPhone 支持 
 
-## 支持插座功能配置
+### 支持插座功能配置
 - 复位时间
 - 继电器指示灯
 - 设备重置的时间或者方式
@@ -42,6 +42,8 @@ Tasmota 不带 Matter功能的方案，只能通过web网页控制设备。加�
 - **提供预置固件：** 飞腾云直接提供固件配置，客户可通过OTA远程升级，直接进入调试，做自己想做的事情！
 - **完善的Tasmota功能支持：** 持续的Tasmota固件维护，对原始固件的bug，进行长期的优化更新。
 
-## 二、产品介绍
-[点击进入Tasmota-matter模组介绍](../../products/tasmota/tasmota-matter.md)
+## 二、适用本方案的产品
+<!-- [点击进入Tasmota-matter模组介绍](../../products/tasmota/tasmota-matter.md) -->
+
+[点击进入 WB02A-8685H4V1 模组介绍](../../products/tasmota/tasmota-matter.md)
 

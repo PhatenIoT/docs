@@ -102,4 +102,4 @@ The rich peripherals and high performance make it ideal for smart homes, industr
 
 
 ## 8 Buy Links
-[Click to buy W5B03A-1720DF Development Board](../../buy_sample/8720df.md)
+[Click to buy W5B03A-1720DF Development Board](../../buy_sample/8720df.md#rtl8720df)

@@ -1,7 +1,7 @@
 ---
 title: Phaten matter WB03A-8684H2V1 module material
 ---
-# Matter WB03A-8684H2V1 module material
+
 
 ## 1. Product description
 ### 1.1 Product description
@@ -169,4 +169,4 @@ Pallet + outer box packaging
 
 ## More information
 
-[For detailed datasheet, please go to Matter module datasheet download page](../../download/matter/socket1_5_datasheet.md)
+[For detailed datasheet, please go to ESP8684 datasheet download page](../../download/8720df/8720df_datasheet.md#esp8684)

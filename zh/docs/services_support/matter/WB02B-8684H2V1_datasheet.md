@@ -1,7 +1,7 @@
 ---
-title: Phaten 飞腾云 matter WB02B-8684H2V1 模组质料
+title: Phaten 飞腾云 matter WB02B-8684H2V1 简介
 ---
-# Matter WB02B-8684H2V1 模组质料
+
 
 ## 1、产品介绍
 ### 1.1 产品描述
@@ -157,6 +157,6 @@ PCB尺⼨：15±0.15(L)X17.3±0.15(W)X0.8±0.15(H)
 
 托盘+外箱包装
 
-# 更多资料
+## 更多资料
 
-[详细规格书请前往Matter模组规格书下载页面](../../download/matter/socket1_5_datasheet.md)
+[详细规格书请前往ESP8684规格书下载页面](../../download/8720df/8720df_datasheet.md#esp8684)

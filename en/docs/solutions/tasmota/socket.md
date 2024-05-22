@@ -35,6 +35,6 @@ Feiteng cloud in 2019 began to study Tasmota products, in this service is relati
 - **Perfect Tasmota function support:** Continuous Tasmota firmware maintenance, the original firmware bugs, long-term optimization and updating.
 
 
-## II. Product Description
-[Click here for the introduction of the tasmota power metering socket module.](../../products/tasmota/socket.md)
+## II. Products to which the programme applies
+[Click to enter WB02A-8685H4V1 Module Introduction](../../products/tasmota/tasmota-matter.md)
 

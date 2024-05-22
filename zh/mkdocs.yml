@@ -162,49 +162,46 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 应用方案:
-    # - 麦克风阵列:
-    #   - solutions/mic_array_solution/index.md
-    #   - XU316 7MIC无感本地扩音方案: solutions/mic_array_solution/phaten_xu316-la_7mic_solution.md
-    # - USB HiFi声卡:
-    #   - solutions/hifi_audio/index.md
-    #   - XU316 USB多路高清音频解码器方案: solutions/hifi_audio/phaten_xu316_hifi_audio_solution.md
-    #- W5B03A-1720DFV1模组: 
-      # - solutions\8720df\index.md
-    - W5B03A-1720DFV1 5.8G透传应用方案: solutions/8720df/vr_glasses_solution.md
-    #- W5B03A-1720CFV1模组:
-    - WBR3DU-C 透传应用方案: solutions/8720cf/rtl8720cf_solution.md
-    - 飞腾云 Matter应用方案: 
+    - IOT透传方案:
+        - RTL8720DF Wi-Fi 5.8G数据透传应用于汽车VR方案: solutions/8720df/vr_glasses_solution.md
+        - RTL8720CF 通用透传方案: solutions/8720cf/rtl8720cf_solution.md
+    - ESP8684 Matter 应用方案: 
         - solutions/matter/index.md
-        - Matter1-5路插座应用方案: solutions/matter/socket1_5.md
-        - Matter5路灯应用方案: solutions/matter/rgbcw_light.md
-    - 飞腾云 Tasmota应用方案:
+        - ESP8684 Matter1-5路插座应用方案: solutions/matter/socket1_5.md
+        - ESP8684 Matter5路灯应用方案: solutions/matter/rgbcw_light.md
+    - Tasmota ESP8685 预置应用方案:
         - solutions/tasmota/index.md
-        - Tasmota电量计量插座应用方案: solutions/tasmota/socket.md
-        - Tasmota-matter插座应用方案: solutions/tasmota/tasmota-matter.md
-        - Tasmota-matter5路灯应用方案: solutions/tasmota/tasmota-matter-light.md
+        - 预置Tasmota电量计量插座应用方案: solutions/tasmota/socket.md
+        - 预置Tasmota-matter插座应用方案: solutions/tasmota/tasmota-matter.md
+        - 预置Tasmota-matter5路灯应用方案: solutions/tasmota/tasmota-matter-light.md
     
   # - XMOS USB 高清降噪麦克风系列方案: try-leverage/leverage-project-setup.md
   - 产品中心:
-    # - products/index.md
-    # - 例子最后请删除--麦克风阵列:
-    #     - FTXU316-LA-7MIC-V1:
-    #       - products/array_mic/ftxu316_la_7mic_v1_pcba/index.md
-    # - USB HiFi声卡:
-    #     - A316_1926V1 USB多路音频解码器模组: 
-    #       - products/hifi_audio/a316_1926v1/index.md
-    - W5B03A-1720DFV1模组: 
-      - products/8720df/index.md
-      - NodeMcu-8720DFV1开发板: products/8720df/dev_board.md
-    - WBR3DU-C模组: 
-      - products/8720cf/index.md
-    - Matter产品: 
-      # - products/matter/esp32c2/index.md
-      - Matter模组: products/matter/socket1_5.md
-      # - Matter5路球泡灯模组: products/matter/rgbcw_light.md
-    - Tasmota产品: 
-      # - products/tasmota/index.md
-      - Tasmota电量计量插座模组: products/tasmota/socket.md
-      - Tasmota-matter模组: products/tasmota/tasmota-matter.md
+
+    - 模组:
+      - RTL8720DF:
+        # - products/8720df/index.md
+        - W5B03A-1720DFV1: products/8720df/W5B03A-1720DFV1.md
+      - RTL8720CF:
+        - WBR3DU-C: products/8720cf/WBR3DU-C.md
+      - ESP8684: 
+        - WB02A-8684H2V1: products/matter/socket1_5.md
+        - WB03A-8684H2V1: products/matter/WB03A-8684H2V1.md
+        - WB02B-8684H2V1: products/matter/WB02B-8684H2V1.md
+      - ESP8685: 
+        # - Tasmota WB02A-8685H4V1: products/tasmota/socket.md
+        - WB02A-8685H4V1: products/tasmota/tasmota-matter.md
+      # - Matter产品: 
+      #   - products/matter/esp32c2/index.md
+      #   - Matter模组: products/matter/socket1_5.md
+        # - Matter5路球泡灯模组: products/matter/rgbcw_light.md 
+      # - Tasmota产品: 
+      #   - products/tasmota/index.md
+      #   - Tasmota电量计量插座模组: products/tasmota/socket.md
+      #   - Tasmota-matter模组: products/tasmota/tasmota-matter.md
+    - 开发板:
+        - NodeMcu-8720DFV1开发板: products/8720df/dev_board.md
+    - 串口板: products/serial_board.md
 
       
   - 开发文档:
@@ -213,17 +210,19 @@ nav:
       - Matter认证: dev_doc/matter/matter_certification.md
     - Tasmota:
       - Tasmota入门: dev_doc/tasmota/getting_started.md
-    - 产品规格介绍:
-      - Matter 产品规格:
-        - Matter WB02A-8684H2V1: services_support/matter/WB02A-8684H2V1_datasheet.md
-        - Matter WB03A-8684H2V1: services_support/matter/WB03A-8684H2V1_datasheet.md
-        - Matter WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
-      - Tasmota 产品规格:
-        - Tasmota WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
-      - W5B03A-1720DF 产品规格:
+    - 模组:
+      - RTL8720DF:
         - W5B03A-1720DFV1: services_support/8720df/W5B03A-1720DFV1_datasheet.md
-      - WBR3DU-C 产品规格:
+      - RTL8720CF:
         - WBR3DU-C: services_support/8720cf/WBR3DU-C_datasheet.md
+      - ESP8684:
+        -  WB02A-8684H2V1: services_support/matter/WB02A-8684H2V1_datasheet.md
+        -  WB03A-8684H2V1: services_support/matter/WB03A-8684H2V1_datasheet.md
+        -  WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
+      - ESP8685:
+        -  WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
+    # - 开发板:
+    #   - NodeMcu-8720DFV1开发板: dev_doc/8720df/dev_board.md
 
     
     #   - 命令: dev_doc/tasmota/commands.md
@@ -246,34 +245,26 @@ nav:
     #     - A316-1926V1:
     #       - dev_doc/hifi_audio/a316_1926v1/index.md
   - 样品购买:
-    # - buy_sample/index.md
-    - Matter产品:
-      - Matter模组: buy_sample/matter/socket1_5.md
-      # - Matter5路球泡灯模组: buy_sample/matter/rgbcw_light.md   通用模组，在插座中就可查看到
-    - Tasmota产品: 
-      - Tasmota电量计量插座模组: buy_sample/tasmota/socket.md
-      - Tasmota-matter模组: buy_sample/tasmota/tasmota-matter.md
-    - W5B03A-1720DF模组: buy_sample/8720df.md
-    - WBR3DU-C模组: buy_sample/8720cf.md
+    - 模组: 
+      - buy_sample/index.md
+    - 开发板: buy_sample/8720df.md
+    - 串口板: buy_sample/serial_board.md
+
 
   - 服务&支持:
     # - services_support/index.md
 
 
     - 下载中心:
-      - W5B03A-1720DF资料: 
-        - W5B03A-1720DF开发资料: 
-          - download/8720df/index.md
-        - W5B03A-1720DF模组硬件规格书: download/8720df/8720df_datasheet.md
-      - WBR3DU-C资料: 
-        - WBR3DU-C开发资料: 
-          - download/8720cf/index.md 
-        - WBR3DU-C模组硬件规格书: download/8720cf/8720cf_datasheet.md
-      - Matter产品资料: 
-        - Matter模组硬件规格书: download/matter/socket1_5_datasheet.md
-      - Tasmota产品资料:
-        - Tasmota电量计量插座模组硬件规格书: download/tasmota/socket_datasheet.md
-        - Tasmota-matter模组硬件规格书: download/tasmota/tasmota-matter_datasheet.md
+      - RTL8720DF: 
+        - download/8720df/index.md
+      - RTL8720CF: 
+        - download/8720cf/index.md 
+      - 工具和软件下载: 
+        - download/tools_software/index.md
+      - 规格书: download/8720df/8720df_datasheet.md
+
+
     - 常见问题: 
       - faq/index.md
       # - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
@@ -283,7 +274,7 @@ nav:
 
   - 技术文章:
     - blog/index.md
-    - Matter产品配网指导: blog/matter/matter_networking.md
+    # - Matter产品配网指导: blog/matter/matter_networking.md
 
 
   - 关于我们:

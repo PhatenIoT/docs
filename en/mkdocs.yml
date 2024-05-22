@@ -162,86 +162,77 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Applications:
-    - W5B03A-1720DFV1 5.8G Transmission Application Solution: solutions/8720df/vr_glasses_solution.md
-    - WBR3DU-C Transparent Transmission Solution: solutions/8720cf/rtl8720cf_solution.md
-    - Phaten Matter Solutions: 
+    - IoT Pass-through Solutions:
+        - RTL8720DF Wi-Fi 5.8G Data Pass-through Application for Automotive VR Solution: solutions/8720df/vr_glasses_solution.md
+        - RTL8720CF General Pass-through Solution: solutions/8720cf/rtl8720cf_solution.md
+    - ESP8684 Matter Application Solutions: 
         - solutions/matter/index.md
-        - Matter 1-5 socket solutions: solutions/matter/socket1_5.md
-        - Matter 5 street light solution: solutions/matter/rgbcw_light.md
-    - Phaten TasmotaSolutions:
+        - ESP8684 Matter 1-5 Socket Application Solution: solutions/matter/socket1_5.md
+        - ESP8684 Matter 5-Lamp Application Solution: solutions/matter/rgbcw_light.md
+    - Tasmota ESP8685 Preset Application Solutions:
         - solutions/tasmota/index.md
-        - Tasmota metering socket solutions: solutions/tasmota/socket.md
-        - Tasmota-matter socket solutions: solutions/tasmota/tasmota-matter.md
-        - Tasmota-matter 5 street light solution: solutions/tasmota/tasmota-matter-light.md
+        - Preset Tasmota Power Meter Socket Application Solution: solutions/tasmota/socket.md
+        - Preset Tasmota-matter Socket Application Solution: solutions/tasmota/tasmota-matter.md
+        - Preset Tasmota-matter 5-Lamp Application Solution: solutions/tasmota/tasmota-matter-light.md
     
 
   - Product Center:
-    - W5B03A-1720DFV1 Module: 
-      - products/8720df/index.md
-      - NodeMcu-8720DFV1 Development Board: products/8720df/dev_board.md
-    - WBR3DU-C Module: 
-      - products/8720cf/index.md
-    - Matter Products: 
+    - Module:
+      - RTL8720DF:
+        - W5B03A-1720DFV1: products/8720df/W5B03A-1720DFV1.md
+      - RTL8720CF:
+        - WBR3DU-C: products/8720cf/WBR3DU-C.md
+      - ESP8684: 
+        - WB02A-8684H2V1: products/matter/socket1_5.md
+        - WB03A-8684H2V1: products/matter/WB03A-8684H2V1.md
+        - WB02B-8684H2V1: products/matter/WB02B-8684H2V1.md
+      - ESP8685: 
+        - WB02A-8685H4V1: products/tasmota/tasmota-matter.md
 
-      - Matter Module: products/matter/socket1_5.md
-
-    - Tasmota Products: 
-
-      - Tasmota Metering Socket Module: products/tasmota/socket.md
-      - Tasmota-matter Module: products/tasmota/tasmota-matter.md
+    - Development board:
+        - NodeMcu-8720DFV1 Development board: products/8720df/dev_board.md
+    - Serial board: products/serial_board.md
 
   - Documentation:
 
     - Matter:
-      - Matter Certification: dev_doc/matter/matter_certification.md
+      - Matter Accreditation: dev_doc/matter/matter_certification.md
     - Tasmota:
-      - Tasmota Getting Started: dev_doc/tasmota/getting_started.md
-    - Product Specification:
-      - Matter Module:
-        - Matter WB02A-8684H2V1: services_support/matter/WB02A-8684H2V1_datasheet.md
-        - Matter WB03A-8684H2V1: services_support/matter/WB03A-8684H2V1_datasheet.md
-        - Matter WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
-      - Tasmota Module:
-        - Tasmota WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
-      - W5B03A-1720DF Module:
+      - Introduction to Tasmota: dev_doc/tasmota/getting_started.md
+    - Module:
+      - RTL8720DF:
         - W5B03A-1720DFV1: services_support/8720df/W5B03A-1720DFV1_datasheet.md
-      - WBR3DU-C Module:
+      - RTL8720CF:
         - WBR3DU-C: services_support/8720cf/WBR3DU-C_datasheet.md
+      - ESP8684:
+        -  WB02A-8684H2V1: services_support/matter/WB02A-8684H2V1_datasheet.md
+        -  WB03A-8684H2V1: services_support/matter/WB03A-8684H2V1_datasheet.md
+        -  WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
+      - ESP8685:
+        -  WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
+    # - Development board:
+    #   - NodeMcu-8720DFV1 Development board: dev_doc/8720df/dev_board.md
 
 
   - Sample purchase:
     # - buy_sample/index.md
-    - Matter Products:
-      - Matter Module: buy_sample/matter/socket1_5.md
-      # - Matter5路球泡灯模组: buy_sample/matter/rgbcw_light.md   通用模组，在插座中就可查看到
-    - Tasmota Products: 
-      - Tasmota metering socket Module: buy_sample/tasmota/socket.md
-      - Tasmota-matter Module: buy_sample/tasmota/tasmota-matter.md
-    - W5B03A-1720DF Module: buy_sample/8720df.md
-    - WBR3DU-C Module: buy_sample/8720cf.md
+    - Module: 
+      - buy_sample/index.md
+    - Development board: buy_sample/8720df.md
+    - Serial board: buy_sample/serial_board.md
 
   - Services & Support:
     # - services_support/index.md
-
-
     - Download Center:
-      # - 工具和软件: 
-      #   - download/tools_software/index.md
-      # - 产品设计资料: 
-      #   - download/product_resource/index.md
-      - W5B03A-1720DFV1 Literature: 
-        - W5B03A-1720DFV1 Development Kit: 
-          - download/8720df/index.md
-        - W5B03A-1720DF module hardware datasheet: download/8720df/8720df_datasheet.md
-      - WBR3DU-C Datasheet: 
-        - WBR3DU-C Development Kit: 
-          - download/8720cf/index.md 
-        - WBR3DU-C Module Hardware Datasheet: download/8720cf/8720cf_datasheet.md
-      - Matter Datasheet: 
-        - Matter Module Hardware Datasheet: download/matter/socket1_5_datasheet.md
-      - Tasmota Datasheet:
-        - Tasmota Socket Hardware Datasheet: download/tasmota/socket_datasheet.md
-        - Tasmota-matter Module Hardware Datasheet: download/tasmota/tasmota-matter_datasheet.md
+      - RTL8720DF: 
+        - download/8720df/index.md
+      - RTL8720CF: 
+        - download/8720cf/index.md 
+      - Tools and Software Downloads: 
+        - download/tools_software/index.md
+      - Standard Book: download/8720df/8720df_datasheet.md
+
+
     - Frequently Asked Questions: 
       - faq/index.md
       # - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
@@ -251,7 +242,7 @@ nav:
 
   - Technical articles:
     - blog/index.md
-    - Matter Product Networking Guide: blog/matter/matter_networking.md
+    # - Matter Product Networking Guide: blog/matter/matter_networking.md
 
 
   - About Us:
