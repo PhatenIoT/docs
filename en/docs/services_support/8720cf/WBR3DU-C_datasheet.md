@@ -1,7 +1,7 @@
 ---
-title: Phaten WBR3DU-C Product Specification 
+title: Phaten WBR3DU-C Module Specification
 ---
-# WBR3DU-C Product Specification 
+# WBR3DU-C Module Specification
 
 
 

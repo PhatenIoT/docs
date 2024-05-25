@@ -1,7 +1,7 @@
 ---
-title:  WBR3DU-C 简介 
+title:  WBR3DU-C 模组规格书  
 ---
-# WBR3DU-C 简介 
+# WBR3DU-C 模组规格书 
 
 ## 1 产品描述
 WBR3DU-C是一款低功耗嵌入式 Wi-Fi+蓝牙模组。它由一个高集成度的无线射频芯片

@@ -1,7 +1,8 @@
 ---
-title: Phaten Flying Cloud matter WB02A-8684H2V1 module material
+title: Phaten Flying Cloud matter WB02A-8684H2V1 Module Specification
 ---
 
+# WB02A-8684H2V1 Module Specification
 
 ## 1. Product description
 ### 1.1 Product description

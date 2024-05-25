@@ -1,7 +1,8 @@
 ---
-title: Phaten 飞腾云 matter WB02A-8685H4V1 module material
+title: Phaten 飞腾云 matter WB02A-8685H4V1 Module Specification
 ---
 
+# WB02A-8685H4V1 Module Specification
 
 ## 1. Product description
 ### 1.1 Product description

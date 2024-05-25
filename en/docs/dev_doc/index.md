@@ -1,10 +1,10 @@
 ---
-title: XMOS AI产品开发文档
----
+title: Product Development Documentation
+--- title: Product Development Documentation
 
-# XMOS AI产品中心
 
---8<-- "common/phaten_xmos_support_img.md"
+## FEITENCLOUD is deeply committed to Wi-Fi IOT Module|Wi-Fi IOT Solution|Wi-Fi Matter Solution 
 
-飞腾云深耕于XMOS Hi-Fi音频，麦克风阵列，语音降噪等领域，在这三个应用领域，都提供了多种产品的开发文档。
+
+👈More development documents will be updated soon...
 

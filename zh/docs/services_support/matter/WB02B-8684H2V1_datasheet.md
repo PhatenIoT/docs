@@ -1,7 +1,7 @@
 ---
-title: Phaten 飞腾云 matter WB02B-8684H2V1 简介
+title: Phaten 飞腾云 matter WB02B-8684H2V1 模组规格书
 ---
-
+# WB02B-8684H2V1 模组规格书
 
 ## 1、产品介绍
 ### 1.1 产品描述

@@ -161,7 +161,8 @@ markdown_extensions:
 #===================================================================================#
 nav:
   - 首页: index.md
-  - 应用方案:
+  - 应用方案: 
+    - solutions/index.md
     - IOT透传方案:
         - RTL8720DF Wi-Fi 5.8G数据透传应用于汽车VR方案: solutions/8720df/vr_glasses_solution.md
         - RTL8720CF 通用透传方案: solutions/8720cf/rtl8720cf_solution.md
@@ -176,8 +177,8 @@ nav:
         - 预置Tasmota-matter5路灯应用方案: solutions/tasmota/tasmota-matter-light.md
     
   # - XMOS USB 高清降噪麦克风系列方案: try-leverage/leverage-project-setup.md
-  - 产品中心:
-
+  - 产品中心: 
+    - products/index.md
     - 模组:
       - RTL8720DF:
         # - products/8720df/index.md
@@ -205,7 +206,7 @@ nav:
 
       
   - 开发文档:
-    # - dev_doc/index.md
+    - dev_doc/index.md
     - Matter:
       - Matter认证: dev_doc/matter/matter_certification.md
     - Tasmota:
@@ -245,16 +246,14 @@ nav:
     #     - A316-1926V1:
     #       - dev_doc/hifi_audio/a316_1926v1/index.md
   - 样品购买:
-    - 模组: 
-      - buy_sample/index.md
+    - buy_sample/index.md
+    - 模组: buy_sample/model.md
     - 开发板: buy_sample/8720df.md
     - 串口板: buy_sample/serial_board.md
 
 
   - 服务&支持:
-    # - services_support/index.md
-
-
+    - services_support/index.md
     - 下载中心:
       - RTL8720DF: 
         - download/8720df/index.md
@@ -263,12 +262,10 @@ nav:
       - 工具和软件下载: 
         - download/tools_software/index.md
       - 规格书: download/8720df/8720df_datasheet.md
-
-
     - 常见问题: 
       - faq/index.md
       # - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
-    - 咨询及服务:
+    - 咨询及服务: 
       - acquire_services/index.md
 
 

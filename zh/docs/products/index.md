@@ -1,10 +1,9 @@
 ---
-title: XMOS AI产品中心
+title: 产品中心
 ---
 
-# XMOS AI产品中心
 
---8<-- "common/phaten_xmos_support_img.md"
 
-飞腾云深耕于XMOS Hi-Fi音频，麦克风阵列，语音降噪等领域，在这三个应用领域，都提供了多种产品。
+
+飞腾云深耕于|Wi-Fi IOT模组|Wi-Fi IOT方案|Wi-Fi Matter方案 等领域，在这三个应用领域，都提供了多种产品。
 

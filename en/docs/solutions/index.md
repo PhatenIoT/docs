@@ -1,10 +1,7 @@
 ---
-title: XMOS AI解决方案
+title: Fetion Cloud Application Solutions
 ---
 
-# XMOS AI解决方案
+## Flying Cloud Technology | Wi-Fi IOT Module | Wi-Fi IOT Solution | Wi-Fi Matter Solution
 
---8<-- "common/phaten_xmos_support_img.md"
-
-飞腾云深耕于XMOS Hi-Fi音频，麦克风阵列，语音降噪等领域，在这三个应用领域，都提供了多个应用场景的解决方案。
-
+More solutions to come 🤩!

@@ -1,10 +1,9 @@
 ---
-title: XMOS AI产品中心
+title: Product Centre
 ---
 
-# XMOS AI产品中心
 
---8<-- "common/phaten_xmos_support_img.md"
 
-飞腾云深耕于XMOS Hi-Fi音频，麦克风阵列，语音降噪等领域，在这三个应用领域，都提供了多种产品。
+
+Feiteng Cloud is deeply engaged in the field of | Wi-Fi IOT Module | Wi-Fi IOT Solution | Wi-Fi Matter Solution, etc., and provides a wide range of products in all three application areas.
 

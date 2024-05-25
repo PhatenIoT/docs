@@ -1,7 +1,8 @@
 ---
-title: Phaten matter WB02B-8684H2V1 module material
+title: Phaten matter WB02B-8684H2V1 Module Specification
 ---
 
+# WB02B-8684H2V1 Module Specification
 
 ## 1. Product description
 ### 1.1 Product description

@@ -1,8 +1,8 @@
 ---
-title: Flying Cloud W5B03A-1720DFV1 Product Specifications
+title: Flying Cloud W5B03A-1720DFV1 Module Specification
 ---
 
-# W5B03A-1720DFV1 Datasheet
+# W5B03A-1720DFV1 Module Specification
 
 
 ## 1 Product Description
