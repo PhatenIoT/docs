@@ -5,7 +5,7 @@ title: Phaten 飞腾云 matter WB02B-8684H2V1 模组规格书
 
 ## 1、产品介绍
 ### 1.1 产品描述
-WB02B-8684H2V1是⼀款低功耗嵌⼊式Wi-Fi4 and BLE5 IOT双模模组。它由⼀个⾼集成度的⽆线射频
+WB02B-8684H2V1是⼀款低功耗嵌⼊式(2.4 GHz Wi­Fi) 和 Bluetooth 5 (LE) IOT双模模组。它由⼀个⾼集成度的⽆线射频
 芯⽚ESP8684和少量外围器件构成，⽀持STA/AP/STA+AP⼯作模式，并同时⽀持低功耗蓝⽛连接。
 WB02B-8684H2V1内置运⾏速度最⾼可到120MHz的32-bit MCU，1T1R WLAN，272 KB SRAM及内置
 2MB Flash和丰富的外设资源。
@@ -22,7 +22,7 @@ WB02B-8684H2V1是⼀个RTOS 平台，集成了所有Wi-Fi MAC以及TCP/IP协议�
     - Channel 1-14 @ 2.4GHz(CH1-11 for US/CA, CH1-13 for EU/CN, CH1-14 for JP) 
     - ⽀持WEP/WPA/WPA2/WPA2 PSK(AES)和WPA3安全模式
     - ⽀持STA/AP/STA+AP⼯作模式
-    - ⽀持蓝⽛, SmartConfig以及AP两种配⽹⽅式(包括Android和IOS设备)
+    - ⽀持蓝⽛, SmartConfig以及AP两种配⽹⽅式(包括Android和iOS设备)
 - PCB板载天线
 - ⼯作温度：-40℃ to 105℃
 - 蓝⽛连通性
@@ -34,7 +34,7 @@ WB02B-8684H2V1是⼀个RTOS 平台，集成了所有Wi-Fi MAC以及TCP/IP协议�
 | 项目 | 描述 |
 | --- | --- |
 | 产品名称 | WB02B-8684H2V1 |
-| 产品描述 | Wi-Fi4 and BLE5 IOT双模模组 |
+| 产品描述 | (2.4 GHz Wi­Fi) 和 Bluetooth 5 (LE) IOT双模模组 |
 | 封装类型 |  SMT邮票孔 |
 | 环保说明 | 所有硬件部件完全符合欧盟RoHS指令 |
 
@@ -43,8 +43,8 @@ WB02B-8684H2V1是⼀个RTOS 平台，集成了所有Wi-Fi MAC以及TCP/IP协议�
 
 | 参数 | 描述 | 最⼩值 | 最⼤值 | 单位 |
 | --- | --- | --- | --- | --- |
-| Ts | 存储温度 | -40 | 150 | ℃ |
-| VBAT | 供电电压 | -0.3 | 3.6 | V |
+| T store | 存储温度 | -40 | 150 | ℃ |
+| VDD33 | 供电电压 | -0.3 | 3.6 | V |
 | 静电释放电压（⼈体模型） | TAMB -25℃ | -2 | 2 | KV |
 | 静电释放电压（机器模型） | TAMB -25℃ | -500 | 500 | V |
 
@@ -54,7 +54,7 @@ WB02B-8684H2V1是⼀个RTOS 平台，集成了所有Wi-Fi MAC以及TCP/IP协议�
 | 参数 | 描述 | 最⼩值 | 标准值 | 最⼤值 | 单位 |
 | --- | --- | --- | --- | --- | --- |
 | Ta | ⼯作温度 | -40 | - | 105 | ℃ |
-| VBAT | ⼯作电压 | 3 | 3.3 | 3.6 | V |
+| VDD33 | ⼯作电压 | 3 | 3.3 | 3.6 | V |
 | VOL | IO低电平输出 | - | 0.1×VDD1 | - | V |
 | VOH | IO⾼电平输出 | 0.8×VDD1 | - | - | V |
 | I | IO驱动电流 | - | 40 | - | mA |

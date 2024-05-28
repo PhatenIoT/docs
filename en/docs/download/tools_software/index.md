@@ -15,16 +15,17 @@ title: Tools and Software Download Center
 
 ## RTL8720DF
 
-|    Tool    |      |
-|:-------|------:|
-| Ameba Image Tool(ZIP) | [Download](/assets/download/8720df/Ameba-Image_Tool.zip) |
-| Ameba 1to10 image tool(ZIP) | [Download](/assets/download/8720df/ameba-1to10-image-tool-v2.3.zip) |
+|    Tool    |   Description   |     | 
+|:-------|------| --------: |
+| Ameba Image Tool(ZIP) |     Burning tool, supports single burning       | [Download](/assets/download/8720df/Ameba-Image_Tool.zip) |
+| Ameba 1to10 image tool(ZIP) |      Burning tool, supports multiple burnings       | [Download](/assets/download/8720df/ameba-1to10-image-tool-v2.3.zip) |
 
 
 ## RTL8720CF
 
-|    Tool    |      |
-|:-------|------:|
-| AmebaZ2_mptool_1V3(ZIP) | [Download](/assets/download/8720cf/AmebaZ2_mptool_1V3.zip) |
-| Ameba_1-10_MP_Image_Tool_v1.3.1(ZIP) | [Download](/assets/download/8720cf/Ameba_1-10_MP_Image_Tool_v1.3.1(79783).zip) |
-| ImageTool(ZIP) | [Download](/assets/download/8720cf/2022_0520_ImageTool(85511).zip) |
+|    Tool    |   Description   |     | 
+|:-------|------| --------: |
+| AmebaZ2_mptool_1V3(ZIP) |    Firmware Download      | [Download](/assets/download/8720cf/AmebaZ2_mptool_1V3.zip) |
+| Ameba_1-10_MP_Image_Tool_v1.3.1(ZIP) | Burning tool, supports multiple burnings     |  [Download](/assets/download/8720cf/Ameba_1-10_MP_Image_Tool_v1.3.1(79783).zip) |
+| ImageTool(ZIP) | Burning tool, supports single burning       | [Download](/assets/download/8720cf/2022_0520_ImageTool(85511).zip) |
+

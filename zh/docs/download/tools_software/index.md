@@ -15,19 +15,19 @@ title: 工具和软件下载中心
 
 ## RTL8720DF
 
-|    Tool    |      |
-|:-------|------:|
-| Ameba Image Tool(ZIP) | [点击下载](/assets/download/8720df/Ameba-Image_Tool.zip) |
-| Ameba 1to10 image tool(ZIP) | [点击下载](/assets/download/8720df/ameba-1to10-image-tool-v2.3.zip) |
+|    工具    |   描述   |     | 
+|:-------|------| --------: |
+| Ameba Image Tool(ZIP) |      烧录工具，可以单个烧录       | [点击下载](/assets/download/8720df/Ameba-Image_Tool.zip) |
+| Ameba 1to10 image tool(ZIP) |   烧录工具，可以多个烧录     | [点击下载](/assets/download/8720df/ameba-1to10-image-tool-v2.3.zip) |
 
 
 ## RTL8720CF
 
-|    Tool    |      |
-|:-------|------:|
-| AmebaZ2_mptool_1V3(ZIP) | [点击下载](/assets/download/8720cf/AmebaZ2_mptool_1V3.zip) |
-| Ameba_1-10_MP_Image_Tool_v1.3.1(ZIP) | [点击下载](/assets/download/8720cf/Ameba_1-10_MP_Image_Tool_v1.3.1(79783).zip) |
-| ImageTool(ZIP) | [点击下载](/assets/download/8720cf/2022_0520_ImageTool(85511).zip) |
+|    工具    |   描述   |     | 
+|:-------|------| --------: |
+| AmebaZ2_mptool_1V3(ZIP) |    下载固件      | [点击下载](/assets/download/8720cf/AmebaZ2_mptool_1V3.zip) |
+| Ameba_1-10_MP_Image_Tool_v1.3.1(ZIP) | 烧录工具，可以多个烧录     |  [点击下载](/assets/download/8720cf/Ameba_1-10_MP_Image_Tool_v1.3.1(79783).zip) |
+| ImageTool(ZIP) | 烧录工具，可以单个烧录       | [点击下载](/assets/download/8720cf/2022_0520_ImageTool(85511).zip) |
 
 
 

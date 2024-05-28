@@ -6,7 +6,7 @@ title: Phaten Flying Cloud matter WB02A-8684H2V1 Module Specification
 
 ## 1. Product description
 ### 1.1 Product description
- WB02A-8684H2V1 is a low power consumption embedded Wi-Fi4 and BLE5 IOT dual-mode module. It consists of a highly integrated radio frequency (RF) wireless core, the ESP8684, and the WB02A-8684H2V1.
+ WB02A-8684H2V1 is a low power consumption embedded (2.4 GHz Wi­Fi) and Bluetooth 5 (LE) IOT dual-mode module. It consists of a highly integrated radio frequency (RF) wireless core, the ESP8684, and the WB02A-8684H2V1.
 It consists of a highly integrated wireless RF chip, ESP8684, and a small number of peripheral devices, supports STA/AP/STA+AP operation modes, and low-power Bluetooth connectivity at the same time.
  The WB02A-8684H2V1 includes a 32-bit MCU running at up to 120 MHz, a 1T1R WLAN, 272 KB of SRAM and 2 MB of internal Flash, and a rich set of peripherals.
 2MB Flash and rich peripheral resources.
@@ -23,7 +23,7 @@ The H682-84V1 is an RTOS platform that integrates all Wi-Fi MAC and TCP/IP proto
     - Channel 1-14 @ 2.4GHz (CH1-11 for US/CA, CH1-13 for EU/CN, CH1-14 for JP) 
     - Supports WEP/WPA/WPA2/WPA2 PSK(AES) and WPA3 security modes.
     - Supports STA/AP/STA+AP operating modes.
-    - Supports Bluetooth, SmartConfig, and AP for both mesh methods (both Android and IOS devices).
+    - Supports Bluetooth, SmartConfig, and AP for both mesh methods (both Android and iOS devices).
 - PCB on-board antenna
 - Operating temperature: -40°C to 105°C
 - Bluetooth connectivity
@@ -35,7 +35,7 @@ The H682-84V1 is an RTOS platform that integrates all Wi-Fi MAC and TCP/IP proto
 | Item | Description |
 | --- | --- |
 | Product Name | WB02A-8684H2V1 |
-| Product Description | Wi-Fi4 and BLE5 IOT Dual Mode Module |
+| Product Description | (2.4 GHz Wi­Fi) and Bluetooth 5 (LE) IOT Dual Mode Module |
 | Encapsulation Type | SMT Stamp Hole |
 | Eco-Friendly Note | All hardware components are fully compliant with EU RoHS |
 
@@ -44,8 +44,8 @@ The H682-84V1 is an RTOS platform that integrates all Wi-Fi MAC and TCP/IP proto
 
 | Parameters | Description | Numerical values | Maximum values | Units |
 | --- | --- | --- | --- | --- | 
-| Ts | Storage Temperature | -40 | 150 | ℃ |
-| VBAT | Supply Voltage | -0.3 | 3.6 | V |
+| T store | Storage Temperature | -40 | 150 | ℃ |
+| VDD33 | Supply Voltage | -0.3 | 3.6 | V |
 | Static Discharge Voltage (My Body Model) | TAMB -25 °C | -2 | 2 | KV |
 | Static Discharge Voltage (Machine Models) | TAMB -25°C | -500 | 500 | V |
 
@@ -55,7 +55,7 @@ The H682-84V1 is an RTOS platform that integrates all Wi-Fi MAC and TCP/IP proto
 | Parameters | Description | Minimum | Standard | Maximum | Units | 
 | --- | --- | --- | --- | --- | --- |
 | Ta | Operating Temperature | -40 | - | 105 | ℃ | VBAT | Operating Voltage | 3 | 3.3 | 3.6 | V |
-| VBAT | Operating Voltage | 3 | 3.3 | 3.6 | V |
+| VDD33 | Operating Voltage | 3 | 3.3 | 3.6 | V |
 | VOL | IO Low Level Output | - | 0.1×VDD1 | - | V |
 | VOH | IO high level output | 0.8×VDD1 | - | - | V |
 | I | IO drive current | - | 40 | - | mA |
