@@ -166,12 +166,12 @@ nav:
     - IOT透传方案:
         - RTL8720DF Wi-Fi 5.8G数据透传应用于汽车VR方案: solutions/8720df/vr_glasses_solution.md
         - RTL8720CF 通用透传方案: solutions/8720cf/rtl8720cf_solution.md
-    - ESP8684 Matter 应用方案: 
+    - Matter预烧录DAC模组插座应用方案: solutions/matter/Pre_Burn_DAC_Module.md
+    - Matter 应用方案: 
         - solutions/matter/index.md
-        - ESP8684 Matter预烧录DAC模组插座应用方案: solutions/matter/Pre_Burn_DAC_Module.md
         - ESP8684 Matter1-5路插座应用方案: solutions/matter/socket1_5.md
         - ESP8684 Matter5路灯应用方案: solutions/matter/rgbcw_light.md
-    - Tasmota ESP8685 预置应用方案:
+    - Tasmota 预置应用方案:
         - solutions/tasmota/index.md
         - 预置Tasmota电量计量插座应用方案: solutions/tasmota/socket.md
         - 预置Tasmota-matter插座应用方案: solutions/tasmota/tasmota-matter.md

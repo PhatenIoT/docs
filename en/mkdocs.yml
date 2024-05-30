@@ -166,12 +166,12 @@ nav:
     - IoT Pass-through Solutions:
         - RTL8720DF Wi-Fi 5.8G Data Pass-through Application for Automotive VR Solution: solutions/8720df/vr_glasses_solution.md
         - RTL8720CF General Pass-through Solution: solutions/8720cf/rtl8720cf_solution.md
-    - ESP8684 Matter Application Solutions: 
+    - Matter Pre-Burn DAC Module Socket Application Solution: solutions/matter/Pre_Burn_DAC_Module.md
+    - Matter Application Solutions: 
         - solutions/matter/index.md
-        - ESP8684 Matter Pre-Burn DAC Module Socket Application Solution: solutions/matter/Pre_Burn_DAC_Module.md
         - ESP8684 Matter 1-5 Socket Application Solution: solutions/matter/socket1_5.md
         - ESP8684 Matter 5-Lamp Application Solution: solutions/matter/rgbcw_light.md
-    - Tasmota ESP8685 Preset Application Solutions:
+    - Tasmota  Preset Application Solutions:
         - solutions/tasmota/index.md
         - Preset Tasmota Power Meter Socket Application Solution: solutions/tasmota/socket.md
         - Preset Tasmota-matter Socket Application Solution: solutions/tasmota/tasmota-matter.md
