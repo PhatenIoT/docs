@@ -1,8 +1,8 @@
 ---
-title: 飞腾云 ESP8684 Matter预烧录DAC模组应用方案
+title: 飞腾云  Matter预烧录DAC模组应用方案
 ---
 
-# ESP8684 Matter预烧录DAC模组应用方案
+#  Matter预烧录DAC模组应用方案
 
 ## 1、简介
 
@@ -12,7 +12,7 @@ DAC是Matter设备从设计到量产过程中不可或缺的一环，每一个�
 
 ## 2、模组应用
 
-ESP8684 Matter预烧录DAC模组 
+ Matter预烧录DAC模组 
 
 ![](/assets/images/matter/Matter-dac.png)
 
@@ -24,10 +24,10 @@ ESP8684 Matter预烧录DAC模组
 去掉了繁杂的matter认证过程，让您的产品由模组到成品 **快速出货！** 
 
 ### **更省**
-matter认证产品需要在进行多项测试，且需要开发人员对matter有足够了解。ESP8684 Matter预烧录DAC模组 能 **省下机构认证费用** 
+matter认证产品需要在进行多项测试，且需要开发人员对matter有足够了解。 Matter预烧录DAC模组 能 **省下机构认证费用** 
 
 ### **更便捷**
-即便是自研Matter，ESP8684 Matter预烧录DAC模组在我们多年的耕耘下，优化迭代多次，比原生Matter **更易上手，大大减少开发难度。**
+即便是自研Matter，Matter预烧录DAC模组在我们多年的耕耘下，优化迭代多次，比原生Matter **更易上手，大大减少开发难度。**
 
 
 ## 4、技术支持
