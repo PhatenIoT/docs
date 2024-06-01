@@ -1,8 +1,8 @@
 ---
-title: ESP32C2 Matter 方案
+title:  Matter 方案
 ---
 
-# ESP32C2 Matter 方案
+#  Matter 方案
 
 ## 1 概述
 Matter 是一个行业统一标准，可为智能家居设备提供可靠和安全的连接。它是一种基于 IP 的连接协议，适用于 Wi-Fi、以太网和 Thread（超过 802.15.4 无线电）传输，并使用蓝牙 LE 进行调试。Matter 标准由连接标准联盟与所有行业领导者共同定义。

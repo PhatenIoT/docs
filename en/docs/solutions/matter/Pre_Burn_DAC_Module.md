@@ -1,8 +1,8 @@
 ---
-title: ESP8684 Matter Pre-burned DAC Module Application Solution
+title:  Matter Pre-burned DAC Module Application Solution
 ---
 
-# ESP8684 Matter Pre-burned DAC Module Application Solution
+#  Matter Pre-burned DAC Module Application Solution
 
 ## 1. Introduction
 
@@ -12,7 +12,7 @@ Feitengyun provides pre-burned DAC modules, which are pre-burned with DAC when t
 
 ## 2. Module Application
 
-ESP8684 Matter Pre-burned DAC Module
+Matter Pre-burned DAC Module
 
 ![](/assets/images/matter/Matter-dac-en.png)
 
@@ -25,7 +25,7 @@ Eliminate the complicated Matter certification process, allowing your product to
 Certified Matter products require multiple tests and developers need sufficient understanding of Matter. The ESP8684 Matter Pre-burned DAC Module can **save certification fees**.
 
 ### **More Convenient**
-Even for self-developed Matter, after years of cultivation by us, the ESP8684 Matter Pre-burned DAC Module has been optimized and iterated many times, making it **easier to get started and greatly reducing development difficulty** compared to native Matter.
+Even for self-developed Matter, after years of cultivation by us, the Matter Pre-burned DAC Module has been optimized and iterated many times, making it **easier to get started and greatly reducing development difficulty** compared to native Matter.
 
 ## 4. Technical Support
 - Feitengyun's factory pre-set DAC Matter module now supports 1-5 sockets and 5 lights.

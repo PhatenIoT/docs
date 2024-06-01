@@ -12,7 +12,7 @@ As a member of the Connectivity Standards Alliance, Feiteng Cloud is an active c
 
 ![Equipment relationships available](/assets/images/matter/产品提供设备图en.png)
 
-## 2 Introduction to Flying Cloud Matter Solution
+## 2 Introduction to Phaten Matter Solution
   1. Based on Phaten Matter solution, customized compression using 2M Flash ESP32c2 module.
   2. Customize the use of DAC authentication certificates, support the import of customer DAC certificates
   3. Auxiliary customer certification Matter category program certification
