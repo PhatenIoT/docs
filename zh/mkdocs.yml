@@ -163,10 +163,11 @@ nav:
   - 首页: index.md
   - 应用方案: 
     - solutions/index.md
+    - Matter预烧录DAC模组应用方案: solutions/matter/Pre_Burn_DAC_Module.md
     - IOT透传方案:
         - RTL8720DF Wi-Fi 5.8G数据透传应用于汽车VR方案: solutions/8720df/vr_glasses_solution.md
         - RTL8720CF 通用透传方案: solutions/8720cf/rtl8720cf_solution.md
-    - Matter预烧录DAC模组应用方案: solutions/matter/Pre_Burn_DAC_Module.md
+    
     - Matter 应用方案: 
         - solutions/matter/index.md
         - ESP8684 Matter1-5路插座应用方案: solutions/matter/socket1_5.md
@@ -176,7 +177,14 @@ nav:
         - 预置Tasmota电量计量插座应用方案: solutions/tasmota/socket.md
         - 预置Tasmota-matter插座应用方案: solutions/tasmota/tasmota-matter.md
         - 预置Tasmota-matter5路灯应用方案: solutions/tasmota/tasmota-matter-light.md
-    
+    # - 解决方案:
+    #     - 数据透传:
+    #         - RTL8720DF: solutions/8720df/vr_glasses_solution副本.md
+    #     - 智能插座: 
+    #         - Matter1-5路插座: solutions/matter/socket1_5副本.md
+    #     - 氛围灯: 
+    #         - Matter5路灯: solutions/matter/rgbcw_light副本.md
+
   # - XMOS USB 高清降噪麦克风系列方案: try-leverage/leverage-project-setup.md
   - 产品中心: 
     - products/index.md
