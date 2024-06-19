@@ -6,9 +6,9 @@ categories:
 
 ---
 
-# Feiteng Cloud Matter Module and Comprehensive Certification Services
+# Phaten Matter Module and Comprehensive Certification Services
 
-![](/assets/images/matter认证.jpg)
+![](/assets/images/matter认证en.png)
 
 ## Why Choose Matter Certification?
 
@@ -21,13 +21,15 @@ The Matter standard aims to enhance compatibility and interoperability among sma
 
 ### Feiteng Cloud Matter Module Features:
 
+![](/assets/images/matter_renzheng4en.jpg)
+
 - Supports WiFi and Bluetooth connections.
 - Built-in multiple firmware options.
 - Supports zero-code development, greatly simplifying the software development process for products.
 
 ### As an official member of the CSA Alliance, Feiteng Cloud provides the following certification services: Short cycle, low cost, customizable, ideal for most enterprises
 
-![](/assets/images/matter_renzheng2.png)
+![](/assets/images/matter_renzheng2en.png)
 
 - Membership Registration Support: Assists you in becoming a CSA Alliance provisional member, a process that is free and typically completed within 2-3 days.
 - Smart Module Procurement: Provides Matter modules supporting WiFi and Bluetooth, with multiple built-in firmware options, enabling immediate device development.
@@ -41,7 +43,7 @@ The Matter standard aims to enhance compatibility and interoperability among sma
 
 **Method 1: Formal Membership, High Cost, Development of Matter**
 
-![](/assets/images/matter_renzheng1.png)
+![](/assets/images/matter_renzheng1en.png)
 
 - Device manufacturers must apply to become formal members of the CSA Alliance, paying a membership fee of at least $7,000 USD per year.
 - Upon completing development, devices are submitted to designated testing facilities to verify compliance with Matter protocols, with testing costs ranging from $3,000 to $10,000 USD.
@@ -50,7 +52,7 @@ The Matter standard aims to enhance compatibility and interoperability among sma
 
 **Method 2: Provisional Member - OEM, Unable to Change Devices**
 
-![](/assets/images/matter_renzheng3.png)
+![](/assets/images/matter_renzheng3en.png)
 
 - The solution provider has already completed Matter certification for multiple device models.
 - Device manufacturers apply to become provisional members of the CSA Alliance, a process that is free and takes 2-3 days.

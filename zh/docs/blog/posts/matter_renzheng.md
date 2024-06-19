@@ -21,6 +21,8 @@ Matter标准致力于增强智能家居设备之间的兼容性与互操作性�
 
 ### 飞腾云Matter模组特点：
 
+![](/assets/images/matter_renzheng4.jpg)
+
 - 支持WiFi和蓝牙连接
 - 内置多种固件选项
 - 支持0代码开发，极大简化产品的软件开发过程

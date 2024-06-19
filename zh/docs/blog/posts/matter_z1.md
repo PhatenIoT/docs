@@ -11,7 +11,7 @@ categories:
 随着智能家居市场的快速发展，消费者对于家庭自动化技术的需求日益增长。本文将深入分析三种主流的智能硬件控制技术—Matter、Zigbee和Z-Wave，并提供实用的购买建议，帮助您选择最适合自家需求的智能设备。
 <!-- more -->
 
-![](../../assets/images/链接方式.jpg)
+![](/assets/images/链接方式.jpg)
 
 ## Matter
 
