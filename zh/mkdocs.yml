@@ -232,29 +232,7 @@ nav:
         -  WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
       - ESP8685:
         -  WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
-    # - 开发板:
-    #   - NodeMcu-8720DFV1开发板: dev_doc/8720df/dev_board.md
 
-    
-    #   - 命令: dev_doc/tasmota/commands.md
-    #   - 模组及PCBA: 
-    #     - FTXU316-LA-7MIC-V1套件:
-    #     - dev_doc/array_mic/ftxu316_la_7mic_v1/index.md
-    #     - PCBA套件硬件规格书: dev_doc/array_mic/ftxu316_la_7mic_v1/硬件规格书.md
-    #     - 成品及评估板安装使用说明: dev_doc/array_mic/ftxu316_la_7mic_v1/使用说明.md
-
-    # - USB HiFi声卡:
-    #   - 开发及评估板:
-    #     - XMOS XU316 USB多声道音频评估板: 
-    #       - dev_doc/hifi_audio/xk_audio_316_mc_ab/index.md
-    #     - PBAX316-90108MV1评估板: 
-    #       - dev_doc/hifi_audio/pbax316_90108mv1/index.md
-    #       - 评估板硬件规格书: dev_doc/hifi_audio/pbax316_90108mv1/硬件规格书.md
-    #       - 评估板使用说明: dev_doc/hifi_audio/pbax316_90108mv1/使用说明.md
-    #       - 评估板测试指标: dev_doc/hifi_audio/pbax316_90108mv1/测试指标.md
-    #   - 模组及PCBA: 
-    #     - A316-1926V1:
-    #       - dev_doc/hifi_audio/a316_1926v1/index.md
   - 样品购买:
     - buy_sample/index.md
     - 模组: buy_sample/model.md
@@ -272,6 +250,8 @@ nav:
       - 工具和软件下载: 
         - download/tools_software/index.md
       - 规格书: download/8720df/8720df_datasheet.md
+      - Tasmota-OTA升级包:
+        - download/tasmota-ota/index.md
     - 常见问题: 
       - faq/index.md
       # - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
