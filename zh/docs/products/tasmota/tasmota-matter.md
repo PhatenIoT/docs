@@ -15,9 +15,9 @@ Tasmota-matter模组 与 Tasmota电量计量插座模组 **同样采用 ESP8685 
 丰富的通信接口及 GPIO 管脚，可支持多种场景及复杂的应用
 通过 RF 认证以及软件协议认证
 
-模组图片：
+<!-- 模组图片：
 
-![esp32c3图片](/assets/images/matter/8685-03.png)
+![esp32c3图片](/assets/images/matter/8685-03.png) -->
 
 # 二、产品功能
 

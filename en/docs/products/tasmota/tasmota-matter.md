@@ -14,9 +14,9 @@ Comprehensive security mechanisms: secure boot based on RSA-3072 algorithm, flas
 Rich communication interfaces and GPIO pins, supporting various scenarios and complex applications.
 RF certification and software protocol certification.
 
-Module Image:
+<!-- Module Image:
 
-![esp32c3 image](/assets/images/matter/8685-03.png)
+![esp32c3 image](/assets/images/matter/8685-03.png) -->
 
 # II. Product Features
 

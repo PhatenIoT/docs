@@ -25,4 +25,4 @@ WBR3DU-C is an RTOS platform that integrates all Wi-Fi MAC and TCP/IP protocol f
 
 
 ## 4 Purchase Link
-[Click to Purchase WBR3DU-C Module](../../buy_sample/index.md#rtl8720cf)
+[Click to Purchase WBR3DU-C Module](../../buy_sample/model.md#rtl8720cf)

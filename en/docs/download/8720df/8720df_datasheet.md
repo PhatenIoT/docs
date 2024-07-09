@@ -4,7 +4,7 @@
 
 |    Module Specification    |   Version   |   Document   |
 |:-------|------| ------: |
-| W5B03A-1720DF-1624 (PKM8720DF-C13-F10) Module Specification (PDF) |  V1.0 | [Download](/assets/download/8720df/30-W5B03A1720 W5B03A-1720DF-1624(PKM8720DF-C13-F10)Module Specification 821f0086bb3db7e10ce2f513baa2562f(1).pdf) |
+| W5B03A-1720DF-1624Module Specification (PDF) |  V1.0 | [Download](/assets/download/8720df/30-W5B03A1720W5B03A-1720DF-1624模组规格书821f0086bb3db7e10ce2f513baa2562f(1).pdf) |
 
 
 <!-- |    Development Board Specification    |   Version   |      |

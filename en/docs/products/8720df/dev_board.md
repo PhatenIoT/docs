@@ -3,13 +3,12 @@
 
 ## 1 Product Overview
 
-The W5B03A-1720DF development board is based on the PKE8720DF-A00-F10 development board designed by Pankore for the PKM8720DF-A00-F10 module.
-
+The W5B03A-1720DF development board<!-- is based on the PKE8720DF-A00-F10 development board designed by Pankore for the PKM8720DF-A00-F10 module. -->
 All modules have accurate graphical graphics so that developers can easily develop and debug the modules.
-Standard pins on both sides also make operation easier when using the breadboard for development and debugging.The PKM8720DF-A00-F10 is a multi-radio microcontroller module. The open CPU architecture allows customers to develop advanced applications running on a dual-core 32-bit microcontroller.
+Standard pins on both sides also make operation easier when using the breadboard for development and debugging.<!--The PKM8720DF-A00-F10 -->it is a multi-radio microcontroller module. The open CPU architecture allows customers to develop advanced applications running on a dual-core 32-bit microcontroller.
 The radio provides support for Wi-Fi 802.11 a/b/g/n in the 2.4 GHz/5 GHz bands and BLE 5.0 communication.
 
-The rich peripherals and high performance make it ideal for smart homes, industrial automation, consumer electronics, etc. The block diagram of the PKM8720DF-A00-F10 module is shown in Figure 1.
+The rich peripherals and high performance make it ideal for smart homes, industrial automation, consumer electronics, etc. The block diagram of the <!--PKM8720DF-A00-F10--> module is shown in Figure 1.
 
 ![W5B03A-1720DF Development Board Block Diagram](/assets/images/8720DF/W5B03A-1720DF.png)
 

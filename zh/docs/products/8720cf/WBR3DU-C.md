@@ -37,4 +37,4 @@ WBR3DU-C是一个 RTOS平台，集成了所有 Wi-Fi MAC 以及 TCP/IP 协议的
 [点击下载 WBR3DU-C模组规格书](../../download/8720cf/8720cf_datasheet.md)-->
 
 ## 4 购买链接
-[点击购买 WBR3DU-C模组](../../buy_sample/index.md#rtl8720cf)
+[点击购买 WBR3DU-C模组](../../buy_sample/model.md#rtl8720cf)

@@ -27,4 +27,4 @@ title: Matter 1-5路插座和灯模组 产品概述
 # 三、 [产品技术文档](../../services_support/matter/WB02A-8684H2V1_datasheet.md)
 
 
-# 四、[点击进入选购 WB02A-8684H2V1](../../buy_sample/index.md#esp8684)
+# 四、[点击进入选购 WB02A-8684H2V1](../../buy_sample/model.md#esp8684)

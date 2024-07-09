@@ -4,7 +4,7 @@
 
 |    模组规格书    |   版本   |   规格书   |
 |:-------|------| ------: |
-| W5B03A-1720DF-1624（PKM8720DF-C13-F10）模组规格书（PDF） |  V1.0 | [点击下载](/assets/download/8720df/30-W5B03A1720 W5B03A-1720DF-1624（PKM8720DF-C13-F10）模组规格书 821f0086bb3db7e10ce2f513baa2562f(1).pdf) |
+| W5B03A-1720DF-1624模组规格书（PDF） |  V1.0 | [点击下载](/assets/download/8720df/30-W5B03A1720W5B03A-1720DF-1624模组规格书821f0086bb3db7e10ce2f513baa2562f(1).pdf) |
 
 
 <!-- |    开发板规格书    |   版本   |      |
@@ -15,7 +15,7 @@
 
 |    规格书    |   版本   |   规格书   |
 |:-------|------| ------: |
-| WBR3DU-C模块规格书（PDF） |  V1.0 | [点击下载](/assets/download/8720cf/02.050.WBR3DUC0000 FTY-WI-R-279 WBR3DU-C模块规格书 42dcc1ba7e6b01c889783654405650a0.pdf) |
+| WBR3DU-C模块规格书（PDF） |  V1.0 | [点击下载](/assets/download/8720cf/02.050.WBR3DUC0000FTY-WI-R-279WBR3DU-C模块规格书42dcc1ba7e6b01c889783654405650a0.pdf) |
 
 ## ESP8684
 
