@@ -167,7 +167,7 @@ PCB Size ：24±0.3(L)X16±0.3(W)X0.8±0.1(H)
 ## 4. Product Packaging Information
 
 Pallet + outer box packaging
-
+<!-- 
 ## More information
 
-[For detailed datasheet, please go to ESP8684 datasheet download page](../../download/8720df/8720df_datasheet.md#esp8684)
+[For detailed datasheet, please go to ESP8684 datasheet download page](../../download/8720df/8720df_datasheet.md#esp8684) -->

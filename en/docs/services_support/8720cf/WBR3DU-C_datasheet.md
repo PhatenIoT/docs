@@ -96,6 +96,6 @@ The following diagram shows the WBR3DU-C package counterpart.
 ![](/assets/images/8720CF/8720cf尺寸.png)
 
 
-## More information
+<!-- ## More information
 
-[For detailed specs, please go to WBR3DU-C Module Specification Download Page](../../download/8720df/8720df_datasheet.md#rtl8720cf)
+[For detailed specs, please go to WBR3DU-C Module Specification Download Page](../../download/8720df/8720df_datasheet.md#rtl8720cf) -->

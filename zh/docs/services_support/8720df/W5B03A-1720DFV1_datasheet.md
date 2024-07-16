@@ -95,6 +95,6 @@ PCB 尺寸大小：16±0.3mm (L)×24±0.3mm (W) ×0.8±0.1mm (H)。单位：mm
 ![](/assets/images/8720DF/8720df尺寸.png)
 
 
-## 更多资料
+<!-- ## 更多资料
 
-[详细规格书请前往W5B03A-1720DFV1模组规格书下载页面](../../download/8720df/8720df_datasheet.md#rtl8720df)
+[详细规格书请前往W5B03A-1720DFV1模组规格书下载页面](../../download/8720df/8720df_datasheet.md#rtl8720df) -->

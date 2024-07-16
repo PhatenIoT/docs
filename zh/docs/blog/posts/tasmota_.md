@@ -13,7 +13,7 @@ categories:
 ## 什么是Tasmota固件？
 Tasmota固件是一种开源固件，旨在为各种智能设备提供更灵活、更可控的控制方式。它基于ESP8266或ESP32等芯片开发，通过简单的配置和定制，可以使您的设备拥有更多功能和更广泛的兼容性。
 
-![](../../assets/images/tasmota/Tasmota标志OIP-C.jpg)
+![](/assets/images/tasmota/Tasmota标志OIP-C.jpg)
 
 ## 为什么选择Tasmota固件？
 - 开源自由：Tasmota固件是开源的，任何人都可以查看其源代码并根据自己的需求进行定制和修改。

@@ -29,4 +29,4 @@ Tasmota-matter模组 与 Tasmota电量计量插座模组 **同样采用 ESP8685 
 
 #  三、[产品技术文档](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
 
-# 五、[点击进入选购 WB02A-8685H4V1](../../buy_sample/index.md#esp8685)
+# 五、[点击进入选购 WB02A-8685H4V1](../../buy_sample/model.md#esp8685)

@@ -162,6 +162,6 @@ PCB板载天线
 
 Pallet + outer box packaging
 
-## More information
+<!-- ## More information
 
-[For detailed datasheet, please go to ESP8684 datasheet download page](../../download/8720df/8720df_datasheet.md#esp8684)
+[For detailed datasheet, please go to ESP8684 datasheet download page](../../download/8720df/8720df_datasheet.md#esp8684) -->

@@ -42,12 +42,12 @@ The H682-84V1 is an RTOS platform that integrates all Wi-Fi MAC and TCP/IP proto
 
 ### 1.4 Absolute Electrical Parameters
 
-| Parameter | Description | Minimum Value | Maximum Value | Units | --- | --- | --- | --- | ---
-| --- | --- | --- | --- | --- | --- | --- | ---
-| T store | Storage Temperature | -40 | 150 | °C | VBAT | Supply Temperature | VBAT
+| Parameters | Description | Numerical values | Maximum values | Units |
+| --- | --- | --- | --- | --- | 
+| Tstore | Storage Temperature | -40 | 150 | ℃ |
 | VDD33 | Supply Voltage | -0.3 | 3.6 | V |
 | Static Discharge Voltage (My Body Model) | TAMB -25 °C | -2 | 2 | KV |
-| TAMB -25°C | -500 | 500 | 500 | V | Static Discharge Voltage (Machine Models)
+| Static Discharge Voltage (Machine Models) | TAMB -25°C | -500 | 500 | V |
 
 
 ### 1.5 Normal operating conditions
@@ -162,6 +162,6 @@ PCB板载天线
 
 Pallet + outer box packaging
 
-## More information
+<!-- ## More information
 
-[For detailed datasheet, please go to ESP8685 datasheet download page](../../download/8720df/8720df_datasheet.md#esp8685)
+[For detailed datasheet, please go to ESP8685 datasheet download page](../../download/8720df/8720df_datasheet.md#esp8685) -->

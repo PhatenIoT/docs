@@ -249,7 +249,7 @@ nav:
         - download/8720cf/index.md 
       - 工具和软件下载: 
         - download/tools_software/index.md
-      - 规格书: download/8720df/8720df_datasheet.md
+      # - 规格书: download/8720df/8720df_datasheet.md
       - Tasmota-OTA升级包:
         - download/tasmota-ota/index.md
     - 常见问题: 

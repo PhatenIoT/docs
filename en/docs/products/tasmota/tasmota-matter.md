@@ -26,4 +26,4 @@ RF certification and software protocol certification.
 
 # III. [Product Technical Documentation](../../services_support/tasmota/WB02A-8685H4V1_datasheet.md)
 
-# IV. [Click to Enter WB02A-8685H4V1 Purchase](../../buy_sample/index.md#esp8685)
+# IV. [Click to Enter WB02A-8685H4V1 Purchase](../../buy_sample/model.md#esp8685)
