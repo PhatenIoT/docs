@@ -22,10 +22,10 @@ Data Forwarding and Processing: The gateway processes and forwards data from Thr
 
 ## Phaten's Gateway Module based on Realtek 8722 is Impressive!
 
-The Realtek 8722 series is a highly integrated wireless SoC (System-on-Chip) designed specifically for IoT applications. This series integrates multiple communication protocols and rich peripheral interfaces, making it ideal for IoT devices in smart homes, smart cities, industrial automation, and other fields.
+The Realtek 8772 series is a highly integrated wireless SoC (System-on-Chip) designed specifically for IoT applications. This series integrates multiple communication protocols and rich peripheral interfaces, making it ideal for IoT devices in smart homes, smart cities, industrial automation, and other fields.
 
 ### 1. Technical Specifications and Features
-Key features of the Realtek 8722 series chip include:
+Key features of the Realtek 8772 series chip include:
 
 Multi-Protocol Support: Supports Bluetooth Low Energy (BLE), Wi-Fi, and 802.15.4 among other communication protocols, enabling flexible network connections and data transmission in IoT devices.
 
@@ -40,7 +40,7 @@ Security: Provides hardware encryption engines and security authentication mecha
 High Integration: Integrates RF front-end, baseband processor, RF circuits, and multiple peripheral controllers, simplifying PCB design and system integration, and reducing manufacturing costs and product development cycles.
 
 ### 2. Application Scenarios
-The Realtek 8722 series chips are widely used in the following IoT domains:
+The Realtek 8772 series chips are widely used in the following IoT domains:
 
 Smart Homes: Acts as a gateway or controller for smart home devices such as smart lights, smart plugs, and smart locks, enabling unified smart home control and management.
 
