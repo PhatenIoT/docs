@@ -189,6 +189,7 @@ nav:
   - 产品中心: 
     - products/index.md
     - 模组:
+      # - RTL8772Gx:
       - RTL8720DF:
         # - products/8720df/index.md
         - W5B03A-1720DFV1: products/8720df/W5B03A-1720DFV1.md
