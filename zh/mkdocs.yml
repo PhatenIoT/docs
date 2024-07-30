@@ -172,6 +172,9 @@ nav:
         - solutions/matter/index.md
         - ESP8684 Matter1-5路插座应用方案: solutions/matter/socket1_5.md
         - ESP8684 Matter5路灯应用方案: solutions/matter/rgbcw_light.md
+        - 8720DF Matter 1-5路插座应用方案: solutions/matter/8720df_matter_socket.md
+        - 8720DF Matter 5路灯应用方案: solutions/matter/8720df_matter_light.md
+
     - Tasmota 预置应用方案:
         - solutions/tasmota/index.md
         - 预置Tasmota电量计量插座应用方案: solutions/tasmota/socket.md
@@ -221,6 +224,10 @@ nav:
       - Matter认证: dev_doc/matter/matter_certification.md
     - Tasmota:
       - Tasmota入门: dev_doc/tasmota/getting_started.md
+      - TasmotaTasmota 常用功能介绍: dev_doc/tasmota/tasmota4.md
+      - Tasmota连接Home Assistant: dev_doc/tasmota/tasmota2.md
+      - Tasmota连接Amazon的Alexa: dev_doc/tasmota/tasmota3.md
+
     - 模组: 
       # - dev_doc/modle/modle_index.md
       - RTL8720DF:

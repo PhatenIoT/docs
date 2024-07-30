@@ -171,6 +171,8 @@ nav:
         - solutions/matter/index.md
         - ESP8684 Matter 1-5 Socket Application Solution: solutions/matter/socket1_5.md
         - ESP8684 Matter 5-Lamp Application Solution: solutions/matter/rgbcw_light.md
+        - 8720DF Matter 1-5 Socket Application Solution: solutions/matter/8720df_matter_socket.md
+        - 8720DF Matter 5-Lamp Application Solution: solutions/matter/8720df_matter_light.md
     - Tasmota  Preset Application Solutions:
         - solutions/tasmota/index.md
         - Preset Tasmota Power Meter Socket Application Solution: solutions/tasmota/socket.md
@@ -202,6 +204,9 @@ nav:
       - Matter Accreditation: dev_doc/matter/matter_certification.md
     - Tasmota:
       - Introduction to Tasmota: dev_doc/tasmota/getting_started.md
+      - TasmotaTasmota Common Functions: dev_doc/tasmota/tasmota4.md
+      - Tasmota Connect Home Assistant: dev_doc/tasmota/tasmota2.md
+      - Tasmota Connect Amazon的Alexa: dev_doc/tasmota/tasmota3.md
     - Module:
       - RTL8720DF:
         - W5B03A-1720DFV1: services_support/8720df/W5B03A-1720DFV1_datasheet.md
@@ -233,6 +238,8 @@ nav:
       - Tools and Software Downloads: 
         - download/tools_software/index.md
       # - Standard Book: download/8720df/8720df_datasheet.md
+      - Tasmota-OTA upgrade package:
+        - download/tasmota-ota/index.md
     - Frequently Asked Questions: 
       - faq/index.md
       # - XMOS USB audio 驱动说明: faq/xmos_usb_audio_driver.md
