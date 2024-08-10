@@ -3,7 +3,7 @@ title: 飞腾云 应用解决方案
 ---
 
 ## 飞腾云科技|Wi-Fi IOT模组|Wi-Fi IOT方案|Wi-Fi Matter方案
-
+<!-- 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,19 +14,19 @@ title: 飞腾云 应用解决方案
 </head>
 <body>
     <div class="grid-container" id="gridContainer">
-        <!-- 第一页格子 -->
+         第一页格子 
         <div class="grid-item" onclick="window.location.href='/zh/solutions/8720df/vr_glasses_solution/';">
-            <img src="../assets/images/fangan-tu/插座1.jpg" alt="Image 1">
+            <img src="../assets/images/fangan-tu/汽车VR.jpg" alt="Image 1">
             <h2>RTL 8720DF 5.8G 汽车VR数据透传 </h2>
             <p>本方案基于RTL8720DF 是双频Wi-Fi(2.4G+5G)和BLE5.0 的Soc 芯片。具有超低功耗、完整的加密策略和丰富的外设资源，相比与传统的2.4G 通讯具有低延迟，高传输速度，完全可以满足VR眼镜实时数据处理和低延迟的传输的要求。</p>
         </div>
         <div  class="grid-item" onclick="window.location.href='/zh/solutions/8720cf/rtl8720cf_solution/';">
-            <img src="../assets/images/fangan-tu/8720cf.jpg" alt="Image 2">
-            <h2>RTL8720CF 通用透传应用方案</h2>
+            <img src="../assets/images/fangan-tu/Wi-Fi透传.jpg" alt="Image 2">
+            <h2>RTL8720CF 通用透传应用</h2>
             <p>利用AT指令集通过WIFI网络实现数据透明传输的技术。这种方案广泛应用于物联网（IoT）设备，如智能家电、传感器网络等，它允许设备通过WIFI网络与其他设备或服务器进行通信，无需用户干预。</p>
         </div>
         <div class="grid-item" onclick="window.location.href='/zh/solutions/matter/socket1_5/';" >
-            <img src="../assets/images/fangan-tu/插座2.jpg" alt="Image 2">
+            <img src="/assets/images/fangan-tu/插座2.jpg" alt="Image 2">
             <h2>Matter 1-5路 插座</h2>
             <p>可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome</p>
         </div>
@@ -36,7 +36,7 @@ title: 飞腾云 应用解决方案
             <p>可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome</p>
         </div>
         <div  class="grid-item" onclick="window.location.href='/zh/solutions/matter/8720df_matter_socket/';">
-            <img src="../assets/images/fangan-tu/插座3.jpg" alt="Image 2">
+            <img src="/assets/images/fangan-tu/插座3.jpg" alt="Image 2">
             <h2>8720DF Matter 1-5路 插座</h2>
             <p>可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome</p>
         </div>
@@ -46,12 +46,12 @@ title: 飞腾云 应用解决方案
             <p>可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome</p>
         </div>
         <div  class="grid-item" onclick="window.location.href='/zh/solutions/tasmota/socket/';">
-            <img src="../assets/images/fangan-tu/插座4.jpg" alt="Image 2">
+            <img src="/assets/images/fangan-tu/插座4.jpg" alt="Image 2">
             <h2>Tasmota 电量计量插座</h2>
             <p>便捷省事： 无需在官方购买拆卸、费时搞定硬件配置、定制化需求、提供预置固件 、完善的Tasmota功能支持</p>
         </div>
         <div  class="grid-item" onclick="window.location.href='/zh/solutions/tasmota/tasmota-matter/';">
-            <img src="../assets/images/fangan-tu/插座3.jpg" alt="Image 2">
+            <img src="/assets/images/fangan-tu/插座3.jpg" alt="Image 2">
             <h2>Tasmota-Matter 计量插座</h2>
             <p>可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome</p>
         </div>
@@ -60,15 +60,15 @@ title: 飞腾云 应用解决方案
             <h2>Tasmota-Matter 5路灯</h2>
             <p>可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome</p>
         </div>
-        <!-- 其他格子根据需要添加 -->
+         其他格子根据需要添加 
     </div>
     <div class="pagination" id="pagination">
-        <!-- <a href="#" id="page1"></a>
-        <a href="#" id="page2"></a> -->
-        <!-- <a href="#">3</a> -->
-        <!-- 根据需要添加更多页码 -->
+        <a href="#" id="page1"></a>
+        <a href="#" id="page2"></a> 
+        <a href="#">3</a> 
+        根据需要添加更多页码
     </div>
-    <!-- <script>
+    <script>
     document.addEventListener("DOMContentLoaded", function() {
         const gridContainer = document.getElementById('gridContainer');
         const pagination = document.getElementById('pagination');
@@ -117,11 +117,85 @@ title: 飞腾云 应用解决方案
             });
         }
     });
-</script> -->
+</script> 
 </body>
-</html>
+</html>  -->
+
+<div class="grid cards" markdown>
+-   ![](/assets/images/fangan-tu/汽车VR.jpg)
+
+    RTL 8720DF 5.8G 汽车VR数据透传
+
+    本方案基于RTL8720DF 是双频Wi-Fi(2.4G+5G)和BLE5.0 的Soc 芯片。具有超低功耗、完整的加密策略和丰富的外设资源，相比与传统的2.4G 通讯具有低延迟，高传输速度，完全可以满足VR眼镜实时数据处理和低延迟的传输的要求。
+
+    [点击查看详情](../solutions/8720df/vr_glasses_solution.md)
+
+-   ![](../assets/images/fangan-tu/Wi-Fi透传.jpg)
+
+    RTL8720CF 通用透传应用
+
+    利用AT指令集通过WIFI网络实现数据透明传输的技术。这种方案广泛应用于物联网（IoT）设备，如智能家电、传感器网络等，它允许设备通过WIFI网络与其他设备或服务器进行通信，无需用户干预。
+
+    [点击查看详情](../solutions/8720cf/rtl8720cf_solution.md)
+
+-   ![](/assets/images/fangan-tu/插座2.jpg)
+
+    Matter 1-5路 插座
+
+    可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
+
+    [点击查看详情](../solutions/matter/socket1_5.md)
+
+-   ![](/assets/images/matter/5灯泡.png)
+
+    Matter 5路 球灯泡
+
+    可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
+
+    [点击查看详情](../solutions/matter/rgbcw_light.md)
 
 
+-   ![](/assets/images/fangan-tu/插座3.jpg)
 
+    8720DF Matter 1-5路 插座
+
+    可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
+
+    [点击查看详情](../solutions/matter/8720df_matter_socket.md)
+
+-   ![](/assets/images/matter/5灯泡.png)
+
+    8720DF Matter 5路 球灯泡
+
+    可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
+
+    [点击查看详情](../solutions/matter/8720df_matter_light.md)
+
+-   ![](/assets/images/fangan-tu/插座4.jpg)
+    
+    Tasmota 电量计量插座
+
+    便捷省事： 无需在官方购买拆卸、费时搞定硬件配置、定制化需求、提供预置固件 、完善的Tasmota功能支持
+
+    [点击查看详情](../solutions/tasmota/socket.md)
+
+-   ![](/assets/images/fangan-tu/插座3.jpg)
+    
+    Tasmota-Matter 计量插座
+
+    可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
+
+    [点击查看详情](../solutions/tasmota/tasmota-matter.md)
+
+-   ![](/assets/images/matter/5灯泡.png)
+
+    Tasmota-Matter 5路灯
+
+    可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
+
+    [点击查看详情](../solutions/tasmota/tasmota-matter-light.md)
+
+
+</div>
 
 ## 更多方案敬请期待🤩

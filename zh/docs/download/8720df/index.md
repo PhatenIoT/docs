@@ -11,10 +11,10 @@
 
 
 
- |    IC Datasheet    |      |
-|:-------|------:|
-| UM0401 RTL872xCS Datasheet v3.3（PDF） | [点击下载](/assets/download/8720df/UM0401-RTL872xCS-Datasheet-v3.3.pdf) |
-| UM0401 RTL872DF Datasheet v3.7（PDF） | [点击下载](/assets/download/8720df/UM0401-RTL872xD-Datasheet-v3.7.pdf) | 
+ |    IC Datasheet    |   描述   |      | 
+|:-------| --------- | ------:|
+| UM0401 RTL872xCS Datasheet v3.3（PDF） |       数据表      | [点击下载](/assets/download/8720df/UM0401-RTL872xCS-Datasheet-v3.3.pdf) |
+| UM0401 RTL872DF Datasheet v3.7（PDF） |         数据表       | [点击下载](/assets/download/8720df/UM0401-RTL872xD-Datasheet-v3.7.pdf) | 
 
 
 <!-- |   HDK     |      |
@@ -42,13 +42,13 @@
 <!-- | RTL872xCS/D Bluetooth Tool Kits (TXT) | [点击下载](/assets/download/8720df/RTL872xCSD-Bluetooth-Tool-Kits.txt) |
 | RTL872xCSD Local OTA Server(TXT) | [点击下载](/assets/download/8720df/RTL872xCSD-Local-OTA-Server.txt) | -->
 
-<!-- 
-|    Module Application    |      |
-|:-------|------:|
-| W5B03A-1720DFV1 Module AT User Guide (PDF) | [点击下载](/assets/download/8720df/AT用户指南User-Guide-for-AT-command.pdf) | -->
+
+|    Module Application    |     描述     |      |
+|:-------| --------- |------:|
+| W5B03A-1720DFV1 Module AT User Guide (PDF) |  AT指令   | [点击下载](/assets/download/8720df/W5B03A-1720DFV1_Module_AT_User_Guide_V01.1.1.pdf) |
 
 
- <!-- |    IC Application    |      |
+<!-- |    IC Application    |      |
 |:-------|------:|
 | Ameba-D Application Note(PDF) | [点击下载](/assets/download/8720df/AN0400-Ameba-D-Application-Note-v17.pdf) |  -->
 
