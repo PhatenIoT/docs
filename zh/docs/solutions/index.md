@@ -121,6 +121,7 @@ title: 飞腾云 应用解决方案
 </body>
 </html>  -->
 
+
 <div class="grid cards" markdown>
 -   ![](/assets/images/fangan-tu/汽车VR.jpg)
 
@@ -130,7 +131,7 @@ title: 飞腾云 应用解决方案
 
     [点击查看详情](../solutions/8720df/vr_glasses_solution.md)
 
--   ![](../assets/images/fangan-tu/Wi-Fi透传.jpg)
+-   ![](/assets/images/fangan-tu/Wi-Fi透传.jpg)
 
     RTL8720CF 通用透传应用
 

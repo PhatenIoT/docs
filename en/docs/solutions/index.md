@@ -1,8 +1,8 @@
 ---
-title: Fetion Cloud Application Solutions
+title: Phaten Application Solutions
 ---
 
-## Flying Cloud Technology | Wi-Fi IOT Module | Wi-Fi IOT Solution | Wi-Fi Matter Solution
+## Phaten Technology | Wi-Fi IOT Module | Wi-Fi IOT Solution | Wi-Fi Matter Solution
 
 <div class="grid cards" markdown>
 -   ![](/assets/images/fangan-tu/car_vr.jpg)
