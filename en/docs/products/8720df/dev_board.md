@@ -27,6 +27,7 @@ The rich peripherals and high performance make it ideal for smart homes, industr
 
 ## 3 Features
 
+- Support 4M flash
 - Support 802.11a/b/g/n1x1,2.4 GHz&5 GHz
 - Support 20MHz/40MHz bandwidth, MCS7
 - Supports Low Power Beacon Listening Mode, Low Power Rx Mode, Low Power Suspension Mode (DLPS)
