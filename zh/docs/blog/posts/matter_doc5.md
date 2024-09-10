@@ -12,7 +12,7 @@ categories:
 
 ### 1.1 修改OTA固件版本号为3
 
-![](../../assets/images/1-matterota.png)
+![](../../assets/images/pageimg/1-matterota.png)
 
 ### 1.2 编译生成 MatterLightOverThread_V3.ota
 
@@ -30,7 +30,7 @@ commander gbl create ./MatterLightOverThread_V3.gbl --app ./MatterLightOverThrea
 
 复制MatterLightOverThread_V3.gbl到VM VirtualBox共享文件夹，将.gbl文件导入Ubuntu环境，然后复制到matter文件夹
 
-![](../../assets/images/2-matterota.png)
+![](../../assets/images/pageimg/2-matterota.png)
 
 将.gbl文件转换成.ota 文件
 
@@ -38,7 +38,7 @@ commander gbl create ./MatterLightOverThread_V3.gbl --app ./MatterLightOverThrea
 ./src/app/ota_image_tool.py create -v 0xFFF1 -p 0x8005 -vn 3 -vs "0.3" -da sha256 MatterLightOverThread_V3.gbl MatterLightOverThread_V3.ota
 ```
 
-![](../../assets/images/3-matterota.png)
+![](../../assets/images/pageimg/3-matterota.png)
 
 ## 二、ubuntu环境下升级matter固件
 
@@ -48,8 +48,8 @@ commander gbl create ./MatterLightOverThread_V3.gbl --app ./MatterLightOverThrea
 ./scripts/examples/gn_build_example.sh ./examples/ota-provider-app/linux ./out/debug chip_config_network_layer_ble=false
 ```
 
-![](../../assets/images/4-matterota.png)
-![](../../assets/images/5-matterota.png)
+![](../../assets/images/pageimg/4-matterota.png)
+![](../../assets/images/pageimg/5-matterota.png)
 
 ### 2.2 matter设备配网
 
@@ -100,7 +100,7 @@ sudo ./chip-tool otasoftwareupdaterequestor announce-otaprovider 5678 0 0 0 1001
 
 可以在其他窗口看到，已经开始OTA升级传输固件包了
 
-![](../../assets/images/6-matterota.png)
+![](../../assets/images/pageimg/6-matterota.png)
 
 
  Matter 设备收到 announce-otaprovider 命令后向 OTA Provider 请求并更新固件。
