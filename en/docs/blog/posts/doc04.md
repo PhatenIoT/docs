@@ -1,26 +1,26 @@
 ---
 date: 2024-09-12
-categories: 
-  - matter
+categories:
+- matter
 ---
 
-# Matter 与 Tasmota 产品：智能家居的创新融合
+# Matter and Tasmota Products: Innovative Integration in Smart Homes
 
-在智能家居领域，Matter 产品和 Tasmota 产品的结合为用户带来了更智能、便捷的体验。
+In the smart home field, the combination of Matter products and Tasmota products offers users a smarter and more convenient experience.
 <!-- more -->
-## 强大且开源的智能协议
-Tasmota 是一个强大的开源固件，它为各种智能设备提供了丰富的功能和灵活性。通过在 Tasmota 的基础上新增 Matter 链接功能，实现了与三大平台（Apple home、Alexa、Google home）的连接，使智能家居设备的控制更加多样化。
+## Powerful and Open-Source Smart Protocol
+Tasmota is a powerful open-source firmware that provides extensive functionality and flexibility for various smart devices. By adding Matter linking capabilities to Tasmota, it enables connectivity with the three major platforms (Apple Home, Alexa, Google Home), making control of smart home devices more versatile.
 
-Matter 产品的加入，让原本只能通过 web 网页控制的设备变得更加智能。用户不仅可以使用 web 来控制设备，还可以通过扫描 web 页面显示的二维码或设备贴纸上的二维码连接 App，实现从 Tasmota 到 Matter 的飞跃。
+The integration of Matter products makes devices that were previously only controllable via web interfaces more intelligent. Users can now not only control devices through the web but also connect to the app by scanning QR codes displayed on web pages or device stickers, achieving a leap from Tasmota to Matter.
 
-## 更优越的操作体验
+## Superior Operational Experience
 
-使用 App 后，用户可以进行更多智能操作。例如，利用 App 自带的自动化功能，让设备自动运行；通过远程控制，只要保证智能音箱与设备 Wi-Fi 一致，手机网络畅通，即可随时随地控制设备。此外，还可以通过语音助手（如 Apple、Alexa、Google）进行控制，实现倒计时（定时）开关、更改灯光颜色、亮度和色温等操作（Alexa、Google 支持更改灯光色温）。
+After using the app, users can perform more intelligent operations. For example, using the app’s built-in automation features to make devices run automatically; with remote control, as long as the smart speaker and device Wi-Fi are consistent and the mobile network is smooth, devices can be controlled anytime and anywhere. Additionally, voice assistants (such as Apple, Alexa, Google) can be used for control, enabling actions like countdown (timed) switches, changing light colors, brightness, and color temperature (Alexa and Google support changing light color temperature).
 
-在灯的功能配置方面，该方案支持复位时间设置，包括设备重置的时间或方式；网络指示灯设置；默认 IO 配置以及 PWM io 控制配置等。
+In terms of light function configuration, the solution supports settings for reset time, including the time or method for device reset; network indicator settings; default IO configurations; and PWM IO control configurations.
 
-## 飞腾云给您全方位服务
+## Phaten Provides Comprehensive Services
 
-同时，该方案还提供了一系列服务。包括 Matter DAC 证书预置服务，支持客户导入 DAC 认证证书；满足定制化需求，为客户出货或开发提供更优良的产品；提供预置固件，客户可通过 OTA 远程升级，直接进入调试；以及持续的 Tasmota 固件维护，对原始固件的 bug 进行长期优化更新。
+Additionally, this solution offers a range of services, including Matter DAC certificate provisioning, which supports customer import of DAC certification certificates; customization to meet customer needs, providing better products for shipping or development; provision of pre-configured firmware, allowing customers to upgrade remotely via OTA and directly enter debugging; and ongoing Tasmota firmware maintenance, with long-term optimization and updates for original firmware bugs.
 
-总的来说，飞腾云可以为您提供便捷的智能家居模组，让您的Matter 产品与 Tasmota 产品的融合为智能家居带来了更多的可能性，为用户提供了更加便捷、智能的生活体验。
+In summary, Phaten can provide you with convenient smart home modules, making the integration of your Matter and Tasmota products bring more possibilities to smart homes, and offering users a more convenient and intelligent living experience.
