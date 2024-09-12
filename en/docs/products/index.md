@@ -34,7 +34,7 @@ Feiteng Cloud is deeply engaged in the field of | Wi-Fi IOT Module | Wi-Fi IOT S
 
     [Click to view product details](../products/matter/socket1_5.md)
 
--   ![](../assets/images/chanpin-tu/wb03a.jpg)
+-   ![](/assets/images/chanpin-tu/wb03a.jpg)
 
     WB03A-8684H2V1
     
@@ -66,7 +66,7 @@ Feiteng Cloud is deeply engaged in the field of | Wi-Fi IOT Module | Wi-Fi IOT S
 
     [Click to view product details](../products/8720df/dev_board.md)
    
--   ![](/assets/images/serial_board.jpg)
+-   ![](/assets/images/chanpin-tu/17.jpg)
 
     Serial Board
 

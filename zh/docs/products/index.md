@@ -91,7 +91,7 @@ title: 产品中心
 
     [点击查看产品详情](../products/matter/socket1_5.md)
 
--   ![](../assets/images/chanpin-tu/wb03a.jpg)
+-   ![](/assets/images/chanpin-tu/wb03a.jpg)
 
     WB03A-8684H2V1
     
@@ -123,7 +123,7 @@ title: 产品中心
 
     [点击查看产品详情](../products/8720df/dev_board.md)
    
--   ![](/assets/images/串口版.jpg)
+-   ![](/assets/images/chanpin-tu/17.jpg)
 
     串口板
 
