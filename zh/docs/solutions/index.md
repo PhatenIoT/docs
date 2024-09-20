@@ -124,6 +124,14 @@ title: 飞腾云 应用解决方案
 
 <div class="grid cards" markdown>
 
+-   ![](/assets/images/fangan-tu/AU316.png)
+
+    Wi-Fi 5.8G 5.1无线音响方案
+
+    WIFI 5.8G无线5.1音响应用方案凭借其卓越的性能和灵活的应用场景，必将为用户带来前所未有的音频体验。无论是音乐爱好者还是影音发烧友，都能在此方案中找到理想的解决方案。
+
+    [点击查看详情](../solutions/speaker/index.md)
+
 -   ![](/assets/images/fangan-tu/汽车VR.jpg)
 
     RTL 8720DF 5.8G 汽车VR数据透传

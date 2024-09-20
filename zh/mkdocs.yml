@@ -166,6 +166,8 @@ nav:
   - 应用方案: 
     - solutions/index.md
 
+    - AU316Wi-Fi5.8G 5.1无线音响方案:
+        - solutions/speaker/index.md
 
     - IOT透传方案: 
         - solutions/iot_passthrough/index.md

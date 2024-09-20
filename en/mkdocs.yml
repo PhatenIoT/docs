@@ -163,6 +163,8 @@ nav:
   - Home: index.md
   - Applications:
     - solutions/index.md
+    - AU316Wi-Fi5.8G 5.1无线音响方案:
+        - solutions/speaker/index.md
     - IoT Pass-through Solutions:
         - solutions/iot_passthrough/index.md
         - RTL8720DF Wi-Fi 5.8G Data Pass-through Application for Automotive VR Solution: solutions/8720df/vr_glasses_solution.md
