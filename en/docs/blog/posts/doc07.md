@@ -7,6 +7,7 @@ categories:
 
 
 # Phaten Tasmota-Matter Module: The Excellent Choice for Smart Homes
+<!-- more -->
 
 In today's digital age, smart homes have become an important symbol of enhancing quality of life. Phaten's Tasmota-Matter module is leading the new trend in smart homes with its outstanding performance and innovative technology.
 

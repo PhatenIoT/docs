@@ -5,6 +5,7 @@ categories:
 ---
 
 # Phaten Technology Co., Ltd.: A Professional Manufacturer and R&D Solution Provider of Matter Modules
+<!-- more -->
 
 ### Using High-Quality Chips
 Phaten Technology focuses on module manufacturing and the R&D of specific product solutions, possessing outstanding expertise in the field of module production. Our Matter modules utilize the ESP8584 series chips, providing intelligent connectivity solutions for smart home devices with high quality and reliability.
