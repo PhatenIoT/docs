@@ -285,5 +285,5 @@ nav:
 
   - 关于我们:
       - about_us/index.md
-      - 加入我们: about_us/join_us.md
+#      - 加入我们: about_us/join_us.md
       - 联系我们: about_us/contact_us.md
