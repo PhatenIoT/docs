@@ -5,10 +5,10 @@ categories:
 ---
 
 # 智能家居助手大比拼：Alexa、Google Home 还是 HomePod？
-<!-- more -->
+
 ## 它们的区别
 在智能家居技术的浪潮中，选择一个合适的智能家居系统对于提升家居便利性和舒适度至关重要。市场上的三大巨头——Amazon Alexa、Google Home 和 Apple HomePod，各自以其独特的特点和功能吸引着消费者。每个系统都有其优势和局限性，理解这些差异有助于您做出最适合自己的选择。
-
+<!-- more -->
 Amazon Alexa：
 
 - 与亚马逊生态系统深度集成，适合亚马逊Prime会员和频繁使用亚马逊服务的用户。

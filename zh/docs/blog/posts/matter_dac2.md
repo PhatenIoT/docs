@@ -7,11 +7,11 @@ categories:
 
 # matter DAC 与 CD 有啥关系？
 
-<!-- more -->
+
 ## DAC的逻辑是什么？
 
 在Matter（前身为CHIP）生态系统中，DAC通常指的是“Device Access Control”，即设备访问控制。这并不是一个单独的逻辑或技术，而是涵盖多种安全和访问管理机制的总称，用于确保智能家居设备之间的安全互操作性。
-
+<!-- more -->
 具体来说，Matter DAC的逻辑可以概括为以下几个方面：
 
 1.身份验证和认证：

@@ -6,7 +6,7 @@ categories:
 
 # Matter Test-Harness 认证测试要如何进行？
 
-<!-- more -->
+
 
 ## 步骤一：准备环境
 
@@ -15,6 +15,8 @@ categories:
 
 - 确保你有一个稳定的开发环境，包括 Git、Python、Node.js 和 Yarn 等。
 - 安装 Matter SDK：从 Matter 的官方 GitHub 仓库下载并编译 SDK。你可以使用以下命令：
+
+<!-- more -->
 
 ---
     git clone https://github.com/project-chip/connectedhomeip.git

@@ -7,6 +7,7 @@ categories:
 ---
 
 # matter 如何OTA升级？
+本文为您介绍如何进行 OTA 升级 matter 设备，快来点击查看吧！
 <!-- more -->
 ## 一、生成OTA固件升级压缩包
 

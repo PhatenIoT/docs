@@ -6,9 +6,9 @@ categories:
 
 ---
 # matter 国内市场：伺机而发
-<!-- more -->
-Matter智能插座及其他智能产品在国内市场的发展正逐渐加速，得益于Matter协议的推出和推广。Matter协议，由连接标准联盟（Connectivity Standards Alliance，CSA）制定，旨在打造一个统一的智能家居生态系统，实现跨品牌和平台的互联互通。
 
+Matter智能插座及其他智能产品在国内市场的发展正逐渐加速，得益于Matter协议的推出和推广。Matter协议，由连接标准联盟（Connectivity Standards Alliance，CSA）制定，旨在打造一个统一的智能家居生态系统，实现跨品牌和平台的互联互通。
+<!-- more -->
 matter发布这几年，在国外风生水起，可是国内市场一点影子都没有，也没有宣传开。 国内市场有待开发！！
 
 ## 当前市场接受度和推广情况

@@ -7,6 +7,7 @@ categories:
 ---
 
 # Tasmota 常用功能介绍
+为您介绍 Tasmota 常用的功能
 <!-- more -->
 ![](/assets/images/tasmota/tasmota_matter/3-1.jpg)
 ![](/assets/images/tasmota/tasmota_matter/3-2.jpg)

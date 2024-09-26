@@ -6,10 +6,10 @@ categories:
 
 #  Thread 与 Matter的关系原来是这样的！！！
 
-<!-- more -->
+
 
 在不断发展的物联网（IoT）领域中，Thread 和 Matter 协议作为两种重要的通信标准，各自扮演着关键的角色。
-
+<!-- more -->
 ![](/assets/images/thread.png)
 
 ## Thread 协议概述
