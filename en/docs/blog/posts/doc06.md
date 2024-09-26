@@ -9,7 +9,7 @@ categories:
 
 ### Using High-Quality Chips
 Phaten Technology focuses on module manufacturing and the R&D of specific product solutions, possessing outstanding expertise in the field of module production. Our Matter modules utilize the ESP8584 series chips, providing intelligent connectivity solutions for smart home devices with high quality and reliability.
-
+<!-- more -->
 As an industry standard, Matter is dedicated to creating secure and reliable connections for smart home devices. Our Matter modules support multiple transmission protocols, including Wi-Fi, Ethernet, and Thread, and utilize Bluetooth LE for debugging. This enables our modules to seamlessly integrate with various smart home devices and systems, offering users a smooth smart experience.
 
 In the successful establishment of the Matter 1-5 socket solution, we fully demonstrated the powerful capabilities and advantages of Matter modules. This module not only easily integrates with customers' baseboard modules, allowing for simple addition to devices for smart control, but also features a rich set of functionalities. For instance, it can link with the three major platforms: Apple, Alexa, and Google for smart control, and supports features such as reset time, total control switch for sockets, relay indicator lights, device reset timing or methods, whether the network indicator light reuses the relay indicator light, default IO configuration, and customizable options for 1 to 5 socket holes.

@@ -5,9 +5,12 @@ categories:
 ---
 
 # Cost Comparison of Matter Smart Products with Traditional and Other Smart Products
-<!-- more -->
+
 ### Purchase Cost
 * Matter Smart Products: Currently in the development stage, some high-end Matter smart products may have relatively high prices. For example, smart lighting systems and smart curtains that support the Matter protocol may be priced higher than traditional counterparts. However, as Matter technology becomes more widespread and market competition increases, the prices of Matter smart products are expected to gradually decrease.
+
+<!-- more -->
+
 * Traditional Smart Products: The price range for traditional smart products is quite broad, including both affordable entry-level products and more complex, high-quality high-end products. Overall, the prices of traditional smart products are relatively stable, allowing consumers to choose products that fit their budget.
 * Other Smart Products: The price differences among other smart products can vary significantly. Some emerging smart products, due to advanced technologies and materials, may be priced higher; while simpler smart products tend to be more affordable. For instance, small smart products like smart bands and smart plugs are relatively budget-friendly, whereas larger smart products like smart robots and smart refrigerators tend to be more expensive.
 

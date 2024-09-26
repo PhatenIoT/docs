@@ -5,9 +5,9 @@ categories:
 ---
 
 # Matter Smart Switch
-<!-- more -->
-With the rapid development of smart homes, compatibility and interoperability have become important considerations for users when choosing smart devices. Against this backdrop, the Matter protocol has emerged, aiming to achieve seamless connectivity between different brands and platforms. As a smart device under the Matter protocol, the Matter smart switch not only enhances the convenience of home life but also brings new opportunities to the enterprise market.
 
+With the rapid development of smart homes, compatibility and interoperability have become important considerations for users when choosing smart devices. Against this backdrop, the Matter protocol has emerged, aiming to achieve seamless connectivity between different brands and platforms. As a smart device under the Matter protocol, the Matter smart switch not only enhances the convenience of home life but also brings new opportunities to the enterprise market.
+<!-- more -->
 ## What is the Matter Smart Switch?
 
 The Matter smart switch is a smart device that can connect and control various household appliances through the Matter protocol. It enables remote control, scheduled switching, and scene settings, allowing users to easily manage their home appliances. Whether it's lighting, fans, or other devices, users can control them through their smartphones, voice assistants, or other smart devices.

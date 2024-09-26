@@ -7,10 +7,10 @@ categories:
 
 
 # Phaten Tasmota-Matter Module: The Excellent Choice for Smart Homes
-<!-- more -->
+
 
 In today's digital age, smart homes have become an important symbol of enhancing quality of life. Phaten's Tasmota-Matter module is leading the new trend in smart homes with its outstanding performance and innovative technology.
-
+<!-- more -->
 ### Hardware · High Quality
 Tasmota, as an open-source firmware designed for microcontrollers like ESP8266 and ESP32, has always been favored by smart home enthusiasts. It can transform ordinary WiFi modules into smart devices, supporting multiple communication protocols and providing strong support for DIY smart home projects.
 
