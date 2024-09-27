@@ -6,10 +6,9 @@ categories:
 
 # Phaten's Gateway Module based on Realtek 8722 is Impressive!
 
-<!-- more -->
 
 Thread is a low-power, highly secure, and reliable wireless network protocol, particularly suitable for interconnecting smart home and IoT devices. The Thread gateway plays a crucial role in this network by connecting various Thread devices to the internet and other IP networks.
-
+<!-- more -->
 ## Basic Principles of Thread Gateway
 As a bridge, the Thread gateway connects Thread devices within a local network to the internet or other IP networks. It typically features the following functionalities:
 

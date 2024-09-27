@@ -7,9 +7,9 @@ categories:
 
 # Matter Bulbs Will Be Everywhere
 
-<!-- more -->
 
-The smart home revolution is changing the way we interact with our home environments. The Matter standard, with its cross-brand compatibility and security, has become the bridge for connecting smart devices. With its professional experience in Wi-Fi IOT, Phaten IoT has launched a Matter-based smart bulb solution, bringing users an unprecedented lighting experience.
+
+The smart home revolution is changing the way we interact with our home environments. The Matter standard, with its cross-brand compatibility and security, has become the bridge for connecting smart devices. With its professional experience in Wi-Fi IOT, Phaten IoT has launched a Matter-based smart bulb solution, bringing users an unprecedented lighting experience.<!-- more -->
 <!-- matter  tasmota  module  matter development  module development  smart home  smart products -->
 ## 1. Applications of Matter Bulbs
 

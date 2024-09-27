@@ -12,7 +12,7 @@ categories:
 # Comprehensive Analysis of Matter: The Future Path of Smart Homes
 
 In our daily lives, smart home products are gradually becoming an increasingly indispensable part. With the continuous advancement of technology, people's expectations for smart home systems are also constantly increasing. Matter, as a new standard, is dedicated to changing our perception and experience of smart homes.
-
+<!-- more -->
 ## What is Matter?
 
 Matter is an initiative driven by smart device manufacturers, platform providers, and other stakeholders, aimed at creating an open, interoperable smart home standard. Through Matter, users can expect seamless interconnection between smart devices of different brands, enabling communication and collaboration between devices, thus creating a smarter and more convenient lifestyle.

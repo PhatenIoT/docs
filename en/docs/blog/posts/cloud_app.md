@@ -11,7 +11,7 @@ categories:
 
 ## Various Benefits of Connecting to Cloud Platforms
 
-1. Remote Control and Monitoring: Devices can be remotely controlled and monitored via cloud platforms. Through cloud-based applications, you can send commands to switch devices on/off, adjust parameters, and simultaneously retrieve real-time device status and data.
+1. Remote Control and Monitoring: <!-- more --> Devices can be remotely controlled and monitored via cloud platforms. Through cloud-based applications, you can send commands to switch devices on/off, adjust parameters, and simultaneously retrieve real-time device status and data.
 
 2. Data Collection and Analysis: Once devices are connected to a cloud platform, they can continuously collect and upload data such as temperature, humidity, and energy consumption. This data can be stored, analyzed, and visualized in the cloud to help users understand device operation and performance.
 

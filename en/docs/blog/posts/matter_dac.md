@@ -5,9 +5,9 @@ categories:
 ---
 
 # Understanding DAC: What Exactly Is It?
-<!-- more -->
 
-In the world governed by the Matter protocol, device manufacturers are now focusing on deeper aspects of competition such as hardware design, interaction methods, content, collaborative capabilities, user experience, scenario applications, brand marketing, cloud services, and security. It can be said that Matter is not just a set of protocol standards but also a certification system where security and privacy are paramount. The security certification between Matter devices and ecosystems forms the foundation of this system.
+
+In the world governed by the Matter protocol, device manufacturers are now focusing on deeper aspects of competition such as hardware design, interaction methods, content, collaborative capabilities, user experience, scenario applications, brand marketing, cloud services, and security. <!-- more --> It can be said that Matter is not just a set of protocol standards but also a certification system where security and privacy are paramount. The security certification between Matter devices and ecosystems forms the foundation of this system.
 
 Feiteng Cloud has developed a comprehensive service system encompassing device testing, device certification, cloud certification, and large-scale production that Matter devices must undergo. Combined with Matter DAC services, Feiteng Cloud is committed to delivering more refined Matter all-in-one solutions to Matter device manufacturers and brand owners.
 ![](../../assets/images/matter.jpg)

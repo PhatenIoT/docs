@@ -6,8 +6,8 @@ categories:
 ---
 
 # How to Use Matter Light Bulbs!
-<!-- more -->
-In the hustle and bustle of modern life, home is not only a sanctuary but also a personalized space that can be adjusted according to our needs and moods. The Matter smart light bulb module launched by Feiteng Cloud Company is a product that can turn your home into a smart living space.
+
+In the hustle and bustle of modern life, home is not only a sanctuary but also a personalized space that can be adjusted according to our needs and moods. The Matter smart light bulb module launched by Feiteng Cloud Company is a product that can turn your home into a smart living space.<!-- more -->
 ![](/assets/images/智能灯.jpg)
 ## Morning Awakening
 As the first rays of the morning sun shine through the curtains, the Matter smart light bulb slowly lights up, simulating natural light to gently wake you up. It is more than just a light bulb; it's an intelligent life assistant that, through preset wake-up scenes, allows you to start a new day in the most natural way.

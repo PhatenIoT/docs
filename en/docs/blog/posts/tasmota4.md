@@ -7,8 +7,9 @@ categories:
 ---
 
 # Common Tasmota Features
-<!-- more -->
+
    ![Tasmota Features 1](/assets/images/tasmota/tasmota_matter/3-1.jpg)
+<!-- more -->
    <!-- ![Tasmota Features 2](/assets/images/tasmota/tasmota_matter/3-2.jpg)-->
    ![Tasmota Features 3](/assets/images/tasmota/tasmota_matter/3-3en.png) 
 

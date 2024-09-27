@@ -5,10 +5,10 @@ categories:
 ---
 
 # Smart Home Assistant Showdown: Alexa, Google Home, or HomePod?
-<!-- more -->
+
 ## Their Differences
 In the wave of smart home technology, choosing the right smart home system is crucial for enhancing the convenience and comfort of your home. The three giants in the market—Amazon Alexa, Google Home, and Apple HomePod—each attract consumers with their unique features and functions. Each system has its strengths and limitations, and understanding these differences can help you make the best choice for yourself.
-
+<!-- more -->
 Amazon Alexa:
 
 - Deeply integrated with the Amazon ecosystem, suitable for Amazon Prime members and users who frequently use Amazon services.

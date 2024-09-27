@@ -6,10 +6,10 @@ categories:
 
 # Thread and Matter: Understanding Their Relationship!
 
-<!-- more -->
+
 
 In the ever-evolving field of Internet of Things (IoT), Thread and Matter protocols serve as two crucial communication standards, each playing pivotal roles.
-
+<!-- more -->
 ![](/assets/images/thread.png)
 
 ## Thread Protocol Overview

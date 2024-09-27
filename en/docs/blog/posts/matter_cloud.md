@@ -12,7 +12,7 @@ categories:
 
 ![](/assets/images/cloud.jpg)
 
-Cloud computing can be metaphorically likened to clouds in the sky: it is a model of delivering computing services over the internet, akin to obtaining moisture from clouds. In this metaphor:
+Cloud computing can be metaphorically likened to clouds in the sky: it is a model of delivering computing services over the internet, akin to obtaining moisture from clouds. <!-- more --> In this metaphor:
 
 1. Storage and Processing Capability: Clouds, like those in the sky, accumulate vast resources (moisture or computing resources) accessible for multiple demands.
    

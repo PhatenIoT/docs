@@ -6,12 +6,12 @@ categories:
 
 # Matter Product Security Certification: Key Points Explained!
 
-<!-- more -->
+
 
 ![](/assets/images/R-C.jpg)
 
 The new Matter protocol enables interoperability among smart home devices from different manufacturers, combining interoperability, reliability, and security—a significant step forward for the industry.
-
+<!-- more -->
 Matter, based on IP protocol, allows smart home devices to work together out of the box. This means less hassle when setting up initial networks or adding devices in the future, ensuring a better user experience.
 
 Moreover, the Matter standard employs robust, extensively tested security mechanisms to maintain information confidentiality, prevent unauthorized access, and ensure every communication is protected. For instance, Matter-certified devices have unique identities, undergo authentication before joining networks, and encrypt data to safeguard confidentiality and privacy. Detailed access control policies restrict device operations to only those actions they should perform.

@@ -7,11 +7,11 @@ categories:
 
 # How to Conduct Matter Test-Harness Certification Testing?
 
-<!-- more -->
+
 
 ## Step 1: Prepare the Environment
 
-1. Install Necessary Software:
+1. Install Necessary Software:<!-- more -->
 
 - Ensure you have a stable development environment, including Git, Python, Node.js, and Yarn.
 - Install Matter SDK: Download and compile the SDK from Matter's official GitHub repository. Use the following commands:

@@ -7,11 +7,10 @@ categories:
 
 # What's the Relationship Between Matter DAC and CD?
 
-<!-- more -->
 ## What is DAC Logic?
 
 In the Matter ecosystem (formerly known as CHIP), DAC typically refers to "Device Access Control," which ensures secure interoperability among smart home devices through various security and access management mechanisms.
-
+<!-- more -->
 Specifically, the logic of Matter DAC can be summarized as follows:
 
 1. Authentication and Authorization:
