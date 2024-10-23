@@ -16,29 +16,10 @@ Video Introduction:
 
 
 
-## I. Overview of Control
-This solution is based on advanced Wi-Fi 5.8G technology, combined with the Realtek RTL8711DCM main control chip and XMOS XU316 USB audio decoding chip, aiming to provide an outstanding 5.1 channel wireless audio experience. The workflow of this solution is as follows:
+1. Solution Overview
+Our wireless home theater solution provides consumers with a lightweight and convenient audio experience, replacing the hassle of audio wiring. This solution features low latency, high sound quality, and strong anti-interference capability, supporting multi-channel wireless transmission. The wireless connection solution for our 7.1.2 home theater is based on Wi-Fi 5G signals, ensuring stable transmission of audio signals and delivering a cinema-level immersive audio-visual experience.
 
-
-
-
-1. **Audio Source Connection**: Users can connect their computer or mobile device to the XMOS XU316 USB audio decoder via USB interface. This decoder can handle high-quality 5.1 channel music, ensuring high-fidelity transmission of audio signals.
-2. **Audio Signal Output**: The XMOS XU316 converts the audio signal into I2S format and connects with the RTL8711DCM(TX) module through the I2S audio interface. This process ensures the stability and clarity of audio signals during transmission.
-
-
-
-
-3. **Wireless Connection**: The RTL8711DCM(TX) module establishes a wireless connection with the RTL8711DCM(RX) module through an AP hotspot, achieving seamless transmission of 5.1 channel audio. This wireless connection not only simplifies wiring but also enhances the flexibility of the system.
-
-
-
-
-4. **Audio Transmission**: Utilizing Wi-Fi 5.8G technology, the RTL8711DCM module can achieve stable and low-latency wireless transmission of 5.1 channel audio, allowing users to enjoy an immersive sound experience while watching movies or listening to music.
-
-
-
-
-![](../../assets/images/speaker/whiteboard_exported_image-en.png)
+![](../../assets/images/speaker/无线方案对比图.png)
 
 
 
