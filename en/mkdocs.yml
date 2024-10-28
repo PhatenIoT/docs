@@ -172,6 +172,7 @@ nav:
     - Matter Application Solutions: 
         - solutions/matter/index.md
         - Matter Pre-Burn DAC Module Application Solution: solutions/matter/Pre_Burn_DAC_Module.md
+        - ESP8684 Matter circuit breaker application solution: solutions/matter/circuit_breaker.md
         - ESP8684 Matter 1-5 Socket Application Solution: solutions/matter/socket1_5.md
         - ESP8684 Matter 5-Lamp Application Solution: solutions/matter/rgbcw_light.md
         - 8720DF Matter 1-5 Socket Application Solution: solutions/matter/8720df_matter_socket.md

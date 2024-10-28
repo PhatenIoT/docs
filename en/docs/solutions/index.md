@@ -38,6 +38,14 @@ title: Phaten Application Solutions
 
     [Click to view details](../solutions/matter/socket1_5.md)
 
+-    ![](/assets/images/fangan-tu/通断器.jpg)
+    
+    **Matter Circuit Breaker**
+    
+    Customizable, Matter certified, interoperable with HomeKit, Alexa, Google Home
+    
+    [Click here for details](../solutions/matter/circuit_breaker.md)
+
 -   ![](/assets/images/matter/5_bulb.png)
 
     Matter 5-Way Bulb
