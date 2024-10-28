@@ -126,7 +126,7 @@ title: 飞腾云 应用解决方案
 
 -   ![](/assets/images/fangan-tu/AU316.png)
 
-    Wi-Fi 5.8G 5.1无线音响方案
+    **Wi-Fi 5.8G 5.1无线音响方案**
 
     WIFI 5.8G无线5.1音响应用方案凭借其卓越的性能和灵活的应用场景，必将为用户带来前所未有的音频体验。无论是音乐爱好者还是影音发烧友，都能在此方案中找到理想的解决方案。
 
@@ -134,7 +134,7 @@ title: 飞腾云 应用解决方案
 
 -   ![](/assets/images/fangan-tu/汽车VR.jpg)
 
-    RTL 8720DF 5.8G 汽车VR数据透传
+    **RTL 8720DF 5.8G 汽车VR数据透传**
 
     本方案基于RTL8720DF 是双频Wi-Fi(2.4G+5G)和BLE5.0 的Soc 芯片。具有超低功耗、完整的加密策略和丰富的外设资源，相比与传统的2.4G 通讯具有低延迟，高传输速度，完全可以满足VR眼镜实时数据处理和低延迟的传输的要求。
 
@@ -142,23 +142,30 @@ title: 飞腾云 应用解决方案
 
 -   ![](/assets/images/fangan-tu/Wi-Fi透传.jpg)
 
-    RTL8720CF 通用透传应用
+    **RTL8720CF 通用透传应用**
 
     利用AT指令集通过WIFI网络实现数据透明传输的技术。这种方案广泛应用于物联网（IoT）设备，如智能家电、传感器网络等，它允许设备通过WIFI网络与其他设备或服务器进行通信，无需用户干预。
 
     [点击查看详情](../solutions/8720cf/rtl8720cf_solution.md)
 
--   ![](/assets/images/fangan-tu/插座2.jpg)
-
-    Matter 1-5路 插座
+-    ![](/assets/images/fangan-tu/插座2.jpg)
+    **Matter 1-4路 插座**
 
     可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
 
     [点击查看详情](../solutions/matter/socket1_5.md)
 
+-   ![](/assets/images/fangan-tu/通断器.jpg)
+
+    **Matter 通断器**
+
+    可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
+
+    [点击查看详情](../solutions/matter/circuit_breaker.md)
+
 -   ![](/assets/images/matter/5灯泡.png)
 
-    Matter 5路 球灯泡
+    **Matter 5路 球灯泡**
 
     可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
 
@@ -167,7 +174,7 @@ title: 飞腾云 应用解决方案
 
 -   ![](/assets/images/fangan-tu/插座3.jpg)
 
-    8720DF Matter 1-5路 插座
+    **8720DF Matter 1-5路 插座**
 
     可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
 
@@ -175,7 +182,7 @@ title: 飞腾云 应用解决方案
 
 -   ![](/assets/images/matter/5灯泡.png)
 
-    8720DF Matter 5路 球灯泡
+    **8720DF Matter 5路 球灯泡**
 
     可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
 
@@ -183,7 +190,7 @@ title: 飞腾云 应用解决方案
 
 -   ![](/assets/images/fangan-tu/插座4.jpg)
     
-    Tasmota 电量计量插座
+    **Tasmota 电量计量插座**
 
     便捷省事： 无需在官方购买拆卸、费时搞定硬件配置、定制化需求、提供预置固件 、完善的Tasmota功能支持
 
@@ -191,7 +198,7 @@ title: 飞腾云 应用解决方案
 
 -   ![](/assets/images/fangan-tu/插座3.jpg)
     
-    Tasmota-Matter 计量插座
+    **Tasmota-Matter 计量插座**
 
     可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
 
@@ -199,7 +206,7 @@ title: 飞腾云 应用解决方案
 
 -   ![](/assets/images/matter/5灯泡.png)
 
-    Tasmota-Matter 5路灯
+    **Tasmota-Matter 5路灯**
 
     可定制、有Matter认证证书、互联互通homekit、Alexa、GoogleHome
 

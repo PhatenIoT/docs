@@ -177,7 +177,8 @@ nav:
     - Matter 应用方案: 
         - solutions/matter/index.md
         - Matter预烧录DAC模组应用方案: solutions/matter/Pre_Burn_DAC_Module.md
-        - ESP8684 Matter1-5路插座应用方案: solutions/matter/socket1_5.md
+        - ESP8684 Matter通断器应用方案: solutions/matter/circuit_breaker.md
+        - ESP8684 Matter1-4路插座应用方案: solutions/matter/socket1_5.md
         - ESP8684 Matter5路灯应用方案: solutions/matter/rgbcw_light.md
         - 8720DF Matter 1-5路插座应用方案: solutions/matter/8720df_matter_socket.md
         - 8720DF Matter 5路灯应用方案: solutions/matter/8720df_matter_light.md
