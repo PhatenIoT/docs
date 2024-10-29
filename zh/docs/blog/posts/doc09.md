@@ -2,7 +2,7 @@
 date: 2024-10-12
 
 categories:
-    - vaudio
+    - audio
 ---
 
 # 飞腾云公司 5.1 环绕音响模组：打造极致影视听体验
