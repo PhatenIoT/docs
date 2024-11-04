@@ -8,9 +8,9 @@ title: Phaten Application Solutions
 
 -   ![](/assets/images/fangan-tu/AU316.png)
 
-    Wi-Fi 5.8G 5.1 Wireless Audio Solution
+    Wi-Fi 5.8G 7.1.2 Wireless Audio Solution
 
-    The WIFI 5.8G wireless 5.1 audio application solution, with its outstanding performance and flexible application scenarios, is sure to provide users with an unprecedented audio experience. Whether you are a music lover or an audio enthusiast, you will find the ideal solution in this proposal.
+    The WIFI 5.8G wireless 7.1.2 audio application solution, with its outstanding performance and flexible application scenarios, is sure to provide users with an unprecedented audio experience. Whether you are a music lover or an audio enthusiast, you will find the ideal solution in this proposal.
 
     [Click to view details](../solutions/speaker/index.md)
 

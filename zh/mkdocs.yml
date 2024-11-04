@@ -166,7 +166,7 @@ nav:
   - 应用方案: 
     - solutions/index.md
 
-    - AU316Wi-Fi5.8G 5.1无线音响方案:
+    - AU316Wi-Fi5.8G 7.1.2无线音响方案:
         - solutions/speaker/index.md
 
     - IOT透传方案: 
@@ -250,6 +250,12 @@ nav:
         -  WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
       - ESP8685:
         -  WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
+
+    - 无线音响套装:
+        - 2.1 无线音响接线说明: services_support/audio/2.1audio.md
+        - 5.1 无线音响接线说明: services_support/audio/5.1audio.md
+        - 7.1 无线音响接线说明: services_support/audio/7.1.2audio.md
+        - 使用说明: services_support/audio/used.md
 
   - Tasmtoa:
     - Tasmota-OTA: download/tasmota-ota/index.md
