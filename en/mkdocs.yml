@@ -163,7 +163,7 @@ nav:
   - Home: index.md
   - Applications:
     - solutions/index.md
-    - Wi-Fi 5.8G 5.1 Wireless Audio Solution:
+    - Wi-Fi 5.8G 7.1.2 Wireless Audio Solution:
         - solutions/speaker/index.md
     - IoT Pass-through Solutions:
         - solutions/iot_passthrough/index.md
@@ -224,6 +224,11 @@ nav:
         -  WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
       - ESP8685:
         -  WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
+    - Wireless speaker set:
+      - 2.1 Wireless Speaker Wiring Instructions: services_support/audio/2.1audio.md
+      - 5.1 Wireless Speaker Wiring Instructions: services_support/audio/5.1audio.md
+      - 7.1 Wireless Speaker Wiring Instructions: services_support/audio/7.1.2audio.md
+      - Instruction for Use: services_support/audio/used.md
     # - Development board:
     #   - NodeMcu-8720DFV1 Development board: dev_doc/8720df/dev_board.md
 

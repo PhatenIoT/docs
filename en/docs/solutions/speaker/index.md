@@ -9,28 +9,35 @@ title: Phaten Wi-Fi 7.1.2 Home Theater Wireless Connection Solution
 
 
 
-
+<!-- 
 Video Introduction:
-[Wi-Fi 5.8G 7.1.2 Wireless Audio Solution](../../assets/images/speaker/XU316-英文.mp4)
+[Wi-Fi 5.8G 7.1.2 Wireless Audio Solution](../../assets/images/speaker/XU316-英文.mp4) -->
 
 
 
 
-1. Solution Overview
-2. 
-With the continuous advancement of technology and consumers' increasing pursuit of audio-visual experiences, traditional audio equipment has become insufficient to meet the needs of modern households. As flat-screen TVs gradually become the center of home entertainment, bulky amplifiers and complex sound systems seem increasingly outdated. Consumers wish to enjoy a cinema-like audio-visual effect at home but do not want to endure the hassle of complicated audio wiring and equipment installation.
+## I. Background Introduction
 
-<!-- more -->
-Driven by this market demand, lightweight and convenient audio solutions such as soundbars, standalone subwoofers, and surround sound speakers have emerged. These devices not only have a stylish appearance but are also easy to operate, effectively enhancing the sound quality of TVs and other audio sources, providing users with a stunning immersive experience. Especially during family gatherings, movie watching, or gaming, a high-quality audio experience can greatly enhance the entertainment effect and create a more engaging atmosphere.
+With the continuous advancement of technology and the increasing pursuit of audio-visual experience by consumers, traditional audio equipment has become difficult to meet the needs of modern families. Against the background of flat-panel LCD TVs gradually becoming the center of home entertainment, bulky power amplifiers and complex audio systems are increasingly out of date. Consumers hope to enjoy a cinema-like audio-visual effect at home but are unwilling to endure the cumbersome audio wiring and equipment installation for it.
 
-To meet consumers' pursuit of high-quality audio, we have launched the 7.1.2 Home Theater Wireless Connection Solution. This solution fully utilizes the latest Wi-Fi 5G signal technology, featuring low latency, high sound quality, and strong anti-interference capabilities, supporting multi-channel wireless transmission. Users need not worry about wiring issues; with simple setup, they can enjoy cinema-level immersive audio-visual effects in every corner of their home. Our aim is to provide every user with a convenient and high-quality audio experience, allowing them to feel the shock and enjoyment brought by professional audio systems at home.
+Driven by such market demands, lightweight and convenient audio solutions such as Soundbars, independent subwoofers, and surround sound have emerged. These devices are not only stylish in appearance but also easy to operate, can effectively enhance the sound effect of TVs and other audio sources, and provide users with a shocking immersive experience. Especially during family gatherings, movie watching, or gaming, a high-quality audio experience can greatly enhance the entertainment effect and create a more attractive atmosphere.
+
+To meet consumers' pursuit of high-quality audio, we have launched a 7.1.2 home theater wireless connection solution. This solution makes full use of the latest Wi-Fi 5G signal technology, has low latency, high sound quality, and strong anti-interference ability, and supports multi-channel wireless transmission. Users do not need to worry about wiring issues. With simple settings, they can enjoy cinema-level immersive audio-visual effects in every corner of the home. We aim to provide every user with a convenient and high-quality audio experience, allowing them to feel the shock and enjoyment brought by professional audio at home.
+
+## II. Solution Introduction
+
+Feitengyun Technology provides a dual-chip solution for the 7.1.2 channel home theater system. First, the classic Bluetooth / LE Audio is used to connect the soundbar main system with mobile phones / TVs to receive audio sources.
+
+![](../../assets/images/speaker/5.1.2%20示意图.png)
+
+The Soundbar and the external sub-speaker system are connected through a wireless transceiver module (Tx/Rx module). Feitengyun Technology adopts a 5.8G private protocol to realize the wireless connection between the soundbar and the two rear surround speakers and the subwoofer, and can support the audio data transmission of 3 channels simultaneously. 
 
 ![](../../assets/images/speaker/无线方案对比图.png)
 
 
 
 
-## II. Features and Advantages
+## III. Features and Advantages
 
 
 
@@ -70,10 +77,10 @@ This Wi-Fi 5.8G wireless 7.1.2 audio solution has the following significant adva
 
 
 
-This Wi-Fi 5.8G wireless 7.1.2 audio application solution, with its outstanding performance and flexible application scenarios, is sure to bring users an unprecedented audio experience. Whether for music lovers or audio enthusiasts, this solution offers an ideal choice.
+This Wi-Fi 5.8G wireless 7.1.2 or 5.1 audio application solution, with its outstanding performance and flexible application scenarios, is sure to bring users an unprecedented audio experience. Whether for music lovers or audio enthusiasts, this solution offers an ideal choice.
 
 
-
+The video below is a demonstration of 5.1 channels:  
 
 <video width="640" height="480" controls>
   <source src="../../assets/images/speaker/XU316-英文.mp4" type="video/mp4">
