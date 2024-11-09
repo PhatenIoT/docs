@@ -201,6 +201,8 @@ nav:
     - products/index.md
     - 模组:
       - products/model/index.md
+      - RTL8711DCM:
+        - WB30D-1711DCMV1: products/model/RTL8711.md
       # - RTL8772Gx:
       - RTL8720DF:
         # - products/8720df/index.md
@@ -224,7 +226,9 @@ nav:
       #   - Tasmota-matter模组: products/tasmota/tasmota-matter.md
     - 开发板:
       - products/dev_board/index.md
+      - WB30D-1711DCMV1开发板: products/dev_board/RTL8711.md
       - NodeMcu-8720DFV1开发板: products/8720df/dev_board.md
+
     - 串口板: products/serial_board.md
 
       
@@ -240,6 +244,8 @@ nav:
 
     - 模组: 
       # - dev_doc/modle/modle_index.md
+      - RTL8711DCM:
+        - WB30D-1711DCMV1: dev_doc/modle/dev_RTL8711.md
       - RTL8720DF:
         - W5B03A-1720DFV1: services_support/8720df/W5B03A-1720DFV1_datasheet.md
       - RTL8720CF:
