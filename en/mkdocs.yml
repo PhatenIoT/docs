@@ -225,9 +225,11 @@ nav:
       - ESP8685:
         -  WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
     - Wireless speaker set:
-      - 2.1 Wireless Speaker Wiring Instructions: services_support/audio/2.1audio.md
-      - 5.1 Wireless Speaker Wiring Instructions: services_support/audio/5.1audio.md
-      - 7.1 Wireless Speaker Wiring Instructions: services_support/audio/7.1.2audio.md
+#      - 2.1 Wireless Speaker Wiring Instructions: services_support/audio/2.1audio.md
+#      - 5.1 Wireless Speaker Wiring Instructions: services_support/audio/5.1audio.md
+#      - 7.1 Wireless Speaker Wiring Instructions: services_support/audio/7.1.2audio.md
+      - RTL8711DCM Module design description: services_support/audio/RTL8711model.md
+      - RTL8711DCM Wiring instructions for the demonstration board: services_support/audio/RTL8711dome.md
       - Instruction for Use: services_support/audio/used.md
     # - Development board:
     #   - NodeMcu-8720DFV1 Development board: dev_doc/8720df/dev_board.md
