@@ -14,7 +14,7 @@
 ![图片](../../assets/images/speaker/11-08/model/m-4.PNG)
 
 ### 3. RTL8711DCM 模组硬件线路控制示意图
-     (1) RTL8711DCM 模组（TX）硬件控制图
+#### (1) RTL8711DCM 模组（TX）硬件控制图
 ![图片](../../assets/images/speaker/11-08/model/m-5.png)
 1）DSP 与 RTL8711DCM 模组（TX） 声道 I2S 接线说明
 
@@ -41,6 +41,6 @@
      I2S_MCLK、  I2S_BCLK 、 I2S_LRCLK 、I2S_DATA0、 I2S_DATA1 、I2S_DATA2、I2S_DATA3、
      I2S_EX_LRCLK、I2S_EX_BCLK、I2S_EX_DATA0、 GND 
 
- (2) RTL8711DCM 模组（RX）硬件控制图
+#### (2) RTL8711DCM 模组（RX）硬件控制图
 ![图片](../../assets/images/speaker/11-08/model/m-6.png)
 
