@@ -61,10 +61,44 @@ title: 产品中心
         </div>
     </div>
 </body>
-</html> -->
+</html> 
+
+-   ![](/assets/images/chanpin-tu/插座1.jpg)
+
+    WB30D-1711DCMV1
+
+    提供了一组可配置的 GPIO 口，用于不同外围设备的控制，同时集成了内部存储器，支持简单的应用程序开发，可实现完整的 Wi-Fi 和 BT 5.0 协议功能。
+
+    [点击查看产品详情](../products/dev_board/RTL8711dev_board.md)
+
+-   ![](/assets/images/chanpin-tu/插座1.jpg)
+
+    WB30D-1711DCMV1
+
+    提供了一组可配置的 GPIO 口，用于不同外围设备的控制，同时集成了内部存储器，支持简单的应用程序开发，可实现完整的 Wi-Fi 和 BT 5.0 协议功能。
+
+    [点击查看产品详情](../products/dev_board/RTL8711dev_board.md)
+https://phaten-audio.com/zh/products/hifi_audio/a316_1926v1/
+-->
 
 
 <div class="grid cards" markdown>
+
+-   ![](/assets/images/speaker/11-08/model/8711model.png)
+
+    WB30D-1711DCMV1
+
+    提供了一组可配置的 GPIO 口，用于不同外围设备的控制，同时集成了内部存储器，支持简单的应用程序开发，可实现完整的 Wi-Fi 和 BT 5.0 协议功能。
+
+    [点击查看产品详情](../products/model/RTL8711.md)
+
+-   ![](/assets/images/speaker/11-08/model/A316-product.png)
+
+    A316_1926v1
+
+    ⼀款 USB多路高清音频解码器模组。模组使⽤XMOS的XU316-1024-QF60BC24芯⽚，集成了高精度DC-DC芯片，输出1.8V，0.9V电压给XU316 。模组集成了48.152MHz和49.152MHz有源晶体，满足不同高清音频采用率要求。
+
+    [点击查看产品详情](https://phaten-audio.com/zh/products/hifi_audio/a316_1926v1/)
 
 -   ![](/assets/images/chanpin-tu/插座1.jpg)
 
