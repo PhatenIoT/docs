@@ -226,7 +226,7 @@ nav:
       #   - Tasmota-matter模组: products/tasmota/tasmota-matter.md
     - 开发板:
       - products/dev_board/index.md
-#      - WB30D-1711DCMV1开发板: products/dev_board/RTL8711.md
+      - WB30D-1711DCMV1开发板: products/dev_board/RTL8711dev_board.md
       - NodeMcu-8720DFV1开发板: products/8720df/dev_board.md
 
     - 串口板: products/serial_board.md
