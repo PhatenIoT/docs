@@ -82,7 +82,7 @@ Feiteng Cloud is deeply engaged in the field of | Wi-Fi IOT Module | Wi-Fi IOT S
 
     [Click to view product details](../products/tasmota/tasmota-matter.md)
    
--   ![](/assets/images/8720DF/NodeMcu-8720DFV1_development_board(1).png)
+-   ![](/assets/images/8720DF/8720df开发板.png)
 
     NodeMcu-8720DFV1 Development Board
 
