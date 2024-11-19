@@ -8,7 +8,7 @@ title: Phaten Development Boards
 
     WB30D-1711DCMV1 Development Board
 
-    Development Board** features a rich set of functions and outstanding performance, making it suitable for various Internet of Things (IoT) applications. The module integrates a high-performance MCU, dual-band Wi-Fi, and Bluetooth functionality to meet the communication needs of different devices.
+    Development Board features a rich set of functions and outstanding performance, making it suitable for various Internet of Things (IoT) applications. The module integrates a high-performance MCU, dual-band Wi-Fi, and Bluetooth functionality to meet the communication needs of different devices.
 
     [Click to view product details](../products/dev_board/RTL8711.md)
 

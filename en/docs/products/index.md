@@ -9,11 +9,11 @@ Feiteng Cloud is deeply engaged in the field of | Wi-Fi IOT Module | Wi-Fi IOT S
 
 <div class="grid cards" markdown>
 
--   ![](/assets/images/speaker/11-08/dome/8711开发板.jpg)
+-   ![](../assets/images/speaker/11-08/dome/8711开发板.jpg)
 
-    WB30D-1711DCMV1 Development Board
+    **WB30D-1711DCMV1 Development Board**
 
-    Development Board** features a rich set of functions and outstanding performance, making it suitable for various Internet of Things (IoT) applications. The module integrates a high-performance MCU, dual-band Wi-Fi, and Bluetooth functionality to meet the communication needs of different devices.
+    Development Board features a rich set of functions and outstanding performance, making it suitable for various Internet of Things (IoT) applications. The module integrates a high-performance MCU, dual-band Wi-Fi, and Bluetooth functionality to meet the communication needs of different devices.
 
     [Click to view product details](../products/dev_board/RTL8711.md)
 
