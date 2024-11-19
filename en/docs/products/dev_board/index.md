@@ -12,7 +12,7 @@ title: Phaten Development Boards
 
     [Click to view product details](../products/dev_board/RTL8711.md)
 
--   ![](/assets/images/8720DF/NodeMcu-8720DFV1开发板(1).png)
+-   ![](/assets/images/chanpin-tu/8720df开发板.png)
 
     NodeMcu-8720DFV1 Development Board
 
