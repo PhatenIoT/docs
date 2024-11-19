@@ -3,6 +3,23 @@ title: Phaten Modules
 ---
 
 <div class="grid cards" markdown>
+
+-  ![](/assets/images/speaker/11-08/model/8711model.png)
+
+    **WB30D-1711DCMV1**
+
+    Provides a set of configurable GPIO pins for controlling different peripheral devices, and integrates internal memory to support simple application development. It supports full Wi-Fi and BT 5.0 protocol functionality.
+
+    [Click to view product details](../products/model/RTL8711.md)
+
+-  ![](/assets/images/speaker/11-08/model/A316-product.png)
+
+    **A316_1926v1**
+
+    A USB multi-channel high-definition audio decoder module. The module uses the XMOS XU316-1024-QF60BC24 chip, integrates a high-precision DC-DC chip, and outputs 1.8V and 0.9V voltages to the XU316. The module integrates 48.152 MHz and 49.152 MHz active crystals, meeting the requirements for different high-definition audio adoption rates.
+
+    [Click to view product details](https://phaten-audio.com/zh/products/hifi_audio/a316_1926v1/)
+
 -   ![](/assets/images/chanpin-tu/插座1.jpg)
 
     W5B03A-1720DFV1

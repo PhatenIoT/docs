@@ -188,6 +188,8 @@ nav:
     - products/index.md
     - Module:
       - products/model/index.md
+      - RTL8711DCM:
+        - WB30D-1711DCMV1: products/model/RTL8711.md
       - RTL8720DF:
         - W5B03A-1720DFV1: products/8720df/W5B03A-1720DFV1.md
       - RTL8720CF:
@@ -201,6 +203,7 @@ nav:
 
     - Development board:
       - products/dev_board/index.md
+      - WB30D-1711DCMV1 Devrlopment board: products/dev_board/RTL8711.md
       - NodeMcu-8720DFV1 Development board: products/8720df/dev_board.md
     - Serial board: products/serial_board.md
 
