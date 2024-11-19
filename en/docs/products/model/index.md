@@ -45,7 +45,7 @@ title: Phaten Modules
 
     [Click to view product details](../matter/socket1_5.md)
 
--   ![](/assets/images/chanpin-tu/wb03a.jpg)
+-   ![](/assets/images/chanpin-tu/wb03a.png)
 
     WB03A-8684H2V1
     
