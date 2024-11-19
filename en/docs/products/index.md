@@ -33,9 +33,9 @@ Feiteng Cloud is deeply engaged in the field of | Wi-Fi IOT Module | Wi-Fi IOT S
 
     [Click to view product details](https://phaten-audio.com/zh/products/hifi_audio/a316_1926v1/)
 
--   ![](/assets/images/chanpin-tu/socket1.jpg)
+-   ![](/assets/images/chanpin-tu/wb03a.png)
 
-    W5B03A-1720DFV1
+    WB03A-1720DFV1
 
     Provides a set of configurable GPIO ports for controlling various peripheral devices, and integrates internal memory for simple application development. It supports full Wi-Fi and BT 5.0 protocol functions.
 
