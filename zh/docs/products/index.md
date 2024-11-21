@@ -84,9 +84,9 @@ https://phaten-audio.com/zh/products/hifi_audio/a316_1926v1/
 
 <div class="grid cards" markdown>
 
--   ![](/assets/images/chanpin-tu/8720df开发板.png)
+-   ![](/assets/images/chanpin-tu/8711开发板.png)
 
-    WB30D-1711DCMV1
+    WB30D-1711DCMV1开发板
 
     具有丰富的功能和出色的性能，适用于多种物联网应用场景。该模组集成了高性能的 MCU、双频 WiFi 和蓝牙功能，可满足不同设备的通信需求。
 
