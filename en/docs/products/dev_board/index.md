@@ -10,7 +10,7 @@ title: Phaten Development Boards
 
     Development Board features a rich set of functions and outstanding performance, making it suitable for various Internet of Things (IoT) applications. The module integrates a high-performance MCU, dual-band Wi-Fi, and Bluetooth functionality to meet the communication needs of different devices.
 
-    [Click to view product details](../products/dev_board/RTL8711.md)
+    [Click to view product details](../dev_board/RTL8711.md)
 
 -   ![](/assets/images/chanpin-tu/8720df开发板.png)
 

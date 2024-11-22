@@ -10,7 +10,7 @@ title: Phaten Modules
 
     Provides a set of configurable GPIO pins for controlling different peripheral devices, and integrates internal memory to support simple application development. It supports full Wi-Fi and BT 5.0 protocol functionality.
 
-    [Click to view product details](../products/model/RTL8711.md)
+    [Click to view product details](../model/RTL8711.md)
 
 -  ![](/assets/images/speaker/11-08/model/A316-product.png)
 
