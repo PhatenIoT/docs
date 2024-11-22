@@ -10,7 +10,7 @@ title: 飞腾云 模组
 
     提供了一组可配置的 GPIO 口，用于不同外围设备的控制，同时集成了内部存储器，支持简单的应用程序开发，可实现完整的 Wi-Fi 和 BT 5.0 协议功能。
 
-    [点击查看产品详情](../products/model/RTL8711.md)
+    [点击查看产品详情](../model/RTL8711.md)
 
 -   ![](/assets/images/speaker/11-08/model/A316-product.png)
 

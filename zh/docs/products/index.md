@@ -90,7 +90,7 @@ https://phaten-audio.com/zh/products/hifi_audio/a316_1926v1/
 
     具有丰富的功能和出色的性能，适用于多种物联网应用场景。该模组集成了高性能的 MCU、双频 WiFi 和蓝牙功能，可满足不同设备的通信需求。
 
-    [点击查看产品详情](../products/dev_board/RTL8711.md)
+    [点击查看产品详情](../products/dev_board/RTL8711dev_board.md)
 
 -   ![](/assets/images/speaker/11-08/model/8711model.png)
 
