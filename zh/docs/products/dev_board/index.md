@@ -4,7 +4,7 @@ title: 飞腾云 开发板
 
 <div class="grid cards" markdown>
 
--   ![](/assets/images/chanpin-tu/8711开发板.png)
+-   ![](/assets/images/chanpin-tu/8711开发板.jpg)
 
     WB30D-1711DCMV1开发板
 

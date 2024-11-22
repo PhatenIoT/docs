@@ -84,7 +84,7 @@ https://phaten-audio.com/zh/products/hifi_audio/a316_1926v1/
 
 <div class="grid cards" markdown>
 
--   ![](/assets/images/chanpin-tu/8711开发板.png)
+-   ![](/assets/images/chanpin-tu/8711开发板.jpg)
 
     WB30D-1711DCMV1开发板
 
