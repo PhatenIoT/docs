@@ -32,7 +32,11 @@ ESP - AT 固件以其标准化的 AT 命令接口独树一帜，通过串口通�
 
 ## 四、适用本方案的产品
 [WB02A-8684H2V1](https://phateniot.github.io/zh/products/matter/socket1_5/)
+
 [WB03A-8684H2V1](https://phateniot.github.io/zh/products/matter/WB03A-8684H2V1/)
+
 [WB02B-8684H2V1](https://phateniot.github.io/zh/products/matter/WB02B-8684H2V1/)
+
 [WB02A-8685H4V1](https://phateniot.github.io/zh/products/tasmota/tasmota-matter/)
+
 包括 ESP-C2、C3 系列
