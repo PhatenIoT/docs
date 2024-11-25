@@ -171,6 +171,7 @@ nav:
 
     - IOT透传方案: 
         - solutions/iot_passthrough/index.md
+        - ESP-AT 透传固件方案:solutions/iot_passtrough
         - RTL8720DF Wi-Fi 5.8G数据透传应用于汽车VR方案: solutions/8720df/vr_glasses_solution.md
         - RTL8720CF 通用透传方案: solutions/8720cf/rtl8720cf_solution.md
     
