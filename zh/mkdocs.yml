@@ -282,7 +282,10 @@ nav:
       - RTL8720DF: 
         - download/8720df/index.md
       - RTL8720CF: 
-        - download/8720cf/index.md 
+        - download/8720cf/index.md
+      - ESP-AT:
+        - download/esp-at/index.md
+        - 固件: download/esp-at/firmware.md
       # - 工具和软件下载: 
       #   - download/tools_software/index.md
       # - 规格书: download/8720df/8720df_datasheet.md
