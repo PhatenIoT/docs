@@ -10,7 +10,7 @@ title: 飞腾云 IOT透传 方案
 
     它打破了技术壁垒，让开发者无需深陷底层硬件与通信协议的繁琐泥潭，即可快速搭建具备强大联网功能的物联网设备，极大缩短产品上市周期，助力抢占市场先机。
 
-    [点击查看详情](../solutions/iot_passthrough/esp-AT.md)
+    [点击查看详情](../iot_passthrough/esp-AT.md)
 
 -   ![](/assets/images/fangan-tu/汽车VR.jpg)
 
