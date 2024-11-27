@@ -167,6 +167,7 @@ nav:
         - solutions/speaker/index.md
     - IoT Pass-through Solutions:
         - solutions/iot_passthrough/index.md
+        - ESP-AT Transparent Firmware Solution: solutions/iot_passthrough/esp-AT.md
         - RTL8720DF Wi-Fi 5.8G Data Pass-through Application for Automotive VR Solution: solutions/8720df/vr_glasses_solution.md
         - RTL8720CF General Pass-through Solution: solutions/8720cf/rtl8720cf_solution.md
     - Matter Application Solutions: 
@@ -253,7 +254,10 @@ nav:
       - RTL8720DF: 
         - download/8720df/index.md
       - RTL8720CF: 
-        - download/8720cf/index.md 
+        - download/8720cf/index.md
+      - ESP-AT:
+        - download/esp-at/index.md
+        - firmware: download/esp-at/firmware.md
       # - Tools and Software Downloads: 
       #   - download/tools_software/index.md
       # - Standard Book: download/8720df/8720df_datasheet.md

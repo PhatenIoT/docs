@@ -6,6 +6,14 @@ title: Phaten Application Solutions
 
 <div class="grid cards" markdown>
 
+- ![](../assets/images/fangan-tu/ESP-AT-fangan.png)
+
+    ESP-AT Pass-through Firmware Solution
+    
+    It breaks through technical barriers, allowing developers to quickly build IoT devices with powerful networking capabilities without getting bogged down in complex low-level hardware and communication protocols. This significantly shortens the product time-to-market and helps gain a competitive edge.
+    
+    [Click to view details](../solutions/iot_passthrough/esp-AT.md)
+
 -   ![](/assets/images/fangan-tu/AU316.png)
 
     Wi-Fi 5.8G 7.1.2 Wireless Audio Solution
