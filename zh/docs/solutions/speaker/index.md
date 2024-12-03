@@ -33,6 +33,9 @@ Soundbar与外置子音箱通过无线收发模组（Tx/Rx module）相连。采
 [//]: # (7.1.2方案支持多达10个声道，提供沉浸式环绕音效体验。支持LC3 plus Hi-Rate高品质音频，延迟最低至16ms。通过硬件升级和FEC纠错机制，显著提高抗干扰能力，确保音频传输稳定。)
 
 ![](../../assets/images/speaker/5.1.2%20示意图.png)
+
+## [了解更多](../..//blog/2024/12/04/wi-fi-712家庭影院无线连接向下兼容方案/)
+
 ## 三. 协议对比
 
 ![](../../assets/images/speaker/无线方案对比图.png)
@@ -48,7 +51,13 @@ Soundbar与外置子音箱通过无线收发模组（Tx/Rx module）相连。采
 5. **易于安装和使用**：无线设计减少布线需求，简化安装过程，提升美观度。
 6. **适用多种环境**：5.8GHz无线技术在家庭、办公室、公共场所等环境中稳定运行，满足多种需求。
 
-## [了解更多](../../blog/2024/12/04/wi-fi-712家庭影院无线连接方案向下兼容/)
+
+
+## 五. 适配产品
+
+[WB30D - 1711DCMV1模组](https://phateniot.github.io/zh/products/model/RTL8711/)
+
+[A316多路音频解码器模组](https://phaten-audio.com/zh/products/hifi_audio/a316_1926v1/)
 
 下方视频为 5.1 声道 演示：
 <video width="640" height="480" controls>
