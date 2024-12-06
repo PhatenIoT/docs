@@ -251,6 +251,8 @@ nav:
   - Services & Support:
     - services_support/index.md
     - Download Center:
+      - RTL8711DCM:
+        - download/8711dcm/index.md
       - RTL8720DF: 
         - download/8720df/index.md
       - RTL8720CF: 
