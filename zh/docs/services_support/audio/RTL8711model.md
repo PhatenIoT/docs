@@ -16,7 +16,9 @@
 ### 3. RTL8711DCM 模组硬件线路控制示意图
 
 #### (1) RTL8711DCM 模组（TX）**I2S 硬件控制图**
+
 ![图片](../../assets/images/speaker/11-08/model/m-5.png)
+
 ##### 1）DSP 与 RTL8711DCM 模组（TX） 声道 I2S 接线说明
 ```note
    DSP 作为 Slave 时需要的I2S 信号线: 
@@ -107,9 +109,11 @@
  I2S_MCLK、  I2S_BCLK 、 I2S_LRCLK 、I2S_DATA0、
  I2S_EX_LRCLK、I2S_EX_BCLK、I2S_EX_DATA0、 GND 
 ```
-#### (3) RTL8711DCM 模组（TX）硬件 **uart 控制图**
-![图片](../../assets/images/speaker/11-08/model/m-uart.png)
 
-#### (4) RTL8711DCM 模组（RX）硬件控制图
+[//]: # (#### &#40;3&#41; RTL8711DCM 模组（TX）硬件 **uart 控制图**)
+
+[//]: # (![图片]&#40;../../assets/images/speaker/11-08/model/m-uart.png&#41;)
+
+#### (3) RTL8711DCM 模组（RX）硬件控制图
 ![图片](../../assets/images/speaker/11-08/model/m-6.png)
 
