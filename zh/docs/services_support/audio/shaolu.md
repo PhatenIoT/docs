@@ -2,7 +2,7 @@
 
 ### 准备工作：
 
-烧录工具：[下载链接]()
+烧录工具：[下载链接](../../assets/download/A316/ImageTool.zip)
 
 进入烧录模式： 先按住 download 按键，再按住 chip 按键
 
