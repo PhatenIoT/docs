@@ -235,6 +235,8 @@ nav:
       - RTL8711DCM Module design description: services_support/audio/RTL8711model.md
       - RTL8711DCM Wiring instructions for the demonstration board: services_support/audio/RTL8711dome.md
       - Instruction for Use: services_support/audio/used.md
+      - Instructions for Programming the Development Board: services_support/audio/shaolu.md
+      - Instructions for Programming the Module: services_support/audio/modelshaolu.md
     # - Development board:
     #   - NodeMcu-8720DFV1 Development board: dev_doc/8720df/dev_board.md
 
