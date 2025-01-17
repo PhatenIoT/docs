@@ -6,7 +6,7 @@
 
 ![001.png](../../assets/images/aimic/001.png){width="200" }
 
-!!! warning "注意"
+!!! warning "3、注意"
 
     XLR通道接动圈话筒需要关闭+48V开关以免烧毁话筒。
 
