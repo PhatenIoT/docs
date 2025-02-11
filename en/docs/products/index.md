@@ -33,7 +33,7 @@ Feiteng Cloud is deeply engaged in the field of | Wi-Fi IOT Module | Wi-Fi IOT S
 
     [Click to view product details](https://phaten-audio.com/zh/products/hifi_audio/a316_1926v1/)
 
--   ![](/assets/images/chanpin-tu/wb03a.png)
+-   ![](/assets/images/chanpin-tu/插座1.jpg)
 
     WB03A-1720DFV1
 
