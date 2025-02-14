@@ -262,11 +262,12 @@ nav:
 #        - 2.1 无线音响接线说明: services_support/audio/2.1audio.md
 #        - 5.1 无线音响接线说明: services_support/audio/5.1audio.md
 #        - 7.1 无线音响接线说明: services_support/audio/7.1.2audio.md
-      - 使用说明: services_support/audio/used.md
+      - pc声道设置说明: services_support/audio/used.md
       - RTL8711DCM 模组设计说明: services_support/audio/RTL8711model.md
       - RTL8711DCM 演示板接线说明: services_support/audio/RTL8711dome.md
       - 开发板烧录使用说明: services_support/audio/shaolu.md
       - 模组烧录使用说明: services_support/audio/modelshaolu.md
+      - OTA8730-8711工具使用说明: services_support/audio/OTA升级dongle-8711工具使用说明.md
 
     - AI降噪麦克风:
         - 使用说明: services_support/AImic/aimicUsed.md
