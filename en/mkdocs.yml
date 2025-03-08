@@ -236,9 +236,12 @@ nav:
       - RTL8711DCM Wiring instructions for the demonstration board: services_support/audio/RTL8711dome.md
       - Instruction for Use: services_support/audio/used.md
       - Instructions for Programming the Development Board: services_support/audio/shaolu.md
-#      - Instructions for Programming the Module: services_support/audio/modelshaolu.md
-    # - Development board:
-    #   - NodeMcu-8720DFV1 Development board: dev_doc/8720df/dev_board.md
+      - Module programming instructions: services_support/audio/modelshaolu.md
+#      - OTA8730-8711工具使用说明: services_support/audio/OTA升级dongle-8711工具使用说明.md
+#      - HID工具使用说明: services_support/audio/HID工具使用说明.md
+#      - A316-8711-5.1解码无线音频套装制作说明: dev_doc/hifi_audio/a316_1926v1/A316-8711-5.1解码无线音频套装制作说明.md
+    - AI microphone:
+        - How to use it: services_support/AImic/aimicUsed.md
 
   - Tasmtoa:
     - Tasmota-OTA: download/tasmota-ota/index.md
