@@ -257,6 +257,7 @@ nav:
         -  WB02B-8684H2V1: services_support/matter/WB02B-8684H2V1_datasheet.md
       - ESP8685:
         -  WB02A-8685H4V1: services_support/tasmota/WB02A-8685H4V1_datasheet.md
+      - A316Mini: dev_doc/modle/a316-mini-spec.md
 
     - 无线音响套装:
 #        - 2.1 无线音响接线说明: services_support/audio/2.1audio.md
