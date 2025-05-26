@@ -166,8 +166,9 @@ nav:
   - 应用方案: 
     - solutions/index.md
 
-    - AU316Wi-Fi5.8G 7.1.2无线音响方案:
+    - A316 Wi-Fi 5.8G 应用方案:
         - solutions/speaker/index.md
+        - 标准5.1无线音响应用方案: solutions/应用方案/zhaoyang51.md
 
     - IOT透传方案: 
         - solutions/iot_passthrough/index.md
@@ -245,6 +246,8 @@ nav:
 
     - 模组: 
       # - dev_doc/modle/modle_index.md
+      - RTL8730E:
+        - MW801: dev_doc/modle/8730E-mw801-dev-doc.md
       - RTL8711DCM:
         - WB30D-1711DCMV1: dev_doc/modle/dev_RTL8711.md
       - RTL8720DF:
