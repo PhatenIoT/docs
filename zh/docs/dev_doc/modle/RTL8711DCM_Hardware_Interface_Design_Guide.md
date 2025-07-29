@@ -33,7 +33,7 @@ GPIO控制引脚 调试串口 用户串口 配对按键 LED指示灯 音频输�
 
 ## 1. 硬件接口参考原理图
 
-![RTL8711DCM接口原理图](assets/images/dev_doc/8711hardware_interface_guide/8711_mcu01.PNG)
+![RTL8711DCM接口原理图](/assets/images/dev_doc/8711hardware_interface_guide/8711_mcu01.PNG)
 
 ## 2. 核心功能接口配置
 
@@ -122,7 +122,7 @@ GPIO控制引脚 调试串口 用户串口 配对按键 LED指示灯 音频输�
 
 ### 4.1 音频发送（TX）参考设计
 
-![SOC功放TX参考原理图](assets/images/dev_doc/8711hardware_interface_guide/8711_soc02.png)
+![SOC功放TX参考原理图](/assets/images/dev_doc/8711hardware_interface_guide/8711_soc02.png)
 
 #### 4.1.1 电源管理系统
 
@@ -161,7 +161,7 @@ GPIO控制引脚 调试串口 用户串口 配对按键 LED指示灯 音频输�
 
 ### 4.2 音频接收（RX）参考设计
 
-![SOC功放RX参考原理图](assets/images/dev_doc/8711hardware_interface_guide/8711_soc03.png)
+![SOC功放RX参考原理图](/assets/images/dev_doc/8711hardware_interface_guide/8711_soc03.png)
 
 #### 4.2.1 电源系统配置
 
