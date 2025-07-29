@@ -274,6 +274,7 @@ nav:
       - OTA8730-8711工具使用说明: services_support/audio/OTA升级dongle-8711工具使用说明.md
       - HID工具使用说明: services_support/audio/HID工具使用说明.md
       - A316-8711-5.1解码无线音频套装制作说明: dev_doc/hifi_audio/a316_1926v1/A316-8711-5.1解码无线音频套装制作说明.md
+      - RTL8711DCM 与 MCU 交互参考设计说明: dev_doc/modle/RTL8711DCM_Hardware_Interface_Design_Guide.md
 
     - AI降噪麦克风:
         - 使用说明: services_support/AImic/aimicUsed.md
