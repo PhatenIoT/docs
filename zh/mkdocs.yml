@@ -275,6 +275,7 @@ nav:
       - HID工具使用说明: services_support/audio/HID工具使用说明.md
       - A316-8711-5.1解码无线音频套装制作说明: dev_doc/hifi_audio/a316_1926v1/A316-8711-5.1解码无线音频套装制作说明.md
       - RTL8711DCM 与 MCU 交互参考设计说明: dev_doc/modle/RTL8711DCM_Hardware_Interface_Design_Guide.md
+      - RTL8711DCM 与 SOC 功放一体化设计指南: dev_doc/modle/RTL8711dcm_hardware_soc_interface_guide.md
 
     - AI降噪麦克风:
         - 使用说明: services_support/AImic/aimicUsed.md
