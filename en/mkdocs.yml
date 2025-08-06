@@ -242,6 +242,7 @@ nav:
 #      - A316-8711-5.1解码无线音频套装制作说明: dev_doc/hifi_audio/a316_1926v1/A316-8711-5.1解码无线音频套装制作说明.md
       - RTL8711DCM and MCU Hardware Interface Design Guide: dev_doc/modle/RTL8711DCM_Hardware_Interface_Design_Guide.md
       - RTL8711DCM and SOC Power Amplifier Integration Design Guide: dev_doc/modle/RTL8711dcm_hardware_soc_interface_guide.md
+      - WiFi Audio Common Questions and Answers: faq/technical_faq.md
     - AI microphone:
         - How to use it: services_support/AImic/aimicUsed.md
 
